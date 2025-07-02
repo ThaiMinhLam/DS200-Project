@@ -339,5 +339,102 @@ def main():
         else:
             viewer_placeholder.info("⏳ File không có dữ liệu phù hợp.")
 
+    if "comments_viewer_running" not in st.session_state:
+        st.session_state.comments_viewer_running = False
+
+    col3, col4 = st.columns(2)
+    with col3:
+        if st.button("▶️ Start Comments Viewer"):
+            st.session_state.comments_viewer_running = True
+            st.success("✅ Comments Viewer đã bắt đầu.")
+
+    with col4:
+        if st.button("⏹️ Stop Comments Viewer"):
+            st.session_state.comments_viewer_running = False
+            st.success("✅ Comments Viewer đã dừng.")
+
+    comments_placeholder = st.empty()
+
+    if st.session_state.comments_viewer_running:
+        try:
+            with open(r"F:\Studies\Third_year\Big_data\Final_Code\run_result\crawled_reviews.json", "r", encoding="utf-8") as f:
+                comments_data = json.load(f)
+
+            if isinstance(comments_data, list):
+                places = []
+                domains = []
+                texts = []
+                predicted = []
+
+                for item in comments_data:
+                    places.append(item.get("place_name", ""))
+                    domains.append(item.get("domain", ""))
+                    texts.append(item.get("review_text", ""))
+                    predicted.append(json.dumps(item.get("absa_prediction", []), ensure_ascii=False))
+
+                comments_df = pd.DataFrame({
+                    "Place": places,
+                    "Domain": domains,
+                    "Review Text": texts,
+                    "ABSA Prediction": predicted
+                })
+
+                comments_placeholder.dataframe(comments_df.tail(50), use_container_width=True)
+            else:
+                comments_placeholder.warning("⚠️ Định dạng `crawled_reviews.json` không hợp lệ.")
+
+        except FileNotFoundError:
+            comments_placeholder.info("⏳ Chưa có file `crawled_reviews.json`.")
+
+    # ================== VIEWER ASPECT STATISTICS ==================
+    st.markdown("---")
+    st.header("📈 Viewer Aspect Sentiment Statistics")
+
+    if "summary_viewer_running" not in st.session_state:
+        st.session_state.summary_viewer_running = False
+
+    col5, col6 = st.columns(2)
+    with col5:
+        if st.button("▶️ Start Aspect Stats Viewer"):
+            st.session_state.summary_viewer_running = True
+            st.success("✅ Aspect Stats Viewer đã bắt đầu.")
+
+    with col6:
+        if st.button("⏹️ Stop Aspect Stats Viewer"):
+            st.session_state.summary_viewer_running = False
+            st.success("✅ Aspect Stats Viewer đã dừng.")
+
+    summary_placeholder = st.empty()
+
+    if st.session_state.summary_viewer_running:
+        try:
+            with open(r"F:\Studies\Third_year\Big_data\Final_Code\run_result\summary_statistics.json", "r", encoding="utf-8") as f:
+                summary_data = json.load(f)
+
+            summary_list = []
+            for aspect, senti_counts in summary_data.items():
+                for sentiment, count in senti_counts.items():
+                    summary_list.append({
+                        "Aspect": aspect,
+                        "Sentiment": sentiment,
+                        "Count": count
+                    })
+            summary_df = pd.DataFrame(summary_list)
+
+            if not summary_df.empty:
+                st.subheader("📊 Aspect Sentiment Chart")
+                chart_df = summary_df.pivot_table(index="Aspect", columns="Sentiment", values="Count", fill_value=0)
+                st.bar_chart(chart_df)
+
+                summary_placeholder.dataframe(
+                    summary_df.sort_values(by=["Aspect", "Sentiment"]),
+                    use_container_width=True
+                )
+            else:
+                summary_placeholder.info("⏳ Chưa có dữ liệu thống kê.")
+
+        except FileNotFoundError:
+            summary_placeholder.info("⏳ Chưa có file `summary_statistics.json`.")
+
 if __name__ == "__main__":
     main()

@@ -1,0 +1,75 @@
+[
+  {
+    "place_name": "chợ Đêm Đà Lạt",
+    "domain": "STREETFOODRESTAURANT",
+    "review_text": null,
+    "absa_prediction": []
+  },
+  {
+    "place_name": "chợ Đêm Đà Lạt",
+    "domain": "STREETFOODRESTAURANT",
+    "review_text": null,
+    "absa_prediction": []
+  },
+  {
+    "place_name": "chợ Đêm Đà Lạt",
+    "domain": "STREETFOODRESTAURANT",
+    "review_text": "Cái chợ tôi đi hằng ngày.",
+    "absa_prediction": []
+  },
+  {
+    "place_name": "chợ Đêm Đà Lạt",
+    "domain": "STREETFOODRESTAURANT",
+    "review_text": "Rất bình thường mà đônv",
+    "absa_prediction": []
+  },
+  {
+    "place_name": "chợ Đêm Đà Lạt",
+    "domain": "STREETFOODRESTAURANT",
+    "review_text": null,
+    "absa_prediction": []
+  },
+  {
+    "place_name": "chợ Đêm Đà Lạt",
+    "domain": "STREETFOODRESTAURANT",
+    "review_text": null,
+    "absa_prediction": []
+  },
+  {
+    "place_name": "chợ Đêm Đà Lạt",
+    "domain": "STREETFOODRESTAURANT",
+    "review_text": null,
+    "absa_prediction": []
+  },
+  {
+    "place_name": "chợ Đêm Đà Lạt",
+    "domain": "STREETFOODRESTAURANT",
+    "review_text": null,
+    "absa_prediction": []
+  },
+  {
+    "place_name": "chợ Đêm Đà Lạt",
+    "domain": "STREETFOODRESTAURANT",
+    "review_text": "Đông vui. Điểm trừ là ko có toilet công cộng và đồ ăn hơi mất vệ sinh. Một số người còn chặt chém nữa",
+    "absa_prediction": [
+      {
+        "aspect": "ENVIRONMENT#AMBIENCE",
+        "sentiment": "POSITIVE"
+      },
+      {
+        "aspect": "ENVIRONMENT#CLEANLINESS",
+        "sentiment": "NEGATIVE"
+      },
+      {
+        "aspect": "SERVICE#STAFF",
+        "sentiment": "NEGATIVE"
+      }
+    ]
+  },
+  {
+    "place_name": "chợ Đêm Đà Lạt",
+    "domain": "STREETFOODRESTAURANT",
+    "review_text": null,
+    "absa_prediction": []
+  }
+]

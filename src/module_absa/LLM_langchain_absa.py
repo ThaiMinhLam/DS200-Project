@@ -9,10 +9,52 @@ import sys
 from pathlib import Path
 sys.path.append(str(Path(__file__).resolve().parents[2]))
 from src.config import Config
-os.environ["GOOGLE_API_KEY"] = Config.GOOGLE_API_KEY
+os.environ["GOOGLE_API_KEY"] = Config.GOOGLE_API_KEY2
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
 from langchain_google_genai import ChatGoogleGenerativeAI
+
+ASPECTS_DICT = {
+    "HOTELS": [
+        "HOTEL#LOCATION", "HOTEL#QUALITY", "HOTEL#FACILITIES", "HOTEL#STYLE",
+        "WIFI", "PRICE", "ROOM#QUALITY", "ROOM#STYLE", "ROOM#FACILITIES",
+        "ROOM#SOUND", "ROOM#VIEW", "ROOM#ATMOSPHERE", "ROOM#CLEANLINESS",
+        "SERVICE#STAFF", "SERVICE#CHECKIN"
+    ],
+    "RESTAURANTS": [
+        "LOCATION", "PRICE", "FOOD#QUALITY", "FOOD#VARIETY",
+        "FOOD#PRESENTATION", "FOOD#FRESHNESS", "DRINK#QUALITY",
+        "ENVIRONMENT#CLEANLINESS", "ENVIRONMENT#AMBIENCE",
+        "SERVICE#STAFF", "SERVICE#ORDER"
+    ],
+    "DRINKPLACES": [
+        "LOCATION", "PRICE", "FOOD#QUALITY", "DRINK#QUALITY",
+        "DRINK#VARIETY", "ENVIRONMENT#CLEANLINESS", "ENVIRONMENT#AMBIENCE",
+        "SERVICE#STAFF", "SERVICE#ORDER"
+    ],
+    "STREETFOODRESTAURANT": [
+        "LOCATION", "PRICE", "FOOD#QUALITY", "FOOD#VARIETY",
+        "DRINK#QUALITY", "DRINK#VARIETY", "ENVIRONMENT#CLEANLINESS",
+        "ENVIRONMENT#AMBIENCE", "SERVICE#STAFF", "SERVICE#ORDER"
+    ],
+    "ATTRACTIONS": [
+        "LOCATION", "PRICE", "SERVICE#STAFF", "SERVICE#BOOKING",
+        "ENVIRONMENT#SCENERY", "ENVIRONMENT#ATMOSPHERE",
+        "EXPERIENCE#ACTIVITY"
+    ],
+    "RENTALSERVICES": [
+        "LOCATION", "PRICE", "SERVICE#RENTING", "SERVICE#STAFF",
+        "VEHICLE#QUALITY"
+    ],
+    "TOURS": [
+        "LOCATION", "PRICE", "SERVICE#STAFF", "EXPERIENCE#ACTIVITY",
+        "ENVIRONMENT#SCENERY", "ENVIRONMENT#ATMOSPHERE"
+    ],
+    "CAMPINGS": [
+        "LOCATION#DISTANCE", "LOCATION#ACCESSIBILITY", "SERVICE#STAFF",
+        "ENVIRONMENT#SCENERY", "ENVIRONMENT#WEATHER", "ENVIRONMENT#ATMOSPHERE"
+    ]
+}
 
 class VietnameseNormalizer:
     """
@@ -176,46 +218,47 @@ class VietnameseTextProcessor:
         text = self.normalize_teencodes(text)
         return text
     
-class NERExtractor:
+class ABSAExtractor:
     def __init__(self, llm):
         self.prompt_template = PromptTemplate(
-            input_variables=["text"],
+            input_variables=["text", "domain", "aspects"],
             template="""
-Bạn là công cụ NER, nhiệm vụ của bạn là **trích xuất các cụm danh từ tiếng Việt liên quan đến địa điểm và dịch vụ du lịch ở Thành phố Đà Lạt, Việt Nam** trong đoạn văn dưới đây. Chỉ trích xuất **cụm từ đầy đủ**, không bỏ sót từ mô tả đi kèm, không trích rời lẻ.
-Đoạn văn:
-{text}
+Bạn là công cụ Aspect-Based Sentiment Analysis (ABSA) cho **review tiếng Việt** về dịch vụ trong lĩnh vực **{domain}** tại Đà Lạt, Việt Nam.
+Nhiệm vụ:
+- Xác định các aspect xuất hiện trong review dưới đây và gán sentiment phù hợp.
+- Chỉ sử dụng **danh sách aspect dưới đây**, không tự nghĩ thêm aspect khác.
+- Sentiment chỉ được gán: "POSITIVE", "NEUTRAL", "NEGATIVE".
 
-### Định nghĩa các nhóm:
-- **HOTELS**: Khách sạn, homestay, villa, resort, nhà nghỉ, nơi lưu trú.
-- **RESTAURANTS**: Quán ăn, nhà hàng, tiệm cơm, quán nhậu.
-- **DRINKPLACES**: Quán cà phê, quán trà, quán nước, quán bar, quán pub.
-- **STREETFOODRESTAURANT**: Xe đẩy, gánh hàng rong, tiệm bánh căn, quán vỉa hè.
-- **ATTRACTIONS**: Địa điểm tham quan, điểm check-in, công viên, đồi, thác, hồ, khu du lịch.
-- **RENTALSERVICES**: Dịch vụ cho thuê xe máy, xe đạp, ô tô, lều trại.
-- **TOURS**: Tour du lịch, tour trekking, tour trải nghiệm, tour tham quan.
-- **CAMPINGS**: Địa điểm cắm trại.
+### Danh sách aspect:
+{aspects}
 
 ### Quy định output:
-- Chỉ trả kết quả **dạng JSON array**, mỗi phần tử gồm:
-```json
-{{
-    "text": "cụm từ được trích",
-    "label": "tên nhóm"
-}}
-- Nếu không có phần tử thì trả về rỗng
-                """
-            )
+- Chỉ trả về **dạng list JSON**, mỗi phần tử gồm:
+{{"aspect": "ASPECT_NAME", "sentiment": "POSITIVE/NEUTRAL/NEGATIVE"}}
+- Nếu không có aspect nào thì trả về: []
+
+### Review:
+{text}
+"""
+        )
         self.chain = LLMChain(llm=llm, prompt=self.prompt_template)
 
-    def extract(self, text: str, parse_json: bool = True):
+    def extract(self, text: str, domain: str, aspects_list: list, parse_json: bool = True):
         """
-        text: câu tiếng Việt cần detect NER
-        parse_json: nếu True, tự parse JSON trả về, nếu lỗi trả raw string
+        text: câu review cần gán ABSA
+        domain: tên domain (ví dụ: HOTELS)
+        aspects_list: list các aspect (sẽ convert sang dạng string phù hợp)
+        parse_json: nếu True, tự parse JSON trả về, nếu lỗi thì trả raw string
         """
-        result = self.chain.run(text=text)
-        cleaned_result = clean_result(result)
-        # print(cleaned_result)
-        return cleaned_result
+        aspects_formatted = "\n".join(f"- {aspect}" for aspect in aspects_list)
+
+        result = self.chain.run(
+            text=text,
+            domain=domain,
+            aspects=aspects_formatted
+        )
+        return result
+
     
 @staticmethod
 def clean_result(result):
@@ -231,11 +274,16 @@ def clean_result(result):
         result = "\n".join(lines).strip()
     return result
 
-def ner_extract(text):
+def absa_extract(text, domain, aspects_list):
     llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash-latest", temperature=0)
-    ner_extractor = NERExtractor(llm)
-    result = ner_extractor.extract(text)
-    return(json.loads(result))
+    absa_extractor = ABSAExtractor(llm)
+    result = absa_extractor.extract(text=text, domain=domain, aspects_list=aspects_list)
+    cleaned_result = clean_result(result)
+    return(json.loads(cleaned_result))
     
 if __name__ == "__main__":
-    ner_extract()
+    text = "Phòng sạch, view đẹp, nhân viên vui vẻ, giá hơi cao."
+    domain = "HOTELS"
+    aspects_list = ASPECTS_DICT[domain]
+    result = absa_extract(text, domain, aspects_list)
+    print(result)
