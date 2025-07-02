@@ -69,7 +69,7 @@ def run_consumer_extract_push_kafka(config: Config):
                 full_result["label"][place] = label
                 # Push lên topic mới
                 producer.send(config.KAFKA_TOPIC_COMMENTS, result_payload)
-                # print(f"[SYSTEM] Pushed NER result to {config.KAFKA_TOPIC_COMMENTS}: {result_payload}")
+                print(f"[SYSTEM] Pushed NER result to {config.KAFKA_TOPIC_COMMENTS}: {result_payload}")
 
             with open(r"F:\Studies\Third_year\Big_data\Final_Code\run_result\ner_results.json", "w", encoding="utf-8") as f:
                     json.dump(full_result, f, ensure_ascii=False)

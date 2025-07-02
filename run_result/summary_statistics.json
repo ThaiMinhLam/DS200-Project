@@ -1,0 +1,11 @@
+{
+  "ENVIRONMENT#AMBIENCE": {
+    "POSITIVE": 1
+  },
+  "ENVIRONMENT#CLEANLINESS": {
+    "NEGATIVE": 1
+  },
+  "SERVICE#STAFF": {
+    "NEGATIVE": 1
+  }
+}
