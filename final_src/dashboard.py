@@ -36,8 +36,8 @@ labels_aspect_list = {
         "ENVIRONMENT#CLEANLINESS", "ENVIRONMENT#AMBIENCE", "SERVICE#STAFF", "SERVICE#ORDER"
     ],
     "attraction": [
-        "LOCATION", "PRICE", "SERVICE#STAFF", "SERVICE#BOOKING",
-        "ENVIRONMENT#SCENERY", "ENVIRONMENT#ATMOSPHERE", "EXPERIENCE#ACTIVITY"
+        "LOCATION", "PRICE", "SERVICE#STAFF", "ENVIRONMENT#SCENERY", 
+        "ENVIRONMENT#ATMOSPHERE", "EXPERIENCE#ACTIVITY"
     ],
     "renting": [
         "LOCATION", "PRICE", "SERVICE#RENTING", "SERVICE#STAFF", "VEHICLE#QUALITY"
@@ -143,25 +143,27 @@ def createDF_explode_aspects(inputDF: pd.DataFrame) -> pd.DataFrame:
     for _, row in inputDF.iterrows():
         aspects_dict = ast.literal_eval(row["aspect_result"])
         review = row['text']
+        place = row['place_extracted']
         for aspect, sentiment in aspects_dict.items():
             records.append({
                 "text": review,
-                "aspect_result": aspect,
+                'place_extracted': place,
+                "aspect": aspect,
                 "sentiment": sentiment
             })
     return pd.DataFrame(records)
 
    
 def make_horizontal(aspectsDF: pd.DataFrame) -> None:
-    countDF = aspectsDF.value_counts(["aspect_result", 'sentiment']).reset_index(name='count')
-    countDF["aspect_total"] = countDF.groupby("aspect_result")["count"].transform("sum")
+    countDF = aspectsDF.value_counts(["aspect", 'sentiment']).reset_index(name='count')
+    countDF["aspect_total"] = countDF.groupby("aspect")["count"].transform("sum")
     countDF["percent"] = (countDF["count"] / countDF["aspect_total"] * 100).round(1).astype(str) + '%'
-    countDF = countDF.sort_values(["aspect_result", 'sentiment'])
+    countDF = countDF.sort_values(["aspect", 'sentiment'])
     
     fig = px.bar(
         countDF,
         x="count",
-        y="aspect_result",
+        y="aspect",
         color="sentiment",          # Hue following sentiment
         orientation='h',
         color_discrete_sequence=["#77CC7A", "#EF553B", "#86D0F6"],
@@ -361,13 +363,13 @@ def make_wordcloud(dictWords: dict, N: int) -> None:
     st.pyplot(fig)
     
     
-def make_show_comments(aspectsDF: pd.DataFrame, N: int) -> None:
-    groupedDF = aspectsDF.groupby(["aspect_result", 'sentiment'])['text'].apply(list).reset_index(name='reviews')
+def make_show_comments_from_places(aspectsDF: pd.DataFrame, N_places: int, N_comments: int) -> None:
+    groupedDF = aspectsDF.groupby(["place_extracted", "aspect", 'sentiment'])['text'].apply(list).reset_index(name='reviews')
     
     with st.form("filter_form"):
         col = st.columns(2)
         with col[0]:
-            aspect_options = groupedDF["aspect_result"].unique()
+            aspect_options = groupedDF["aspect"].unique()
             st.markdown("<div style='font-size:20px; font-weight:600; color:black;'>🎯 Select Aspect</div>", unsafe_allow_html=True)
             selected_aspect = st.selectbox("", aspect_options)
         
@@ -376,17 +378,24 @@ def make_show_comments(aspectsDF: pd.DataFrame, N: int) -> None:
             st.markdown("<div style='font-size:20px; font-weight:600; color:black;'>💬 Select Sentiment</div>", unsafe_allow_html=True)
             selected_sentiment = st.selectbox("", sentiment_options)
 
+        st.markdown(f"<h3 style='color:black'>📍 Top Places Related to {selected_aspect}#{selected_sentiment}</h3>", unsafe_allow_html=True)
         submit = st.form_submit_button("✅ Apply Filter")
     
         if submit:
-            filtered_row = groupedDF[(groupedDF["aspect_result"] == selected_aspect) & (groupedDF['sentiment'] == selected_sentiment)]
-            if not filtered_row.empty:
-                reviews_list = filtered_row.iloc[0]['reviews']
-                random_reviews = random.sample(reviews_list, min(5, len(reviews_list)))
+            filteredDF  = groupedDF[(groupedDF["aspect"] == selected_aspect) & (groupedDF['sentiment'] == selected_sentiment)]
+            filteredDF['review_count'] = filteredDF['reviews'].apply(len)
+            top_placesDF = filteredDF.sort_values(by='review_count', ascending=False).head(N_places).reset_index(drop=True)
+            
+            if not top_placesDF.empty:
+                for idx, row in top_placesDF.iterrows():
+                    assert row['sentiment'] == selected_sentiment
+                    place = row['place_extracted']
+                    reviews_list = list(set(row['reviews']))
+                    random_reviews = random.sample(reviews_list, min(N_comments, len(reviews_list)))
                 
-                st.markdown(f"<h3 style='color:black'>Random Comments</h3>", unsafe_allow_html=True)
-                for idx, comment in enumerate(random_reviews, 1):
-                    st.markdown(f"<div style='font-size:20px; font-weight:500;'>👉 {comment}</div>", unsafe_allow_html=True)
+                    st.markdown(f"<h3 style='color:black'>{idx+1}. {place.title()}</h3>", unsafe_allow_html=True)
+                    for i, comment in enumerate(random_reviews, 1):
+                        st.markdown(f"<div style='font-size:20px; font-weight:500;'>👉 {comment}</div>", unsafe_allow_html=True)
             else:
                 st.warning("Không tìm thấy bình luận phù hợp.")
 
@@ -459,7 +468,7 @@ def main():
     make_horizontal(aspectsDF)
     make_wordcloud(dictWords, 100)
     make_show_places(filtered_df, 5)
-    make_show_comments(aspectsDF, 5)
+    make_show_comments_from_places(aspectsDF, 5, 5)
 
 if __name__ == "__main__":
     main()
