@@ -1,0 +1,14 @@
+pytz
+requests
+selenium-stealth
+bs4
+undetected_chromedriver
+selenium-wire
+blinker==1.5
+tiktoken
+SentencePiece
+icecream
+py_vncorenlp
+scikit-learn
+pyspark
+wordcloud
