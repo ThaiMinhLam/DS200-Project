@@ -1,0 +1,1 @@
+{'hotel': 2306, 'cafe': 641, 'eatery': 810, 'attraction': 456, 'tour_renting': 115, 'restaurant': 525, 'camping': 44}

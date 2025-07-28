@@ -1,0 +1,24 @@
+Attractions:
+python crawler_traveloka.py --place "zoodoo-dalat-tickets-2001455035254" --path_data "./attractions/attraction_DaLat.json" --path_names "./attractions/ListCrawledAttraction.json" --folder_images "./attractions/images"
+
+ID-place:
+    robin-hill-cable-car-tickets-2001021451288
+    datanla-1500-meter-zipline-in-da-lat-5889503731796
+    datanla-high-rope-course-and-zipline-in-da-lat-2001020533634
+    fresh-garden-da-lat-tickets-4617322222677
+    nobi-town-da-lat-tickets-7358390862984
+    fairytale-land-and-vinh-tien-wine-cellar-ticket-3842397312836
+    euro-garden-da-lat-tickets-7189678890025
+    light-garden-tickets-lumiere-dalat-2001271397959
+    zoodoo-dalat-tickets-2001455035254
+
+Hotels:
+python crawler_traveloka.py --place "10010169.Đà%20Lạt" --path_data "./hotels/hotel_DaLat.json" --path_names "./hotels/ListCrawledHotel.json" --folder_images "./hotels/images"
+
+
+Training model:
+python train.py --domain "DRINKPLACES" --path_dataset "./annotated_labels/list_aspects_drinkplaces.csv" --model_name "vinai/phobert-base" --batch_size 128 --num_epochs 3 --device "cuda"
+
+
+Labeling NER dataset:
+python ./annotated_labels/annotate_ner.py --path_file "./annotated_labels/list_aspects_tours.csv" --output_file "./annotated_labels/final_tours.csv"
