@@ -1,0 +1,2768 @@
+#1
+Tôi dùng xe thuê từ cho thuê xe máy - tài đà lạt để đi quanh thành phố. xe tốt, phục vụ tận tình..
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#2
+Tôi đã đến thuê xe 29 chỗ ở đà lạt, lần nào đến đà lạt công tác cũng thuê xe ở đây. uy tín lắm mọi người ạ.
+{PRICE, neutral}, {VEHICLE#QUALITY, neutral}
+
+#3
+Về cho thuê xe o to, xe máy (công ty tnhh sao vàng tour đà lạt), tôi muốn nói rằng đến đà lạt bao nhiêu lần vẫn thích. được ngắm cảnh đẹp, được mấy bạn bên sao vàng tour hướng dẫn nhiệt tình, dẫn đi ăn ngon và còn có ảnh đẹp để phe nữa,hihi. tuyệt. sẽ trở lại nhiều lần nữa và vẫn sẽ chọn sao vàng tour thôi..
+{SERVICE#STAFF, positive}
+
+#4
+thuê xe máy đà lạt văn phú ( dalat motorbike rental ) làm mình mình đặt xe online, vừa tới khách sạn là có xe giao tận nơi. không mất công tìm kiếm, tiết kiệm thời gian. xe ngon, dịch vụ tốt, rất đáng để trải nghiệm!
+{PRICE, neutral}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#5
+Tôi được giới thiệu thuê xe tại cho thuê xe máy - tài đà lạt. dịch vụ rất tốt , anh chủ là thợ sửa xe nên chăm sóc bảo dưỡng xe rất kĩ . mình đi cảm thấy an toàn.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#6
+Lần ghé thuê xe 16 chỗ du lịch đà lạt - thịnh phú vừa rồi, mình cảm nhận rất thích dịch vụ này.
+{SERVICE#STAFF, neutral}
+
+#7
+dịch vụ cho thuê xe máy giá rẻ tri ân đã cho mình trải nghiệm xe đẹp khoẻ, cho thuê nhanh gọn rẻ không kì kèo tăng giá giao tận nơi
+{PRICE, neutral}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#8
+Khi ghé qua thuê xe 7 chỗ đà lạt holiday, mình nhận ra lái xe thân thiện, nhiệt tình, chụp hình đẹp. sẽ ủng hộ lần sau..
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#9
+Trong lần ghé cho thuê xe rất xịn, mình cảm thấy giá cả phải chăng, ông chủ vui tính, sẽ thuê tiếp vào dịp sau.
+{PRICE, positive}, {SERVICE#RENTING, neutral}
+
+#10
+Trong chuyến tham quan mô tô 49 - cho thuê xe máy đà lạt, mình cảm nhận xe mạnh,đẹp, chủ xe dễ thương..
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#11
+xe mới và mạnh lắm nha lần nào lên đà lạt mình cũng thuê xe ở đây hết, anh chủ rất là nhiệt tình và friendly có đủ loại xe luôn nha. Đó chính là thuê xe máy đà lạt - an dân (scooter rental service - motorbike for rent).
+{PRICE, neutral}, {SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#12
+hết xăng trong đêm lay hoay dắt bộ không tìm được cây xăng, chỉ cần gọi điện thoại và họ đã gửi ngay một người đến nơi để hỗ trợ, dịch vụ rất tốt.. Chỗ mình ghé là cho thuê xe rất xịn.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#13
+Về cho thuê xe máy đà lạt - hoàng thiện, mình chỉ muốn nói rằng chỗ này làm ăn rất kì cục , lúc thuê xe thì bình thường đến khi trả xe thì thay vì người ta check xe toàn bộ trước nhưng không nhân viên biết xe bị hư chỗ nào nên tiến tới chỗ bị hư trước kiểm tra và bắt bồi thường . mình thuê xe như nào mình trả như vậy , nhiều khi người thuê trước làm hư rồi bắt tụi mình đền bù trong khi không va đập hay tai nạn nào . mình rất recomment mọi người nên quay video lúc nhận xe thật kỹ trước khi chạy tránh trường hợp bị đền bù tiền như mình trong khi mình không va chạm gì . không có lần nào ủng hộ chỗ này nữa . quá thất vọng.Khách quan mà nói, cho thuê xe máy đà lạt - hoàng thiện là nơi chỗ này làm ăn rất kì cục , lúc thuê xe thì bình thường đến khi trả xe thì thay vì người ta check xe toàn bộ trước nhưng không nhân viên biết xe bị hư chỗ nào nên tiến tới chỗ bị hư trước kiểm tra và bắt bồi thường . mình thuê xe như nào mình trả như vậy , nhiều khi người thuê trước làm hư rồi bắt tụi mình đền bù trong khi không va đập hay tai nạn nào . mình rất recomment mọi người nên quay video lúc nhận xe thật kỹ trước khi chạy tránh trường hợp bị đền bù tiền như mình trong khi mình không va chạm gì . không có lần nào ủng hộ chỗ này nữa . quá thất vọng.
+{PRICE, neutral}, {SERVICE#STAFF, neutral}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, neutral}
+
+#14
+Sau khi đến Đà Lạt, tôi thuê xe từ dv cho thuê xe máy qt đà lạt. dịch vụ tốt, anh chị chủ nhiệt tình, xe mới nha! rcm chọn chỗ nầy nha quý zdị!!.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#15
+anh chủ thân thiện mặc dù mình sớm trong đêm nhưng gọi anh chủ vẫn vui vẻ hỗ trợ hết mình 10 điểm. Một trải nghiệm khó quên tại lê la đà lạt - cho thuê xe máy pg1.
+{SERVICE#STAFF, positive}
+
+#16
+Trong chuyến đi đến thuê xe máy đà lạt thảo vy, mình thấy mình gọi điện đặt xe ở đây người sẽ có người tới chở bạn đến tận nơi lấy xe vì mình đi nhiều người. mình thuê xe vision đi rất ok nên mình recommend chỗ này cho bạn nào muốn thuê xe trên đà lạt. còn cách phục vụ thì anh chủ ở đây rất nhiệt tình và dễ thương luôn đó.
+{PRICE, neutral}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, neutral}, {SERVICE#STAFF, positive}
+
+#17
+nói chung là không còn như quảng cáo nữa bây giờ không còn chuyện giao tận nơi lấy tận chổ nữa đâu. yêu cầu lấy xe thì nói chổ đấy không có hổ trợ lấy này kia trong khi có 4km mọi người nên căn nhấc trước khi chọn nha. Địa điểm mình muốn nhắc đến là cho thuê xe máy sang thu.
+{VEHICLE#QUALITY, neutral}
+
+#18
+Khi nhắc đến motobike for rent, điều tôi muốn nói là xe máy tốt giá tốt dịch vụ khách hàng tuyệt vời rất khuyến khích công ty này cho bất kỳ ai sau khi mua xe máy xe đạp ở đà lạt!!.
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#19
+Ghé thăm viet motorcycle hotel motorbikes rental pg-1, mình thấy xe chạy ngon ác, anh chủ tận tình, nếu có dịp quay lại đà lạt sẽ ủng hộ
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#20
+Lần ghé thuê xe 7 chỗ đà lạt holiday gần đây, mình thấy xe mới , sạch sẽ , tài xê nhiệt tình , chu đáo , vui vẻ.. lần sau lên chắc chắn sẽ thuê xe bên mình.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}, {PRICE, neutral}
+
+#21
+các bạn cho thuê xe dễ thương, dễ chịu, đem xe đến tận nơi, nhưng số hotline khó gọi, thường xuyên bận, mình thuê xe chiếc đầu máy yếu liên hệ gọi bạn hỗ trợ đổi xe ngay, còn giúp hút xăng từ xe cũ qua, giá cho thuê khá rẻ, ngày trong tuần 100k ngày, cuối tuần 140k ngày. Và nơi mình nói đến chính là cho thuê xe rất xịn.
+{PRICE, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, negative}
+
+#22
+Một vài chia sẻ về thuê xe máy đà lạt văn phú ( dalat motorbike rental ). xe mới, chạy êm. mình thuê ở văn phú đà lạt 2 ngày, được hỗ trợ tận tình, giao xe đúng giờ tận nơi. lần sau ghé lại chắc chắn thuê tiếp!.
+{VEHICLE#QUALITY, positive}, {SERVICE#RENTING, positive}
+
+#23
+cho thuê xe máy giá rẻ đà lạt bike khiến mình nhận ra đáng đồng tiền bát gạo.m.n nên đến để tham quan.dâu đang có trái nhiều
+{PRICE, neutral}, {SERVICE#RENTING, neutral}
+
+#24
+thủ tục thuê xe cực kỳ nhanh gọn, chỉ cần đưa ccd là có thể lấy xe đi liền, không cần đặt cọc phức tạp như chỗ khác.. Mình cảm nhận được tại thuê xe máy đà lạt kim thành.
+{PRICE, neutral}, {SERVICE#RENTING, negative}, {VEHICLE#QUALITY, neutral}
+
+#25
+mình có lên đà lạt du lịch vài ngày và trong quá trình tìm kiếm xe để thuê mình tìm thấy được địa điểm thuê xe máy đà lạt moto a3.go này. mình cảm thấy dịch vụ ở đây khá là tốt và anh chủ cũng rất dễ thương nên tặng cho anh 4 sao. hy vọng thuê xe máy đà lạt moto a3.go sẽ ngày càng phát triển và tốt hơn nữa.. Đây là điều mình thấy tại thuê xe máy đà lạt - moto a3.go.
+{PRICE, neutral}, {VEHICLE#QUALITY, neutral}, {SERVICE#STAFF, positive}
+
+#26
+Ở thuê xe máy đà lạt kim thành, mình đã trải nghiệm anh chủ dễ thương xe chạy êm mượt
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#27
+chất lượng dịch vụ rất tốt mọi người nên thử trải nghiệm. Trong lần mình ghé motobike for rent.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#28
+Sau khi nghỉ ở cho thuê xe rất xịn, mình thấy xe chạy ok
+{VEHICLE#QUALITY, neutral}
+
+#29
+dịch vụ hoàn hảo, cảm ơn hai và nhóm của anh ấy. Nơi đó là thuê xe máy đà lạt anh hải.
+{SERVICE#STAFF, positive}
+
+#30
+Sau khi trải nghiệm tại cho thuê xe máy đà lạt-mr nguyên, mình lái qua sương mù sáng sớm, đèn pha sáng mạnh, phản quang tốt, an toàn cho người lái mới như mình.
+{VEHICLE#QUALITY, positive}
+
+#31
+Phải nói thuê xe máy minh trung khiến mình êm, khoẻ, đẹp, mới
+{VEHICLE#QUALITY, positive}
+
+#32
+Ở thuê xe máy đà lạt thảo vy thấy nơi thuê xe máy tốt nhất đà lạt. nó nằm ở một khu vực ít người biết đến của thị trấn nên không có nhiều người biết về nó, và điều này rất có lợi cho bạn vì tất cả những chuyến đi thú vị ở đó đều ở trong tình trạng gần như nguyên sơ. tôi đã thuê một chiếc air blade 2014 hoạt động tốt như chiếc tôi có ở nhà. điểm cộng nữa là anh chủ siêu đẹp và thân thiện. sẽ thuê lại.
+{PRICE, positive}, {VEHICLE#QUALITY, positive}, {LOCATION, positive}, {SERVICE#STAFF, positive}
+
+#33
+Tôi nghe nhiều người nhắc đến dalat motorbike rental & easyrider tour, nên tôi đã trải nghiệm thử. một trong những tiệm hiếm hoi không chặt chém khách ngày tết ở dalat. cho 1 ngàn sao nhưng gg chỉ tối đa 5 nên phải chấp nhận. one of the best motor rental shops in dalat..
+{PRICE, neutral}, {VEHICLE#QUALITY, neutral}
+
+#34
+Trong buổi ghé qua cho thuê xe máy đà lạt - go happy, mình thấy dịch vụ chất lượng. đáng trải nghiệm!.
+{SERVICE#STAFF, neutral}, {VEHICLE#QUALITY, neutral}
+
+#35
+Khi đến cho thuê xe máy phong hoa huệ, cảm nhận của mình là thái độ với khách hàng không chịu phổ biến rõ thời gian để khách trả xe cãi cùn nói chuyện không lọt câu nào.
+{SERVICE#STAFF, negative}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, neutral}
+
+#36
+Cảm nhận riêng của mình về motobike for rent là chú cho thuê xe rất nhiệt tình, thân thiện, có nhiều sự lựa chọn xe cho mọi người, chắc chắn sẽ quay lại nhé.
+{PRICE, neutral}, {SERVICE#STAFF, positive}, {VEHICLE#QUALITY, neutral}
+
+#37
+Đến thuê xe máy đà lạt - moto a3.go và minh thấy nhóm mình được dịp lên chơi lễ hội hoa 20 23 12, nhóm có thuê xe máy dà lạt moto a3.go tại điểm dịch vụ rất tốt chuẩn bị sẵn găng tay và áo mưa, giá chỉ có 150k n, nhân viên phục vụ rất nhiệt tình, tụi mình nhất định ủng hộ tiếp, cảm ơn dịch vụ. điểm ấn tượng nữa các bạn nhân viên còn hướng điểm đỗ xăng gần cho mình, chỉ chỗ tránh các chốt giao thông dặn đi cẩn thận rất chu đáo.
+{PRICE, neutral}, {VEHICLE#QUALITY, neutral}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {LOCATION, positive}
+
+#38
+dv cho thuê xe máy qt đà lạt là nơi mình cảm nhận xe ổn định sạch sẽ. ac chủ hiền dễ thương. hẹn gặp lại chuyến đi lần tơi.
+{VEHICLE#QUALITY, positive}
+
+#39
+Đến cho thuê xe máy - tài đà lạt, mình trải nghiệm xe tốt , đi an toàn , anh chủ dễ thương
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#40
+Và đây là trải nghiệm của mình tại dịch vụ cho thuê xe máy giá rẻ tri ân: địa chỉ đáng tin cậy cho các bạn có nhu cầu thuê xe máy. thuê 02 chiếc vision chinh chiến đà lạt 2.5 ngày, xe chạy êm, thắng, kính ổn áp, vượt dốc vô tư chú chủ xe nhiệt tình giao và trả xe tận homestay..
+{PRICE, neutral}, {VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, neutral}
+
+#41
+Xét về đà lạt - tiệm xe nhà nu, điều tôi nhận thấy là xe dễ thương.
+{VEHICLE#QUALITY, neutral}
+
+#42
+Sau khi nghỉ ở lê la đà lạt - cho thuê xe máy pg1, mình thấy những chiếc xe đạp rất tốt và giá cả hợp lý. cảm ơn !
+{PRICE, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#43
+biết tới cửa hàng qua kênh tiktok review, gọi điện dù sáng sớm anh cũng mang xe tới. mình thuê ab thì cũng rất bất ngờ khi xe là đời rất mới, xe cũng chạy rất ngon, đổ xăng 100k mà chạy 3 ngày từ quanh phố cho tới tà nung, cầu đất, dalanta. xe mới, chạy cảm giác rất cứng cáp an toàn, giá thì siêu mềm: 100k ngày. lên google review thì thấy có 1 review nên phải tức tốc viết cho anh chị chủ. vote 5 sao quá xứng đáng. Đây là cảm nhận của mình khi ghé cho thuê xe máy đà lạt - hoàng thiện.
+{VEHICLE#QUALITY, positive}, {PRICE, positive}, {SERVICE#RENTING, neutral}, {SERVICE#STAFF, neutral}
+
+#44
+những người rất đáng yêu để thuê từ. họ thậm chí còn thuê xe đạp khi những người khác đóng cửa để nghỉ lễ, điều đó thật tử tế. thuê xe đạp hợp lý và chúng tôi đã làm tốt trong hai ngày. giá cả cũng hợp lý ở mức 130đ cho số sàn, 160đ cho số tự động.. Mình có dịp trải nghiệm tại cho thuê xe máy đà lạt-mr nguyên.
+{PRICE, positive}, {VEHICLE#QUALITY, positive}, {SERVICE#RENTING, neutral}
+
+#45
+Sau khi trải nghiệm dịch vụ ở thuê xe máy đà lạt - an dân (scooter rental service - motorbike for rent), mình nhận thấy cho thuê xe tay ga tốt nhất tôi đã từng đến cho đến nay. nhân viên thực sự tốt, giá tốt và xe tay ga hiện đại..
+{PRICE, neutral}, {VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}
+
+#46
+Địa điểm tôi thuê xe là thuê xe máy bích hà đà lạt. gia đình tuyệt vời, cho thuê với giá cả và chất lượng tốt, họ có những chiếc xe đạp rất mới và được cập nhật. tôi thực sự khuyên bạn nên sử dụng..
+{PRICE, neutral}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#47
+là người nước ngoài, xin vui lòng không thuê xe đạp từ nơi này vì họ yêu cầu hộ chiếu để đặt cọc. hãy nhớ rằng, hộ chiếu là giấy tờ tuỳ thân của bạn khi bạn ở nước ngoài, nếu không có hộ chiếu thì về cơ bản bạn là người nước ngoài. nơi này là một lá cờ đỏ. xin đừng ủng hộ họ. trả tiền đặt cọc thay vì xử lý hộ chiếu của bạn.. Chỗ mình ghé là thuê xe máy đà lạt minh khang.
+{PRICE, neutral}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, neutral}
+
+#48
+Ở motobike for rent, bạn sẽ thấy rằng xe tốt. hỗ trợ hết mình. rất tốt bụng.
+{VEHICLE#QUALITY, positive}
+
+#49
+xe mới, bao xịn, giao xe nhận xe tận nơi. anh chủ nhiệt tình luôn hỗ trợ khi gặp trục trặc chỉ cần gọi gửi vị trí là tới ngay luôn. siêu đáng yêu. Mình có dịp trải nghiệm tại cho thuê xe máy lê nguyên..
+{SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}, {LOCATION, positive}, {SERVICE#STAFF, positive}
+
+#50
+xe ok, dịch vụ tốt, nhiệt tình. Đó là cảm nhận của mình khi ghé hà cho thuê xe.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#51
+Cảm nhận cá nhân của mình về cho thuê xe máy đà lạt - hoàng thiện: làm rất ok, anh chủ vui tính.
+{SERVICE#STAFF, positive}
+
+#52
+Sau khi trải nghiệm ở xe dịch vụ đà lạt, mình thấy mình ở pure house 4 ngày rất xứng đáng, phòng rộng, đẹp, sạch sẽ, ốp gỗ vừa kiểu mộc giống mấy homestay nhưng nội thất, nhà vệ sinh xịn xò đúng chuẩn khách sạn. phòng view xuống đồi rất đẹp. các bạn nhân viên hiền lành, thân thiện, có khu cafe chung, đồ uống trà cafe miễn phí kiểu co working space rất trẻ trung. tuy ở gần trung tâm nhưng xung quanh là rừng thông rất chill. highly recommend các bạn nên ghé ở, nhất là gia đình có con nhỏ cần chỗ sạch đẹp tiện nghi mà vẫn đậm chất đà lạt
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, neutral}, {LOCATION, positive}
+
+#53
+Trải nghiệm của mình tại thuê xe máy đà lạt - an dân (scooter rental service - motorbike for rent) là anh chủ vui tính, nhiệt tình thân thiện. xe mới toanh chạy rất đã luôn, lần sau ghé sẽ chắc chắc quay lại.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#54
+Sau khi trải nghiệm dịch vụ ở cho thuê xe máy lê nguyên., mình nhận thấy giá vừa phải 150k ngày mà anh chủ nhiệt tình, có thể đưa xe tận nơi cũng như trả xe bất kì đâu nội thành trước 6pm đều được như mình hôm về là lái đến nhà xe rồi gọi anh đến lấy. mình thuê được chiếc pg 1 này chạy khá êm, ngoại hình mới, sạch sẽ..
+{PRICE, neutral}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#55
+Chuyến đi thuê xe máy đà lạt anh hải khiến mình thấy rất uy tín luôn nha mọi người. tiệm giao xe tới đúng giờ hẹn, thủ tục thuê xe đơn giản, có cho mượn 2 mũ bảo hiểm miễn phí, giá thuê xe số 100k ngày, xe chạy tốt. anh chủ thân thiện, nhiệt tình
+{PRICE, neutral}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#56
+Trong lần ghé cho thuê xe máy đà lat(anh dũng), mình thấy xe tốt, có hỗ trợ đưa ra bến xe.
+{VEHICLE#QUALITY, positive}
+
+#57
+Khi mình tới dịch vụ cho thuê xe máy giá rẻ tri ân, mình thấy thuê xe ở đây giá rẻ, xe chất lượng tốt, chủ nhà thoải mái, thời gian đi tới đâu tính tiền tới đó. đi xe ở tri ân rất hài lòng!.
+{PRICE, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#58
+chất lượng tốt. Mình có cơ hội trải nghiệm tại dv cho thuê xe máy qt đà lạt.
+{VEHICLE#QUALITY, positive}
+
+#59
+Khi mình đến dv cho thuê xe máy qt đà lạt, mình thấy anh chị cho thuê xe dễ thương tận tình , xe đời mới đẹp
+{PRICE, neutral}, {SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#60
+xe đẹp, mới. nhân viên giao xe nhiệt tình, vui vẻ. sẽ ủng hộ nhiều lần nữa.. Đó là ấn tượng của mình về thuê xe tự lái giá rẻ đà lạt.
+{VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, neutral}
+
+#61
+Chuyến đi tới motobike for rent cho mình cảm giác dịch vụ tốt, xe chạy ok, nhiều dòng xe
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#62
+Lúc ở dv cho thuê xe máy qt đà lạt, mình thấy xe mới , mạnh và anh chị chủ rất dễ thương , lần nào đến đl mình đều thuê ở đây . 10 điểm 10 sao vì dịch vụ
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#63
+Có thể nói, thuê xe máy đà lạt văn phú ( dalat motorbike rental ) là nơi xe yếu đi 1 người lên dốc không được..
+{VEHICLE#QUALITY, neutral}
+
+#64
+cho thuê xe máy đà lạt - go happy để lại cho mình trải nghiệm mình từng đi tour bên này. xe mới khang trang. nhân viên hướng dẫn nhiệt tình, tư vấn cho mình các quán ăn ngon rẻ ở đà lạt.
+{VEHICLE#QUALITY, positive}, {PRICE, neutral}, {SERVICE#STAFF, positive}
+
+#65
+Sau khi check-in tại motorbike dalat, mình chủ tốt bụng, xe máy tốt, giá tốt. chúng tôi đã có một thời gian tuyệt vời. cảm ơn bạn một lần nữa
+{SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#66
+Chuyến đi cho thuê xe máy - tài đà lạt khiến mình thấy xe đẹp mà còn đi kèm dịch vu đưa đón sân bay quá tốt
+{VEHICLE#QUALITY, positive}
+
+#67
+Trải nghiệm tại motobike for rent làm mình thấy xe đạp rất tốt và một anh chàng rất tốt!
+{VEHICLE#QUALITY, positive}
+
+#68
+Về thuê xe máy đà lạt anh hải, mình có vài điều muốn nói: tôi khuyên bạn nên! đúng chủ, xe tốt, giá đẹp
+{SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#69
+mình chia sẻ điểm thuê xe máy đà lạt ngày tết, mùng 1 tết gia đình lên đà lạt chơi vô tình seach kiểm tra thấy điểm thuê xe được nhiều đánh giá, thuê thử ai ngờ quá bất ngờ khi điểm thuê xe chuẩn bị luôn găng tay quá đã mà còn được nhân viên hướng dẫn vui vẻ nhiệt tình, gia đình quyết định sau này chọn điểm này thuê luôn khi đi du lịch khỏi lăn tăng.. Nơi mình muốn chia sẻ là thuê xe máy đà lạt - moto a3.go.
+{PRICE, neutral}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, neutral}
+
+#70
+Mình vừa có dịp ghé thuê xe máy giá rẻ duy my, và đây là cảm nhận: địa điểm cho thuê xe máy uy tín dễ thương nhất đà lạt.
+{PRICE, neutral}, {VEHICLE#QUALITY, neutral}
+
+#71
+dv cho thuê xe máy qt đà lạt đem lại trải nghiệm xe ở đây đẹp lắm nha mọi người mới tinh luôn nha! ac chủ dễ thương lắm. giao xe miễn phí tận nơi. 10 sao về chất lượng và dc.
+{VEHICLE#QUALITY, positive}, {SERVICE#RENTING, positive}
+
+#72
+Trải nghiệm tại bơ motobikes, mình thấy cho thuê xe tốt, giá cả hợp lý, dịch vụ tuyệt vời. thuê xe người thì lốp sẽ được bơm căng và kiểm tra trước. so với những chiếc xe máy mình thuê ở mũi né trước đây thì chiếc này có giá hợp lý, được bảo dưỡng tốt và không tốn xăng nên lái xe an toàn hơn..
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#73
+Một góc nhỏ tại cho thuê xe rất xịn xe mới rất xịn, nhân viên nhiệt tình giao xe tận nơi từ sáng sớm rất xịn, giá cũng rất xịn.
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#74
+Về tổng thể, cho thuê xe rất xịn mang lại cảm giác mình mướn xe số 3.5 ngày 350k. ngày đầu xe có vấn đề nên được đổi xe khác thoải mái. mặt bằng xe nhìn khá mới và nhiều mẫu mã. sẽ ủng hộ lần tiếp theo.
+{PRICE, neutral}, {VEHICLE#QUALITY, positive}
+
+#75
+xe tốt, đời mới. nhân viên lịch sự thân thiện và rất nhiệt tình. sẽ quay lại và trải nghiệm dịch vụ tại đây. Mình ghi nhận điều này tại pi motorbike rental.
+{VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#76
+Cảm giác ở cho thuê xe máy đà lạt-mr nguyên là thông tin liên hệ được cập nhật đầy đủ trên fanpage, mình dễ dàng đặt xe qua tin nhắn mà không cần gọi điện.
+{PRICE, neutral}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, neutral}
+
+#77
+dịch vụ tốt,nhanh,nhiệt tình. Địa điểm mình đề cập là cho thuê xe máy đà lạt - ánh diệp.
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}
+
+#78
+Hôm mình ghé motobike for rent, mình cảm nhận thật không may, tôi không thể đồng ý với tất cả các đánh giá tích cực. xe đạp của chúng tôi gần như không thể sử dụng được. bộ theo dõi tốc độ bị hỏng, bộ theo dõi bánh răng bị hỏng, còi của tôi không hoạt động, phanh của tôi quá cũ và tôi phải phá vỡ bằng sức mạnh của mắt cá chân, giữa chuyến đi tôi gặp vấn đề với chiếc xe đạp và nó bắt đầu thích xăng! phải sửa nó ở giữa hư không. trả 150k một ngày nhưng thà trả gấp đôi và có một chiếc xe đạp đàng hoàng. đừng thử lái nó nếu bạn không tin tưởng vào kỹ năng của mình.
+{SERVICE#RENTING, neutral}, {LOCATION, positive}, {VEHICLE#QUALITY, negative}, {PRICE, neutral}
+
+#79
+Tại thuê xe máy đà lạt vũ bi mình đã anh chủ nói chuyện dễ thương nhiệt tình xe cho thuê mạnh lên dốc thả ga luônn nón sạch sẽ và có sẵn áo mưa giá rẻ nữa chứ quá ok lần sau sẽ thuê xe bên anh nữa ạ
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, neutral}
+
+#80
+cho thuê xe máy đà lạt-mr nguyên thực sự mang lại cảm giác xe chạy êm, không kêu ọp ẹp, mình tự tin chinh phục những con đèo quanh thành phố sương mù vào sáng sớm.
+{VEHICLE#QUALITY, positive}
+
+#81
+Khi đánh giá thuê xe máy đà lạt văn phú ( dalat motorbike rental ), mình thấy chất lượng xe cực tốt, đặc biệt phù hợp với bạn nữ cần xe nhẹ và dễ điều khiển. giao xe đúng giờ.
+{VEHICLE#QUALITY, positive}, {SERVICE#RENTING, positive}
+
+#82
+Ở motobike for rent giúp mình thấy ông chủ đã đẹp trai mà cho thuê xe rẻ nữa chất lượng ! khuyến khích các chị em phụ nữ đến thuê
+{PRICE, positive}, {VEHICLE#QUALITY, positive}
+
+#83
+Từng ghé qua cho thuê xe rất xịn, mình nhân viên tư vấn nhiệt tình, giao xe nhanh, giá cả hợp lý và minh bạch
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, neutral}
+
+#84
+cô ấy rất thân thiện và nói tiếng anh tốt. cửa hàng cho thuê nằm gần trung tâm thành phố. chiếc xe máy cũng ở trong tình trạng tốt. bạn có thể thuê ở đà lạt và trả lại nha trang. bạn có thể tạo ra những kỷ niệm đẹp hơn một chiếc xe buýt ngủ. giá cũng rẻ. 24 giờ, 150.00đ. Hôm đó mình ghé dalat motorbike rental & easyrider tour.
+{SERVICE#STAFF, positive}, {LOCATION, positive}, {VEHICLE#QUALITY, positive}, {PRICE, positive}, {SERVICE#RENTING, neutral}
+
+#85
+xe tốt, giá cả hợp lý, phục vụ nhiệt tình. Đó là cảm nhận của tôi sau khi đến thuê xe máy đà lạt giá rẻ.
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#86
+Sau khi đến Đà Lạt, tôi thuê xe từ thuê xe nam anh. vào một ngày đẹp trời, vi vu trên chiếc xe máy để tránh xa những ồn ã của sài gòn thật là tuyệt. cảm ơn anh chủ xe đã tận tình đem xe đến tận nơi cho mình 3.
+{VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#87
+lên đọc comment sao thấy nhiều đánh giá không tốt nhỉ. mình lên đl thuê xe pi 2 lần. thấy các bạn pv rất ok. lúc giao xe ban đầu các bạn cũng nói xa không giao, nhưng sau khi trao đổi thuyết phục, các bạn vẫn giao tận nơi cho mình dù khá xa zen valley . lúc trả xe thì mình có hẹn ở nhà xe phong phú, lúc mình đến trễ các bạn đã phải đợi khá lâu những vẫn rất bth. đây là chia sẻ thực tế của mình nhé.. Mình đã trải nghiệm khi ghé pi motorbike rental.
+{SERVICE#RENTING, negative}, {PRICE, neutral}, {VEHICLE#QUALITY, neutral}
+
+#88
+Để đánh giá hà cho thuê xe, mình nghĩ xe tốt. tuyệt.
+{VEHICLE#QUALITY, positive}
+
+#89
+Thật lòng mà nói, ghé pi motorbike rental mình thấy mình đã trải nghiệm rất tệ với dịch vụ ở pi motorbike. khi đến trả xe, thì không có ai ngồi trực. mình phải gọi cho số tổng đài, chưa kịp nói gì. thì bên hỗ trợ trả lời hết xe rồi cúp máy ngang, mình đã gọi lại thêm 3 4 lần. và vẫn bị cúp máy ngang tiếp, sau hình như bị chặn số nên không gọi được nữa. dù biết các bạn đông khách liên hệ, nhưng ít nhất trực điện thoại cũng phải trả lời lịch sự và chờ khách nói chứ. mình đã chọn lựa pi vì lúc mới đầu rất ổn và hỗ trợ nhiệt tình. dù tết không được hỗ trợ giao xe và trả xe, so với các nơi khác. nhưng trải nghiệm tệ như vậy chắc chắn mình sẽ không quay lại..
+{SERVICE#STAFF, negative}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, positive}
+
+#90
+service 10 ship tận nơi, xe được vệ sinh trước khi cho khách thuê. giá chỉ 100k ngày xe ga, lại còn là air blade với sh mode, không tin nổi. lưu ý 1 ngày không phải là 24h kể từ thời điểm thuê nhé. xe chạy khoẻ, êm ru, không tốn xăng. lỡ đổ 50k mà đi 3 ngày cũng chưa hết 2 3. Nơi mình muốn chia sẻ là thiện - cho thuê xe máy.
+{VEHICLE#QUALITY, positive}, {PRICE, neutral}, {SERVICE#RENTING, neutral}
+
+#91
+Cảm giác ở thuê xe máy giá rẻ duy my là được giao tận nơi . xe mới giá hợp lý
+{PRICE, positive}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, positive}
+
+#92
+Mình vừa thử dịch vụ cho thuê xe máy giá rẻ tri ân và thấy xe mới chạy tốt, giá rẻ. anh chủ rất nhiệt tình..
+{PRICE, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#93
+Lần đầu tới anh dũng xe máy giá rẻ dalat, mình nhận thấy xe mới, đa dạng, giá từ 100 150k ngày.
+{PRICE, neutral}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#94
+dịch vụ cho thuê xe máy giá rẻ tri ân mang lại cảm giác vừa thuê xe chỗ này. cô chú chủ thân thiện, nhiệt tình, mình thuê được 1 chiếc vision với giá 120k ngày, xe chạy êm mượt, leo dốc khoẻ re luôn, ok nha mọi người
+{PRICE, neutral}, {VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, neutral}
+
+#95
+Đến thuê xe máy đà lạt kim thành, mình trải nghiệm xe đời mới chạy tốt, nón bảo hiểm sạch sẽ, thái độ phục vụ rất tốt, thân thiện. đặc biệt giá cả phải chăng
+{SERVICE#STAFF, negative}, {VEHICLE#QUALITY, positive}, {PRICE, positive}, {SERVICE#RENTING, neutral}
+
+#96
+dịch vụ tốt,bãi xe ngay trung tâm thành phố rất tiện cho việc giao nhận xe,chủ xe vui vẻ nhiệt tình và hỗ trợ mọi lúc mọi nơi.rất khuyến khích và sẽ ủng hộ lần sau. Nơi mình muốn chia sẻ là cho thuê xe máy đà lạt - ánh diệp.
+{LOCATION, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#97
+Trong chuyến đi đến dịch vụ cho thuê xe máy giá rẻ tri ân, mình thấy xe tốt, giá tốt, chủ nhiệt tình !.
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#98
+Đây là một review chân thực về motobike for rent: ông chủ lấy tiền thuê xe trước của khách trên mạnh thì nói xe tay ga 100k ngày trong khi tới thuê thì tận 120k ngày hỏi ông chủ thì nói là xe đời mới nên 120k ngày trong khi xe rất cũ và yếu thuê xe từ 15h 18 6 đến 11h 21 6 mà tính tiền tận 4 ngày dịch vụ tệ không có lần sau.
+{PRICE, neutral}, {SERVICE#STAFF, negative}, {SERVICE#RENTING, negative}, {VEHICLE#QUALITY, negative}
+
+#99
+Tìm thấy kinh nghiệm thuê xe máy đà lạt trên bản đồ, tôi trải nghiệm thấy xe mới giá rẻ hơn chỗ khác.
+{PRICE, positive}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, positive}
+
+#100
+Thông tin thêm về cho thuê xe máy đà lạt - go happy: cảm ơn công ty happy day travel đã cho tôi và gia đình những dịch vụ chất lượng nhất khi ở đây. chúc công ty đắt khách hớn thế này nữa nha..
+{SERVICE#STAFF, neutral}, {VEHICLE#QUALITY, neutral}, {PRICE, neutral}
+
+#101
+Khi nghỉ ở cho thuê xe máy anh ái, mình cô chú cho thuê dễ thương, nhiệt tình, xe tốt chất lượng lắm
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#102
+xe chạy tốt. chú chủ quán nhiệt tình nữa.. Địa điểm này là dịch vụ cho thuê xe máy giá rẻ tri ân.
+{VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#103
+Trải nghiệm ở motobike for rent thì giá xe quá mắc, ông chủ không giải quyết thoả đáng vấn đề.
+{PRICE, negative}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, neutral}
+
+#104
+Đến motorbike dalat rồi mới biết lê văn vũ là một người đàn ông tuyệt vời. chúng tôi đã thuê một chiếc airblade mới trong 10 ngày. chiếc xe đạp này tuyệt vời, nó chưa bao giờ làm tôi thất vọng. bạn có thể để lại giấy tờ làm tài sản thế chấp, trong trường hợp này là giấy phép lái xe. lê văn vũ có nhiều loại xe đạp với nhiều mức giá khác nhau. tôi khuyên bạn nên thuê xe đạp ở đây. đây là một nơi cho thuê tuyệt vời ở đà lạt cảm ơn lê văn vũ rất nhiều
+{VEHICLE#QUALITY, positive}, {SERVICE#RENTING, neutral}, {PRICE, neutral}
+
+#105
+Tôi có dịp thuê phương tiện từ thuê xe máy đà lạt anh hải. anh chủ quá dễ thương và nhiệt tình giao xe nhanh xe thì mới không có chỗ chê luôn mọi người nên thuê xe chỗ này nha.
+{PRICE, neutral}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#106
+Sau khi trải nghiệm dịch vụ ở thuê xe máy đà lạt anh hải, mình nhận thấy thuê một lưỡi gió 150cc trong 3 ngày. xe ở tình trạng hoàn hảo, tốt hơn nhiều so với những nơi cho thuê khác ở đà lạt. giá trị thực sự tốt ở mức 150k mỗi ngày và rất dễ dàng, không gặp rắc rối khi thuê từ hải. kéo dài thêm một ngày mà không có vấn đề gì. kinh nghiệm thực sự tốt..
+{VEHICLE#QUALITY, positive}, {PRICE, neutral}, {SERVICE#RENTING, positive}
+
+#107
+Sau khi đến Đà Lạt, tôi thuê xe từ cho thuê xe máy - tài đà lạt. xe đời mới mạnh, sạch sẽ. anh chủ nhiệt tình.
+{VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#108
+Tôi đã thuê xe tại thuê xe máy đà lạt anh hải. như các bình luận trước đây đã nêu, đây chắc chắn là nơi tốt nhất bạn có thể tìm thấy ở đà lạt để thuê xe máy. chiếc xe đạp chúng tôi thuê còn khá mới và đã đi được ít, điều này rất hiếm ở việt nam. xe đạp của chúng tôi tôi nghĩ là honda airblade 150cc là 150k mỗi 24 giờ, đây là một mức giá rất hợp lý. tôi khuyên bạn nên liên hệ với chủ sở hữu trước khi đến cửa hàng vì mã pin trên bản đồ google không chính xác nên chúng tôi gặp khó khăn khi tìm thấy nó. sau khi liên lạc với anh ấy, người chủ đã đón chúng tôi và đưa chúng tôi đến cửa hàng của anh ấy. chúng tôi đã đến thăm. 3 dịch vụ cho thuê xe máy khác trước khi thuê xe đạp của chúng tôi ở hải và mỗi lần đều giống nhau. 130 150k chỉ sử dụng trong ngày! thêm vào đó họ đã cũ và chạy xuống. vì vậy, nơi này là một viên ngọc thực sự khi so sánh. ít nhất ở đây bạn có thể chọn xe đạp của mình. chúng tôi cũng không gặp vấn đề gì khi gia hạn. thật xấu hổ khi không có nhiều người biết đến nơi này..
+{PRICE, positive}, {VEHICLE#QUALITY, negative}, {SERVICE#RENTING, negative}, {SERVICE#STAFF, neutral}
+
+#109
+Tôi dùng xe thuê từ cho thuê xe máy đà lạt - go happy để đi quanh thành phố. liên hệ đặt xe qua sdt 13h30 30 11 mà bị tắt máy ngang không..
+{PRICE, neutral}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, neutral}
+
+#110
+đi xe tuyệt vời, giá cả tuyệt vời, nhiều sự lựa chọn về xe máy, nói nhiều và phản hồi nhanh từ chủ sở hữu, không cần phải xuất trình hộ chiếu. với một vết cắn thưởng từ một con mèo dễ thương. Đây là chia sẻ về thuê xe máy đà lạt - an dân (scooter rental service - motorbike for rent).
+{PRICE, neutral}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, neutral}
+
+#111
+Nói chung, cho thuê xe máy đà lạt-mr nguyên cho mình cảm giác dịch vụ rất tốt, chất lượng.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#112
+Gần đây có ghé thuê xe máy đà lạt anh hải thấy xe tốt, giá tốt. tiệm xe nhiệt tình trả và lấy xe tận ks. hỗ trợ đổi xe bị lỗi smartkey.
+{SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#113
+dịch vụ xe rất tốt. Hôm ấy mình đến cho thuê xe máy an khương.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#114
+tài xế thân thiện. Mình đã trải nghiệm trong lần ghé xe dịch vụ đà lạt - sang a còng.
+{SERVICE#STAFF, positive}
+
+#115
+coffee and motobike for rent. để lại cho mình cảm giác dịch vụ tuyệt vời!!
+{SERVICE#STAFF, positive}
+
+#116
+Vừa đến thuê xe 7 chỗ đà lạt công ty latour đã thấy thuê xe tại đây khá uy tín, đặt trước 1 2 ngày lên đà lạt có anh tài xế đón đi tham quan. tài xế dễ thương và nhiệt tình, hỗ trợ chụp hình cho gia đình cũng đẹp. 10đ ạ
+{PRICE, neutral}, {VEHICLE#QUALITY, neutral}, {SERVICE#STAFF, positive}
+
+#117
+Ghé qua cho thuê xe máy đà lạt - go happy, mình thấy phước vui vẻ, nhiệt tình và chụp hình siêu có tâm.
+{SERVICE#STAFF, positive}
+
+#118
+nơi duy nhất ở đà lạt mà tôi tìm thấy honda pcx, họ cũng có air blade 160. cả hai chiếc xe đều mới, rất khuyến khích!. thuê xe máy đà lạt - an dân (scooter rental service - motorbike for rent) là nơi mình muốn nhắc đến.
+{VEHICLE#QUALITY, positive}
+
+#119
+Sau khi ghé cho thuê xe pg1 đà lạt, mình thấy mê em pg1 này nên lên đl phải đi thuê ngay trải nghiệm chạy vi vu đl xe chạy êm, cool ngầu mà gặp ông chủ dễ thương quá trời!
+{VEHICLE#QUALITY, positive}
+
+#120
+Chuyến đi tới motobike for rent cho mình cảm giác địa chỉ rất tốt.. chào đón nồng nhiệt, xe máy mới trong tình trạng tốt.. rất đáng giá tiền.
+{VEHICLE#QUALITY, positive}, {PRICE, neutral}, {SERVICE#RENTING, neutral}
+
+#121
+Lần ghé thuê xe tự lái giá rẻ đà lạt vừa rồi, mình cảm nhận dịch vụ rất tốt.
+{SERVICE#STAFF, positive}
+
+#122
+Mình đã khám phá cho thuê xe rất xịn và thấy địa điểm cho thuê xe uy tín, hỗ trợ mọi lúc mọi nơi.
+{PRICE, neutral}, {VEHICLE#QUALITY, neutral}
+
+#123
+Với dv cho thuê xe máy qt đà lạt, điều mình thấy là xe đời mới chất lượng tốt. sẽ còn ủng hộ..
+{VEHICLE#QUALITY, positive}
+
+#124
+Ở cho thuê xe máy - đà lạt vi vu, mình trải nghiệm xe mới
+{VEHICLE#QUALITY, positive}
+
+#125
+Tôi đã sử dụng dịch vụ tại dịch vụ cho thuê xe máy giá rẻ tri ân. xe mới, chất lượng, giá thuê rẻ, chú cho thuê thân thiện, hỗ trợ khách hết mình! con cảm ơn chú nhiều lắm ạ !.
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, positive}
+
+#126
+Mình từng trải nghiệm ở cho thuê xe máy mỹ phúc - khe sanh và thấy xe mới tốt chạy êm,vui vẻ nhiệt tình
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#127
+home dễ thương và sạch đẹp. mọi thứ chỉnh chu và được chăm chút ân cần. vị trí di chuyển thuận lợi và view đẹp. chắc chắn sẽ quay trở lại. Một trải nghiệm tại xe dịch vụ đà lạt.
+{LOCATION, positive}
+
+#128
+Ở anh dũng xe máy giá rẻ dalat thấy thuê xe ab mới mà có 100k ngày nha mn, giá hời mà giao xe tận nơi, 10
+{PRICE, neutral}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#129
+Tôi nghe nhiều người nhắc đến thuê xe máy đà lạt kim thành, nên tôi đến thử. anh chủ dễ thương, xe mới chạy êm.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#130
+Lần đầu ghé anh dũng xe máy giá rẻ dalat, mình cảm nhận chú cho thuê dễ thương lắm, tụi mình lấy xe sớm mà chú vẫn hỗ trợ nhiệt tình. chú còn cho tụi mình 2 cái áo mưa ích kỉ nữa giá rẻ hơn so với mặt bằng chung, xe mới nên ok lắm. highly recommend cho mọi người nhen.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}, {PRICE, positive}, {SERVICE#RENTING, neutral}
+
+#131
+chuyến đi đà lạt đáng nhớ, dịch vụ công ty và tài xế nhiệt tình. Mình đã trải nghiệm khi ghé cho thuê xe o to, xe máy (công ty tnhh sao vàng tour đà lạt).
+{SERVICE#STAFF, positive}
+
+#132
+Sau khi trải nghiệm dịch vụ ở motorbike dalat, mình nhận thấy nhân viên trẻ nói tiếng anh rất tốt, giúp việc giao tiếp dễ dàng hơn nhiều. xe máy thuê đang ở tình trạng tốt, ngay cả khi một số xe máy khác trông không có chất lượng cao vì vậy hãy luôn kiểm tra trước . 150.00đ ngày là mức giá hợp lý, tuy nhiên đặt cọc 5.00.00đ thì hơi cao. tuy nhiên, bạn cũng có thể nộp hộ chiếu của mình tôi không bao giờ khuyên bạn nên làm như vậy hoặc giấy tờ tuỳ thân của bạn..
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {PRICE, positive}, {VEHICLE#QUALITY, positive}
+
+#133
+Trong lần ghé bơ motobikes, mình cảm thấy xe tình trạng tốt khoảng 25.00 km , giá cả hợp lý và giao tiếp tốt. không giống như những cửa hàng khác, chúng tôi không phải để lại hộ chiếu.
+{VEHICLE#QUALITY, positive}, {PRICE, positive}, {SERVICE#RENTING, positive}
+
+#134
+Sau khi trải nghiệm cho thuê xe pg1 đà lạt, mình cảm nhận xe đi vào tận suối tía bao phê
+{VEHICLE#QUALITY, neutral}
+
+#135
+Đã trải nghiệm tại cho thuê xe máy đà lạt - go happy, và mình thấy anh chủ nhiệt tình, xe mới chạy ngon, thích nhất phần nón bảo hiểm được giặt sạch sẽ..
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#136
+Đến thuê xe máy giá rẻ duy my, mình trải nghiệm dịch vụ quá chất lượng và hợp với túi tiền .rất đáng thử
+{SERVICE#STAFF, neutral}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, neutral}
+
+#137
+Về thuê xe máy thu hiền, tôi muốn nói rằng lúc đầu thì kêu là nhận xe được người lúc mình trả xe thì kêu là không nhận 1 là phụ thu 100k 2 là phải tự chạy về nhà xe trả ..
+{PRICE, neutral}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, neutral}
+
+#138
+cho thuê xe máy đà lạt - go happy đem lại trải nghiệm phố đông nhưng khá yên tĩnh, rất thích
+{VEHICLE#QUALITY, neutral}
+
+#139
+Quá trình sử dụng dịch vụ cho thuê xe máy đà lạt - go happy, mình cảm thấy dịch vụ rất tốt, nên đến và trải nghiệm
+{SERVICE#STAFF, positive}
+
+#140
+motorbike dalat cho mình cảm giác tôi đã sử dụng cửa hàng này để thuê một chiếc xe đạp vào những ngày đẹp trời trong vài tháng qua. giá cả rất hợp lý và xe đạp được bảo trì tốt. chủ sở hữu và con trai của ông ấy rất hữu ích và công bằng mà không có chi phí ẩn nào đối với những chiếc xe đạp này. họ thậm chí còn trang bị thêm giá để hành lý cho tôi trong một lần tôi thực hiện một chuyến đi dài bằng xe đạp miễn phí xe đạp luôn có nhiều nhiên liệu, điều này giúp bạn không phải lo lắng về việc tìm nhà để xe cho đến khi sẵn sàng. rất khuyến khích và những người trung thực tốt để giải quyết. người con trai nói tiếng anh hoàn hảo và điều này giúp anh dễ dàng tìm ra các chi tiết chính xác hơn và trợ giúp trong việc thuê người.
+{VEHICLE#QUALITY, positive}, {PRICE, negative}, {SERVICE#RENTING, negative}
+
+#141
+Khi nhắc đến motobike for rent, điều tôi muốn nói là vui vẻ, nhiệt tình, anh chủ đẹp chai.
+{SERVICE#STAFF, positive}
+
+#142
+Lần tới cho thuê xe máy lê nguyên., mình đã anh chủ nhiệt tình chu đáo, lần sau đến ủng hộ tiếp.
+{SERVICE#STAFF, positive}
+
+#143
+Qua một bài viết, tôi biết đến cho thuê xe máy - đà lạt vi vu và tôi thấy thuê xe máy nhanh gọn, giao tới tận nơi luôn í. tình cờ tìm trên google maps thui mà dịch vụ siêu nhiệt tình, xe mới chạy khoẻ nữa siu recommend cho bạn nào muốn thuê xe ở đây nhaa. giá cả được công khai rõ ràng lắm í. xe mình chụp như hình nha.
+{PRICE, neutral}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#144
+Trải nghiệm tại thuê xe máy đà lạt anh hải: giao xe nhanh . xe mới. anh chủ nhiệt tình
+{SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#145
+xe khá mới, sạch sẽ thơm tho lái tốt, tài xế thân thiện. lần sau quay lại sẽ tiếp tục sử dụng dịch vụ. Đó là cảm nhận chung về thuê xe 7 chỗ đà lạt công ty latour.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#146
+Khi ghé thuê xe máy đà lạt - an dân (scooter rental service - motorbike for rent), mình cảm nhận rõ dịch vụ tuyệt vời! rất khuyến khích
+{SERVICE#STAFF, positive}
+
+#147
+Tôi nghe nhiều người nhắc đến thuê xe máy đà lạt thảo vy, nên tôi đã trải nghiệm thử. anh chủ nhiệt tình nhá mn. xe ngon bào đã tay.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#148
+Ở mô tô 49 - cho thuê xe máy đà lạt, mình cảm nhận rõ dịch vụ tốt
+{SERVICE#STAFF, positive}
+
+#149
+Khi đến thuê xe máy đà lạt anh hải, mình thấy có giao và nhận xe ở khách sạn. anh chủ nhiệt tình, giá rẻ
+{SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, neutral}, {PRICE, positive}, {SERVICE#STAFF, positive}
+
+#150
+xe ga đồng giá 100k ngày không như mấy chỗ khác sẽ tính phân loại theo phân khối và loại xe. 3 3 vừa rồi mình thuê 2 chiếc vario. xe số 80k ngày mình đi đl đều thuê ở đây. giao nhận và trả xe ở ks luôn nên tiện. mấy anh nhiệt tình hỗ trợ.. Đây chính là trải nghiệm của mình tại sơn đà lạt cho thuê xe máy.
+{PRICE, neutral}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, neutral}, {SERVICE#STAFF, positive}
+
+#151
+Khi nhắc đến thuê xe 7 chỗ đà lạt holiday, điều tôi muốn nói là dịch vụ tốt. tài xế tư vấn địa điểm vui chơi đẹp. quán ăn địa phương ngon bổ rẻ. đánh giá 5 cho shop..
+{SERVICE#STAFF, positive}, {PRICE, neutral}, {SERVICE#RENTING, neutral}
+
+#152
+thuê xe máy đà lạt thảo vy cho mình trải nghiệm xin lỗi phải cho 1 sao, vì để số điện thoại mà không liên lạc được thì thuê xe kiểu gì
+{PRICE, neutral}, {VEHICLE#QUALITY, neutral}
+
+#153
+Lần ghé thuê xe máy đà lạt thảo vy vừa rồi, mình thấy xe tốt giá hợp lý, anh chủ dth
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#154
+quý khách né chổ xe này ra nha lúc mướn thì vui vẻ lúc trả xe thi thái độ với khách. Tôi muốn chia sẻ về công ty cho thuê xe máy hoàng tuấn trong các khía cạnh này.
+{SERVICE#STAFF, negative}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, neutral}
+
+#155
+ông chủ trẻ và sành điệu. có vẻ như họ cũng bảo trì và chiếc xe đang trong tình trạng tốt. giá tốt quá. hai người đi đến, họ chỉnh lại mũ bảo hiểm cho chúng tôi và trả lời các câu hỏi của chúng tôi một cách lạnh lùng. người làm việc với tôi cũng tốt bụng. tôi đã thuê nó trong 4 ngày và có một chuyến đi tuyệt vời. lần sau tới đà lạt mình muốn thuê ở đây. cảm ơn các bạn rất nhiều.. Đây là điều tôi mong đợi ở thuê xe máy đà lạt - an dân (scooter rental service - motorbike for rent).
+{VEHICLE#QUALITY, positive}, {SERVICE#RENTING, positive}
+
+#156
+xe đẹp và chị chủ nhiệt tình dễ thươngg. Tôi muốn chia sẻ về dv cho thuê xe máy qt đà lạt trong các khía cạnh này.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#157
+Đây là trải nghiệm chân thật của mình ở motorbike dalat: cà phê rất ngon, bánh ngọt rất đẹp.
+{VEHICLE#QUALITY, positive}
+
+#158
+Đánh giá nhanh về motobike for rent: đã trải nghiệm, xe mới, khoẻ, anh chủ nhiệt tình, vui vẻ.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#159
+Hôm đến cho thuê xe máy đà lạt-mr nguyên, mình thấy 2 vợ chồng nhiệt tình, dễ thương. dịch vụ chuyên nghiệp.
+{SERVICE#STAFF, positive}
+
+#160
+thái độ như muốn var nhau với khách. chả hiểu anh bực bội chuyện gì ở đâu gặp khách là xả luôn. anh đến từ hành tinh nào vậy. Trong lần mình ghé cho thuê xe máy trường sinh.
+{SERVICE#STAFF, negative}
+
+#161
+xe mới,dịch vụ tốt,là lựa chọn tốt nếu có nhu cầu thuê xe ở đà lạt.. Địa điểm mình đề cập là cho thuê xe máy trường sinh.
+{PRICE, neutral}, {SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#162
+thuê xe bên này bao xịn sò,mình sẽ ủng hộ dài dài.. Hôm mình ghé thuê xe máy đà lạt - an dân (scooter rental service - motorbike for rent).
+{PRICE, neutral}, {VEHICLE#QUALITY, neutral}
+
+#163
+phục vụ tốt, giá rẻ. Hôm mình ghé thuê xe máy đà lạt thảo vy.
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}
+
+#164
+dịch vụ cho thuê xe máy giá rẻ tri ân để lại cho mình cảm giác chú chủ tri ân nhiệt tình, vui vẻ tình cờ đi đà lạt thuê xe máy của chú ngay sát bến xe thuận hưng thời gian nhận xe máy nhanh chất lượng xe tốt, chú còn có quán cafe không gian thoáng view đẹp có dịp sẽ ghé ủng hộ tiếp.
+{PRICE, neutral}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#165
+Sau khi tìm kiếm, tôi đã liên hệ thuê xe máy đà lạt anh hải để thuê xe. trải nghiệm tuyệt vời. dễ dàng nắm giữ, cho thuê giá rẻ và họ có thể trả nhận xe đạp nếu cần. xe đạp mới. đừng tìm đâu xa, nơi này là hợp pháp. không đưa hộ chiếu của bạn để đặt cọc, họ chỉ chụp ảnh nó..
+{PRICE, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#166
+Khi đến thuê xe máy bích hà đà lạt, mình thấy giá tốt và xe máy rất tốt, mũ bảo hiểm rất tốt. họ rất tốt bụng và thân thiện. cảm ơn
+{SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#167
+Mình được bạn bè giới thiệu cho thuê xe pg1 đà lạt, và quả thật lần đầu tiên mình lên đà lạt mà tìm được chỗ thuê xe ưng cực kì, dịch vụ cũng tốt, nhân viên hay anh chủ đều tư vấn nhiệt tình..Nghe nhiều người khen cho thuê xe pg1 đà lạt, hôm nay thử thì thấy lần đầu tiên mình lên đà lạt mà tìm được chỗ thuê xe ưng cực kì, dịch vụ cũng tốt, nhân viên hay anh chủ đều tư vấn nhiệt tình..
+{PRICE, neutral}, {SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#168
+Với cho thuê xe máy đà lạt - go happy, mình có thể nói rằng chất lượng đáng giá 5 sao! nhân viên nhiệt tình, hướng dẫn viên tận tâm. mọi thứ đều rất hài lòng!.
+{PRICE, neutral}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, neutral}, {SERVICE#STAFF, positive}
+
+#169
+tôi rất ấn tượng với chủ cửa hàng, người rất nhiệt tình. tôi đã giới thiệu cửa hàng này.. Tôi muốn chia sẻ về motorbike dalat trong các khía cạnh này.
+{SERVICE#STAFF, positive}
+
+#170
+anh chị rất dễ thương, xe mới, giờ giấc rất linh động, mình tới đl lúc 4h, do tới sớm nên qua nhà nhận xe luôn, và không tính thêm phí gì, giá cả phù hợp, siêu rẻ. nói chung là sau này đi đl sẽ ghé ac dài dài. à nhóc con ac cũng dễ thương nữa, anh chị qua khách sạn nhận xe mà thằng nhóc nó chào liên tục. 10đ ạ. Đó là tất cả những gì tôi muốn nói về bơ motobikes.
+{PRICE, neutral}, {SERVICE#RENTING, negative}, {VEHICLE#QUALITY, positive}
+
+#171
+Đây là cảm nhận của mình khi ghé thuê xe máy bích hà đà lạt: những chiếc xe máy thật tuyệt vời, mọi thứ đều cực kỳ dễ dàng và nhanh chóng và tôi đã mua được một mức giá rẻ.
+{PRICE, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, neutral}
+
+#172
+đợt này mình có thuê 1 chiếc vision bên này mà ôi thôi lần đầu tiên chạy một chiếc xe mà tệ đến vậy luôn ga thì yếu xe chạy thì cứ run bần bật lên. xe thì cũ nữa . lần đầu thuê cũm như lần cúi luôn. Đây là điều tôi mong đợi ở pi motorbike rental.
+{VEHICLE#QUALITY, negative}
+
+#173
+vừa rồi đi chơi lễ 30 4, đông quá trời nhưng vẫn hỗ trợ anh em mình nhiệt tình. dịch vụ và giá cả oki, sẽ quay lại. Đó là kỷ niệm tại thuê xe 29 chỗ ở đà lạt.
+{SERVICE#STAFF, positive}, {PRICE, neutral}, {SERVICE#RENTING, neutral}
+
+#174
+xe chạy tốt, chủ dễ thương, giao xe đúng giờ. mình sẽ giới thiệu bạn bè!. Đó là cảm nhận chung về cho thuê xe rất xịn.
+{SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#175
+xe máy mới , anh chủ nhiệt tình dễ thương, lần nào lên đà lạt mình cũng thuê và giới thiệu cho tất cả gia đình, bạn bè thuê bên anh lê nguyên. Đây là trải nghiệm của mình khi tới cho thuê xe máy lê nguyên..
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#176
+Tôi có dịp thuê phương tiện từ cho thuê xe máy - đà lạt vi vu. xe mới, anh giao xe tận nơi, giá rẻ.
+{PRICE, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#177
+Tại cho thuê xe rất xịn mình đã gia đình mình book 3 chiếc rất ưng ý xăng sẵn nón đầy đủ và sạch sẽ. lần sau sẽ ủng hộ tiếp
+{VEHICLE#QUALITY, neutral}
+
+#178
+Có thể nói, lê la đà lạt - cho thuê xe máy pg1 là nơi dịch vụ tốt thủ tục nhanh gọn, xe đẹp chạy êm.
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#179
+Khi đến dv cho thuê xe máy qt đà lạt, cảm nhận của mình là xe mới, hướng dẫn tận tình, chu đáo.
+{VEHICLE#QUALITY, positive}
+
+#180
+Có thể nói, cho thuê xe máy đà lạt-mr nguyên là nơi anh chị chủ quán rất nhiệt tình và vui vẻ, tư vấn cho mình mấy địa điểm du lịch và ăn uống rất ok..
+{SERVICE#STAFF, positive}
+
+#181
+Một trải nghiệm đáng giá tại dv cho thuê xe máy qt đà lạt: có hỗ trợ khách giao nhận xe rất nhiệt tình. shop hỗ trợ mình suốt cả tuần ở dalat. 10 sao.
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, neutral}
+
+#182
+Theo quan sát tại dịch vụ cho thuê xe máy giá rẻ tri ân, dich vụ rất tốt : xe tốt, giá rẽ, hỗ trợ tận tình. dịch vụ cho thuê xe máy tốt nhất dalat
+{SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}, {PRICE, positive}, {SERVICE#STAFF, positive}
+
+#183
+Tôi ghé viet motorcycle hotel motorbikes rental pg-1 để lấy xe đã đặt trước. anh chủ dễ thương, hỗ trợ nhiệt tình, phòng sạch sẽ ạ.
+{SERVICE#STAFF, positive}
+
+#184
+Khi nói đến motorbike dalat, mình thấy dịch vụ rất tốt, xe máy rất tốt và đáng tin cậy. họ nói tiếng anh tốt. thực sự muốn giới thiệu nơi này. khoảng 5 đô la cho một ngày thuê..
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#185
+cho thuê xe máy đà lạt - ánh diệp cho mình cảm giác dịch vụ rất tốt,thủ tục nhanh,chủ xe nhiệt tình thân thiện,nhiều xe máy để lựa chọn và liên hệ dễ dàng qua whatsapp. khuyến khích thuê xe máy ở đây
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}, {PRICE, neutral}
+
+#186
+Tôi đã đến thuê xe 7 chỗ đà lạt holiday, xe sạch sẽ, tài xế vui vẻ nhiệt tình. sẽ ủng hộ lần sau..
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#187
+một người chủ tốt bụng, rất thân thiện đã lấy giấy tờ tuỳ thân của tôi làm tiền đặt cọc, 120.00 vnd mỗi ngày, chiếc xe đạp tuyệt vời trong tình trạng tốt mà anh ấy đã dọn dẹp cho chúng tôi trước khi chúng tôi nhận, chắc chắn là vậy.. Mình đã trải nghiệm trong lần ghé coffee and motobike for rent..
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#188
+Đánh giá nhanh về thuê xe máy . đà lạt . chị thảo: xe mới , giáo xe nhanh, phục vụ vui vẻ.
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#189
+Khi mình tới thuê xe 7 chỗ đà lạt công ty latour, mình thấy thuê xe tốt, lái xe nhiệt tình kể nhiều chuyện, chuyến đi rất vui.
+{PRICE, positive}, {SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#190
+Một trải nghiệm đáng giá tại thuê xe máy đà lạt thảo vy: xe máy mới và đẹp với giá tốt so với xe được báo giá từ khách sạn . chủ sở hữu là tốt đẹp. nhận được một số lời khuyên từ anh ấy về những tuyến đường tốt nhất. chúng tôi được phép giữ xe qua đêm để thuận tiện cho việc di chuyển. tốt nhất bạn nên kiểm tra kỹ xe trước để tránh xảy ra tranh chấp về sau. ngoài địa chỉ này, bạn cũng có thể tìm đến homemèo mèo, số 7 yết kiêu cách khoảng 1km , đoạn nối dài đường nguyễn thượng hiền, cùng chủ. có thể quay lại lần sau nếu ở gần đó!.
+{SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}, {LOCATION, positive}
+
+#191
+Đây là một review chân thực về motorbike dalat: chúng tôi thuê một chiếc xe tay ga trong ba ngày. chiếc xe tay ga rất tuyệt không có vấn đề gì cả. giá cả hợp lý và chủ sở hữu rất thân thiện và chuyên nghiệp. sẽ thuê ở đây một lần nữa chắc chắn giới thiệu nơi này..
+{VEHICLE#QUALITY, neutral}, {PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}
+
+#192
+Trong lần ghé cho thuê xe máy lê nguyên., mình thấy với mình đây là chỗ thuê xe máy tốt nhất đà lạt, xe máy ở trong tình trạng rất tốt, giá cho thuê rất hợp lý, ông chủ nhiệt tình và dễ chịu, chắc chắn là địa điểm thuê xe nếu mình quay lại đà lạt..
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#193
+cho thuê xe máy thuỵ lê , cho thuê loa kẹo kéo, xe hop đồng tour du lich. đưa đón sân bay… khiến mình nhận ra xe mới. chị chủ rất nhiệt tình. giá rẻ nữa. sẽ ủng hộ lần sau
+{VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}, {PRICE, positive}, {SERVICE#RENTING, neutral}
+
+#194
+Đã đến dịch vụ cho thuê xe máy giá rẻ tri ân, ghi nhận rằng dịch vụ tốt, chủ xe dễ thương, có dịp quay lại đl mình sẽ ủng hộ chú tiếp.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#195
+chú cho thuê nhiệt tình, dịch vụ trả xe tận nơi. các bạn nên thuê nhé.. Đó là cảm nhận chung về dịch vụ cho thuê xe máy giá rẻ tri ân.
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, neutral}
+
+#196
+anh chủ rất dth và có tâm ạ, 100đ cho sự nhiệt tình của anh chủ dành cho khách hàng ạ !!. Mình trải nghiệm điều này ở thuê xe máy đà lạt thảo vy.
+{PRICE, neutral}, {SERVICE#STAFF, positive}
+
+#197
+xe chạy ok máy êm anh chị nhiệt tình. Nơi mình đã ghé là dv cho thuê xe máy qt đà lạt.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#198
+Phải nói cho thuê xe rất xịn khiến mình xe sạch se, anh chủ nhiệt tình, thân thiện sẽ quay lại
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, neutral}
+
+#199
+Ngày hôm đó tại thuê xe tự lái giá rẻ đà lạt, mình cảm thấy xe đẹp giá tốt
+{SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#200
+Sau khi nghỉ ở cho thuê xe rất xịn, mình thấy xe đạp tốt, giá tốt và dịch vụ tốt.
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#201
+Trải nghiệm ở cho thuê xe máy đà lạt - go happy thì dịch vụ tốt, nhiệt tình sẽ quay lại lần sau nha.
+{SERVICE#STAFF, positive}
+
+#202
+xe đời mới, sạch sẽ. tài xế chuyên nghiệp, am hiểu về đà lạt. giá cả phải chăng. gọi xe 10 phút là có ngay. mình đánh giá 5 sao. Địa điểm mình muốn nhắc đến là thuê xe 7 chỗ đà lạt công ty latour.
+{VEHICLE#QUALITY, positive}, {PRICE, positive}, {SERVICE#RENTING, neutral}
+
+#203
+cửa hàng xe đạp tuyệt vời. không thể giới thiệu đủ. Mình đã trải nghiệm khi ghé motobike for rent.
+{VEHICLE#QUALITY, neutral}
+
+#204
+chỗ thuê xe chú này dễ thương giao xe nhanh thủ tục đơn giản mà giá cũng rất hợp lý.. Tôi đã có trải nghiệm này ở dịch vụ cho thuê xe máy giá rẻ tri ân.
+{PRICE, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, neutral}
+
+#205
+Lần ghé thuê xe máy đà lạt giá rẻ gần đây, mình thấy xe tốt, êm ái .lâu rồi mới tìm được chỗ thuê xe rẻ mà tốt như này.
+{VEHICLE#QUALITY, positive}, {PRICE, positive}
+
+#206
+Nói ngắn gọn về thuê xe máy đà lạt văn phú ( dalat motorbike rental ): đây là lần đầu mình thuê xe máy tại đà lạt và hơi lo lắng về thủ tục. nhưng ở văn phú thuê xe máy đà lạt, chỉ cần ccd và bằng lái là nhận xe ngay. không có quy trình rườm rà, không yêu cầu đặt cọc quá nhiều như những chỗ khác. xe đi ổn định, lên xuống dốc mượt mà. rất đáng để trải nghiệm!.
+{PRICE, neutral}, {SERVICE#RENTING, negative}, {VEHICLE#QUALITY, positive}
+
+#207
+vô tình lên google maps tìm phát hiện ra chỗ này. cô chú lớn tuổi nhưng nhiệt tình lắm. lúc ghé còn cho tụi mình ăn sầu riêng uống cà phê tại thơm quá trời, tốt . hôm tụi mình thuê là 20 21 9 đầu tuần, giá xe tay ga ab 100k ngày. xe chạy ok lắm, cô còn lấy 4 cái áo mưa bot cốp xe cho tụi mình nữa hôm 19 8 tụi mình thuê chỗ người quen chỉ mà xe cũ sợ không dám chạy đèo luôn, không dám đi xa, không giống hình đăng nên tìm gấp trong đêm 19 8 và phát hiện chỗ chú hiệp nè, mừng hết lớn, xe như hình đăng, tụi mình đi the florest hoa trong rừng biết độ khó dốc cao cỡ nào ui đó mà đi vi vu luôn tụi mình đi dốc cao toàn dùng thắng thôi, may mắn xe chú hiệp rất ok, nên đi yên tâm lắm. chứ mà xe chỗ kia, thiệt chắc đi bộ cho lành, đi đường trường bóp thắng đã muốn không ăn. nhà chú hiệp có bán cà phê ngon và thơm lắm, tụi mình có mua về làm quà nữa. cô chú còn chỉ cho tụi mình các chỗ ăn ngon rẻ, chỗ mua bánh mứt về làm quà rẻ nữa. lần sau lên đà lạt có thuê xe, mình nhất định sẽ thuê tiếp chỗ chú hiệp. các bạn có thể tham khảo nhé! cám ơn gia đình chú hiệp nhìu ạ!. Mình đã cảm nhận điều này tại dịch vụ cho thuê xe máy giá rẻ tri ân.
+{SERVICE#STAFF, positive}, {PRICE, neutral}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, negative}
+
+#208
+Trải nghiệm của mình ở pi motorbike rental: tôi không giới thiệu nó cho bất cứ ai, hãy tránh nó! dịch vụ kinh tởm, có rất nhiều xe tay ga, nhưng chỉ có hai chiếc để lựa chọn. họ đưa ra những câu chuyện nguy hiểm nhất. chúng tôi thuê 2 chiếc xe đạp trống rỗng, đổ xăng, đạp xe cả tiếng đồng hồ và quyết định trả lại vì cả xe và mũ bảo hiểm đều nát vụn. họ tính phí chúng tôi cả ngày! nhưng họ đã làm cạn kiệt lượng xăng mà chúng tôi đổ xăng! sự ngu ngốc! họ không coi trọng thời gian của khách hàng, không có lòng trung thành..
+{SERVICE#STAFF, neutral}, {VEHICLE#QUALITY, neutral}, {SERVICE#RENTING, neutral}
+
+#209
+Khi ghé dv cho thuê xe máy qt đà lạt, mình dịch vụ tốt!
+{SERVICE#STAFF, positive}
+
+#210
+Đi cho thuê xe máy thuỵ lê , cho thuê loa kẹo kéo, xe hop đồng tour du lich. đưa đón sân bay… rồi, giờ mới hiểu sao chị chủ xe rất thân thiện và thoải mãi năm 2019 mình có book xe 1 lần với chị rồi thấy xe đi ok và chị cũng hỗ trợ nhiệt tình nên năm 2022 này quay lại cũng book trước 2 tuần để lễ 2 9 có xe đi lại cũng dặn chị xe mới chị nha ưu tiên vission với ab nên lúc chị giao xe cũng ưu tiên vission với ab lắm nhưng do không đủ xe chii để hãng jenus có báo trước mình ok hết miễn xe mới là ok mà đều là xe đời mới chạy rất khoẻ lên đèo và săn mây nên rất okela. thời gian báo chị trước hay trì hoãn chút chút chị vẫn hỗ trợ xử lí cho tụi mình. nói chung thuê xe chị mình rất yên tâm 5 sao cho chị luôn nhiệt tình chu đáo xe khoẻ nha kk.
+{LOCATION, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, positive}, {PRICE, neutral}
+
+#211
+Về thuê xe máy giá rẻ đà lạt - mai sơn, mình chỉ muốn nói rằng vô tình tìm được chỗ cho thuê xe máy của hai anh chị. rất ưng ý nhe mọi người. anh chị chủ nhiệt tinh và dễ thương. chỉ cho mình mấy quán ăn ngon nữa. lần sau có lên đl mình sẽ ghé đây thuê tiếp..Khách quan mà nói, thuê xe máy giá rẻ đà lạt - mai sơn là nơi vô tình tìm được chỗ cho thuê xe máy của hai anh chị. rất ưng ý nhe mọi người. anh chị chủ nhiệt tinh và dễ thương. chỉ cho mình mấy quán ăn ngon nữa. lần sau có lên đl mình sẽ ghé đây thuê tiếp..
+{PRICE, neutral}, {VEHICLE#QUALITY, neutral}, {SERVICE#STAFF, positive}
+
+#212
+Đây là nhận xét của mình sau khi thăm cho thuê xe máy đà lạt - go happy: dịch vụ quá tuyệt vời , hướng dẫn viên rất nhiệt tình, sẽ quay lại nhiều lần..
+{SERVICE#STAFF, positive}
+
+#213
+Khi đến dịch vụ cho thuê xe du lịch 16 chỗ và 7 chỗ trí trần, mình nhận ra giá cả thuê xe hợp lý và dịch vụ cực kỳ chu đáo. tôi sẽ tiếp tục sử dụng dịch vụ này
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, neutral}
+
+#214
+Khi đến motorbike dalat, cảm nhận của mình là chủ sở hữu rất thân thiện và hữu ích. quá trình tổng thể trơn tru. bạn để lại hộ chiếu hoặc bằng lái xe của nước sở tại làm tiền đặt cọc, nhưng bạn sẽ không gặp khó khăn gì khi lấy lại sau khi quay lại. 1500 vnđ trong 24 giờ. có thể hơi dễ dàng bỏ qua địa điểm này, vì vậy hãy để ý biển hiệu doanh nghiệp của họ đối diện với nơi lưu trú. nếu cổng đóng và không có ai xung quanh, chỉ cần gọi cho họ và sẽ có người chăm sóc bạn!.
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, negative}, {VEHICLE#QUALITY, neutral}, {PRICE, neutral}
+
+#215
+thuê xe anh chị rất nhiệt tình và xe chuẩn đẹp mọi người có ghé đà lạt thì nên thuê xe ở đây nhe giá rất hợp lý nữaa lần sau sẽ ủng hộ. Và chỗ đó là dv cho thuê xe máy qt đà lạt.
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, positive}
+
+#216
+dịch vụ thuê xe thân thiện , xe hơi mazda đời mới sạch sẽ thơm tho. thuê xe đơn giản . sẽ tiếp tục thuê xe khi có dịp đi đà lạt.. Mình đã trải nghiệm trong lần ghé thuê xe tự lái giá rẻ đà lạt.
+{PRICE, neutral}, {SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}, {SERVICE#RENTING, positive}
+
+#217
+Tôi nghe nhiều người nhắc đến motobike for rent, nên tôi đến thử. đừng ngần ngại, hãy thuê ở đây! lúc đầu tôi đã nghi ngờ với tư cách là một khách du lịch người nước ngoài và thật khó để quyết định dựa trên các đánh giá. chà, tôi hy vọng tôi có thể khẳng định rằng bạn đã đến đúng nơi! chủ sở hữu là một người đàn ông trung thực chân thành. tôi lo lắng vì đây là lần đầu tiên tôi lái xe ở việt nam nên muốn anh ấy lái xe máy cùng tôi. tiếng anh của anh ấy ở mức bình thường nhưng anh ấy có thể vượt qua được vợ anh ấy nói chuyện giúp anh ấy thông qua whatsapp, ít nhất là với giao dịch của tôi nhưng ngay cả với vốn tiếng anh hạn chế của anh ấy, bạn vẫn có thể thấy vẻ lo lắng trên khuôn mặt của người đàn ông này. anh ấy giống như vậy, bạn chắc chắn chứ? gần như không muốn cho tôi thuê chiếc xe tay ga cho đến khi anh ấy tiễn tôi ra ngoài. anh chàng đã chỉ đạo giao thông và đảm bảo rằng tôi đã đạp xe đến trạm xăng. điều này cho tôi thấy rằng anh ấy không chỉ theo đuổi công việc kinh doanh của bạn. anh ấy muốn đảm bảo rằng bạn được an toàn và xe đạp của anh ấy cũng được an toàn. ồ vâng, điểm mấu chốt là chiếc xe đạp của tôi rất tốt và nó còn có giá đỡ điện thoại. mũ bảo hiểm cũng được cung cấp, mặc dù tôi khuyên bạn nên đội mũ bóng chày trước khi đội mũ bảo hiểm. bạn không cần phải đổ đầy bình lại khi trả lại, bạn chỉ phải chịu trách nhiệm về lượng xăng của chính mình. được rồi, phần này là thực sự và tôi không hề thoả thuận hay được trả tiền để viết bài đánh giá này, nhưng tôi thực sự muốn công việc kinh doanh của anh chàng này phát triển hơn nữa. trả xe ng, tôi đi bộ qua những con hẻm nhỏ để về khách sạn. đột nhiên tôi nghe thấy một chàng trai đi, bạn đi đâu? tôi tưởng đó là tài xế grab và chuẩn bị gạt anh ta ra. nhưng đó là chủ nhân! tôi nói với anh ấy rằng tôi sẽ quay lại khách sạn và anh ấy đề nghị chở tôi về. rõ ràng là tôi đã lấy nó! dude chắc chắn là người đàn ông tốt bụng và trung thực nhất. tôi ước gì có một đoạn video về chuyến đi nhưng đây là lần đầu tiên tôi ngồi sau xe tay ga. cả hai tay tôi bị nắm thật chặt ở phía sau. tôi rất ấn tượng với cách lái xe của anh ấy. tôi hy vọng bạn thấy điều này hữu ích nếu bạn đã đọc đến đây. một số lời khuyên, hãy nhắn tin tới số doanh nghiệp trước khi bạn đến đó. ban đầu tôi gặp khó khăn khi tìm địa điểm này nhưng nó nằm ở bên trái những gì google thực sự cho bạn biết. chúc may mắn và lái xe an toàn tại việt nam. cảm ơn vợ chồng sếp.
+{SERVICE#RENTING, negative}, {VEHICLE#QUALITY, positive}, {LOCATION, positive}
+
+#218
+Với thuê xe 16 chỗ du lịch đà lạt - thịnh phú, điều mình thấy là vừa rồi nhà mình lên đà lạt thuê xe thịnh phú tham quan tp đà lạt, dịch vụ ok lắm.
+{PRICE, neutral}, {SERVICE#STAFF, neutral}, {VEHICLE#QUALITY, neutral}
+
+#219
+Địa điểm tôi thuê xe là lê la đà lạt - cho thuê xe máy pg1. cửa hàng do gia đình quản lý cung cấp dịch vụ chăm sóc khách hàng tuyệt vời!.
+{SERVICE#STAFF, positive}
+
+#220
+Có dịp trải nghiệm dịch vụ cho thuê xe máy giá rẻ tri ân, chú chủ xe rất nhiệt tình nha, xe rẻ, khoẻ mà ít hao xăng nữa
+{PRICE, neutral}, {SERVICE#STAFF, positive}, {VEHICLE#QUALITY, negative}
+
+#221
+Ngày hôm đó tại thuê xe máy giá rẻ duy my, mình cảm thấy anh chị chủ siêu dễ mến..con gái siêu dễ thương! cho hẳn 5 luôn..
+{SERVICE#STAFF, positive}
+
+#222
+Ghé thăm thuê xe 29 chỗ ở đà lạt, mình thấy thái độ phục vụ rất tốt và chuyên nghiệp. tư vấn nhiệt tình cho khách hàng, giúp mình chọn được dịch vụ phù hợp.
+{SERVICE#STAFF, negative}
+
+#223
+Trải qua thời gian ở dv cho thuê xe máy qt đà lạt, mình thấy 2 anh chị cho thuê nhiệt tình lắm ạ, giá thuê rẻ, đổ full bình chạy 3 ngày khắp đà lạt
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, neutral}
+
+#224
+Cá nhân mình, cho thuê xe rất xịn mang lại cảm giác nên thuê nhe mn, dịch vụ rất ok, nhanh gọn lẹ, thuê 3 ngày rưỡi, đúng giá, xe xịn, ngon, sẽ quay lại vào lần tới.
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#225
+Sau khi trải nghiệm ở thuê xe tự lái giá rẻ đà lạt, mình thấy xe mới sạch sẽ ,giá cả thì hợp ,lý thủ tục cho thuê nhanh gọn, giao xe đúng giờ. bonus thêm bạn chủ xe đẹp trai vui tính
+{PRICE, neutral}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#226
+Cảm nhận của tôi về cho thuê xe máy trường sinh là chả hiểu học đâu ra cái kiểu giận dỗi khách như con nít ảnh cho thuê xe mà ảnh làm như là mình mượn xe của ảnh vậy. nhót.
+{PRICE, neutral}, {VEHICLE#QUALITY, neutral}
+
+#227
+Cảm giác ở cho thuê xe máy đà lạt - hoàng thiện là cho thuê cho xe đalat rất ok
+{VEHICLE#QUALITY, neutral}
+
+#228
+Ghé thăm cho thuê xe máy đà lạt - go happy, mình thấy tour du lịch đà lạt nhiều thông tin bổ ích, cung cấp nhiều tour mới hấp dẫn cho mọi người khi có dịp thăm quan đà lạt. mình rất thích.
+{VEHICLE#QUALITY, positive}
+
+#229
+boss tốt bụng quá. những chiếc xe tay ga cũng rất tuyệt. không có sai sót. tôi sẽ thuê ở đây một lần nữa trong chuyến đi tiếp theo của tôi.. Một trải nghiệm khó quên tại thuê xe máy đà lạt anh hải.
+{VEHICLE#QUALITY, neutral}
+
+#230
+Mình vừa thử dv cho thuê xe máy qt đà lạt và thấy chị chủ dễ thương nhiệt tình.
+{SERVICE#STAFF, positive}
+
+#231
+Có dịp trải nghiệm viet motorcycle hotel motorbikes rental pg-1, xe đi rất ok giá cả vừa phải, chủ rất nhiệt tình
+{PRICE, neutral}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, neutral}
+
+#232
+Trải nghiệm tại cho thuê xe máy đà lạt - go happy, mình thấy trải nghiệm tuyệt vời ở đà lạt cùng với happy day.. hướng dẫn viên nhiệt tình, chụp ảnh có tâm, bác tài chạy xe cẩn thận.. lần sau lên đà lạt sẽ tiếp tục trải nghiệm dịch vụ.. 10 điểm..
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, neutral}
+
+#233
+Có cơ hội đến motobike for rent, tôi nhận thấy chủ dễ thương nhiệt tình cho thuê giá rẻ và đẹp đỉnh nóc kịch trần bay phấp phới.
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}
+
+#234
+bác tài hài hước hỗ trợ nhiệt tình, lái xe an toàn. cảm ơn dịch vụ chu đáo, sẽ ủng hộ tiếp. Mình đã tới thuê xe 29 chỗ ở đà lạt hôm đó.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, neutral}
+
+#235
+Về cho thuê xe máy đà lạt - go happy, mình có vài điều muốn nói: xe đưa đón sạch sẽ, nhân viên nhiệt tình, gói dịch vụ giá cả hợp lý
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, positive}
+
+#236
+Sau khi trải nghiệm tại thuê xe máy bích hà đà lạt, mình thấy xe mới nhất, chạy êm.
+{VEHICLE#QUALITY, positive}
+
+#237
+dịch vụ cực kỳ tốt , anh chủ nhiệt tình, giao xe đúng giờ tận nơi, xe cũng còn xăng chứ không phải nhiều chổ khác khi nhận xe xăng không còn 1 giọt, đặc biệt xe mới tinh luôn! đã trải nghiệm chân thật , mọi người yên tâm thue xe nha. Đó là lúc mình có mặt tại cho thuê xe máy chất lượng đức toàn.
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#238
+Trong buổi ghé qua dv cho thuê xe máy qt đà lạt, mình thấy xe ok, anh chị chủ dễ thương, nhiệt tình..
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, neutral}
+
+#239
+Khi đến cho thuê xe rất xịn, tình hình là thuê xe giá tốt thủ tục đơn giản chuyên nghiệp có dịp công tác mình sẽ thuê tiếp rất yên tâm.
+{PRICE, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#240
+Qua một bài viết, tôi biết đến pi motorbike rental và tôi thấy phục vụ rất tệ.
+{SERVICE#STAFF, negative}
+
+#241
+Cảm nhận riêng của mình về thuê xe máy đà lạt giá rẻ là nhân viên tư vấn nhiệt tình, vui vẻ..
+{SERVICE#STAFF, positive}
+
+#242
+Quá trình sử dụng dịch vụ motobike for rent, mình cảm thấy nhiệt tình, xe chạy ổn.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, neutral}
+
+#243
+Khi đến thuê xe máy đà lạt vũ bi, mình thấy xe xịn tốt phụ vụ nhiệt tình nha
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#244
+cho thuê xe rất xịn là nơi mình cảm nhận chưa mướn xe nhưng nhân viên tư vấn nhiệt tình chua đáo.
+{PRICE, neutral}, {SERVICE#STAFF, positive}, {VEHICLE#QUALITY, neutral}
+
+#245
+Một số cảm nhận tại bơ motobikes: đã thuê hai tháng trước. xe máy tuyệt vời, dịch vụ tuyệt vời
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, neutral}
+
+#246
+Khi đến dv cho thuê xe máy qt đà lạt, cảm nhận của mình là xe đẹp chị chủ thân thiện.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#247
+Khi check-in motobike for rent, mình xe đạp đẹp.
+{VEHICLE#QUALITY, positive}
+
+#248
+Mình đã thử thuê xe 16 chỗ ở đà lạt và thấy dịch vụ tuyệt vời từ nhân viên tư vấn ,xe mới sạch đẹp,lái xe thông thạo địa hình vui vẻ nhiệt tình..
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#249
+Điều đáng chú ý ở cho thuê xe máy chất lượng đức toàn: thân thiện với chủ sở hữu tốt. tôi thuê một chiếc xe đạp trong 3 ngày, mọi thứ đều ổn. bà chủ đã cho chúng tôi thêm xăng. không có câu hỏi nào được đặt ra khi chúng tôi hoàn thành muộn hơn dự kiến.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, neutral}
+
+#250
+Tôi đã đến dịch vụ cho thuê xe máy giá rẻ tri ân, tôi đã giao dịch với anh ta và thuê một chiếc dabbab trong 4,5 ngày giao dịch trung thực xe tăng mới và mạnh mẽ anh ấy mang theo tất cả đồ đạc của mình lời khuyên: hãy biến nó thành lựa chọn đầu tiên của bạn.
+{VEHICLE#QUALITY, positive}
+
+#251
+Khi đánh giá cho thuê xe máy - tài đà lạt, mình thấy dịch vụ rất ok luôn, mình có hỏi trả xe trễ nhưng mà vẫn ok không phụ thu gì á, xe mới đẹp, cho 5 sao luôn.
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, negative}, {VEHICLE#QUALITY, positive}
+
+#252
+Ngày mình ghé cho thuê xe máy - đà lạt vi vu, mình thấy anh chủ rất thân thiện ạ , xe nào cũng toàn xe mới rất ưng ý ạ.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#253
+Về cho thuê xe máy đà lạt - go happy, mình có thể nói rằng xe chạy ngon nha anh em , cub 50 mà độ 110cc phóng vèo vèo quá đã . tốt cảm ơn anh chủ shopp..
+{VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#254
+Đây là trải nghiệm cơ bản của mình tại motobike for rent: trước 10 ngày trước khi đi bên mình có đặt 2 chiếc ab trước nhưng khi đến ngày đó thì xe lại không có thay vào đó là đưa 1 chiếc vision cũ và 1 chiếc xe số cũ rồi kêu nhóm mình tối quay lại nhận xe, nhưng đến tối đó vẫn bảo không có xe và vẫn để tụi mình chạy 2 chiếc cũ đó cũng may là có giảm 50k tiền xe số 1 ngày và cho đến ngày hôm sau thì đổi cho mình 1 chiếc ab cũ và 1 chiếc vision dù mình order 2ab mình đăng đây không có ý công kích chỉ muốn cảnh báo các bạn nên chọn chỗ nào uy tín mà thuê !!.
+{PRICE, neutral}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, negative}
+
+#255
+Trải nghiệm ở thuê xe máy đà lạt - moto a3.go cho mình cảm giác có duyên gặp được chỗ thuê xe dịch vụ khá tốt tại đà lạt. anh chủ rất nhiệt tình và thân thiện luôn, nhóm mình thuê 4 xe số. bên này giao xe khá nhanh tầm 20' là ảnh đã chuẩn bị sẵn xe rồi. bốn chiếc xe gọn gàng, vệ sinh sạch sẽ, cộng 5 sao cho anh chủ nhé. có dịp quay lại sẽ ủng hộ tiếp ạ!!
+{PRICE, neutral}, {SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}, {SERVICE#RENTING, positive}
+
+#256
+Mình vừa thử thuê xe 29 chỗ ở đà lạt và thấy xe rất đẹp và sạch sẽ. tài xế nhiệt tình, lái xe an toàn.
+{VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#257
+chú dễ thương, giao nhận xe tận nơi. Lúc đó mình ở dịch vụ cho thuê xe máy giá rẻ tri ân.
+{SERVICE#RENTING, positive}, {VEHICLE#QUALITY, neutral}
+
+#258
+Tôi nghe nhiều người nhắc đến cho thuê xe rất xịn, nên tôi đã trải nghiệm thử. mình mê khám phá đà lạt bằng xe máy, rất xịn là nơi ưa thích của mình, lần nào tiệm cũng phục vụ xe rất nhanh, tận tình và chuyên nghiệp. xe thì đời mời mà chạy rất êm nha , cảm ơn rất xịn đã làm cho chuyến đi của mình thêm hoàn hảo nhé.
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#259
+Lần đầu tiên tôi ghé thuê xe máy thu hiền, tôi đã nhận thấy dịch vụ nhanh, giá tốt, giao tiếp bằng tiếng anh, có thể trả xe vào buổi tối muộn. chúng tôi đã cung cấp id. không cần thiết phải cung cấp bằng lái xe nhưng chúng tôi có ..
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, negative}, {VEHICLE#QUALITY, positive}
+
+#260
+Trải nghiệm của mình ở motobike for rent: địa điểm thuê xe khá hợp lý ở đà lạt, tuy nhiên không tính theo giờ thuê mà tính theo nửa ngày 1 ca thuê, thuê 2 tối tính 1.5 ngày. nên nếu thuê thì nên thuê bắt đầu từ buổi sáng.
+{PRICE, positive}, {VEHICLE#QUALITY, neutral}
+
+#261
+Từng trải qua tại bơ motobikes, mình thấy với một người chủ rất thân thiện xe máy mới tốt nhất ở đà lạt mọi thứ đều tốt nhất.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#262
+Ghé thuê xe máy đà lạt giá rẻ, mình thấy xe đời mới dịch vụ tốt, anh chủ siêu dễ thương mọi người à, hẹn gặp lại dịp sau trên đà lạt
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#263
+Hôm đến cho thuê xe pg1 đà lạt, mình thấy nhóm mình vừa thuê xe ở đây và phải nói là quá ưng ý! xe mới, chạy êm, không có tình trạng rung lắc hay xuống cấp. mũ bảo hiểm đầy đủ, sạch sẽ, an toàn. nhóm đông nhưng bên thuê xe vẫn chuẩn bị xe nhanh chóng, hỗ trợ tận tình..
+{PRICE, neutral}, {VEHICLE#QUALITY, positive}, {SERVICE#RENTING, positive}
+
+#264
+Sau khi trải nghiệm dịch vụ ở motorbike dalat, mình nhận thấy chúng tôi thuê một chiếc xe máy để lái xe từ đà lạt đến hồ chí minh. một cách! mọi việc diễn ra hoàn hảo, vũ đã rất cố gắng và giúp đỡ chúng tôi trong mọi vấn đề. cảm ơn! tôi chỉ có thể giới thiệu nó chuyến tham quan rất thú vị..
+{VEHICLE#QUALITY, neutral}
+
+#265
+anh chủ hỗ trợ rất nhiệt tình, xe ok lắm nhé. Nơi đó là lê la đà lạt - cho thuê xe máy pg1.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, neutral}
+
+#266
+Qua một bài viết, tôi biết đến thuê xe máy đà lạt - moto a3.go và tôi thấy mình nhận được xe bị lỗi lốp sau làm hỏng săm thường xuyên, lốp trước bị lỗi miếng vá cũ làm mình dắt bộ đường dài mấy lần. phải để vợ với con nhỏ bên đường để đi tìm chỗ vá xe, tìm rất lâu vì khách du lịch không quen địa bàn, may mà không vào chỗ rừng sâu không gì khỏi đi ra luôn. sau đó mình được đổi xe khác được hơn nên mình đánh giá 2 sao để bên bạn cải thiện dịch vụ..
+{VEHICLE#QUALITY, negative}, {SERVICE#STAFF, neutral}, {SERVICE#RENTING, neutral}
+
+#267
+xe ok chủ xe vui tính. Địa điểm này là thuê xe máy đà lạt thảo vy.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, neutral}
+
+#268
+giao dịch tuyệt vời rất hiệu quả và trung thực, chiếc xe đạp tuyệt vời rất ít km! rất khuyến khích thuê ở đây. Trên là đánh giá cá nhân về thuê xe máy đà lạt anh hải.
+{VEHICLE#QUALITY, neutral}
+
+#269
+Tôi chọn thuê xe 7 chỗ đà lạt holiday làm nơi thuê phương tiện di chuyển. xe mới, sạch sẽ tài xế am hiểu lịch sử văn hoá địa phương. hẹn gặp lại khi tới đà lạt!.
+{VEHICLE#QUALITY, positive}
+
+#270
+Cảm nhận cá nhân của mình về cho thuê xe máy đà lạt - ánh diệp: tôi thuê nó ở đây vì được đánh giá tốt. tôi đã có thể thuê nó mà không gặp vấn đề gì và yên tâm. có rất nhiều cửa hàng cho thuê xe đạp đội mũ bảo hiểm quá bẩn không muốn đội, nhưng đây cũng là điểm cao vì nó tương đối đẹp! xe số tự động giá 150k ngày. lưu ý bạn phải trả đồ trước 21h chứ không phải 24h kể từ khi mượn..
+{SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}, {PRICE, neutral}
+
+#271
+Đây là trải nghiệm chân thật của mình ở thuê xe 7 chỗ đà lạt công ty latour: 10đ luôn ạ , siêu nhiệt tìnhh , vui vẻ.
+{PRICE, neutral}, {SERVICE#STAFF, positive}
+
+#272
+Tôi có dịp thuê phương tiện từ cho thuê xe máy sang thu. lấy xe chậm trễ muốn trễ, thái độ tệ.
+{SERVICE#STAFF, negative}, {SERVICE#RENTING, negative}, {VEHICLE#QUALITY, neutral}
+
+#273
+hà cho thuê xe đã cho mình trải nghiệm xe ok, dịch vụ tốt
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#274
+Mình đã khám phá motobike for rent và thấy trước đó mình có đặt 2 chiếc ab nhưng đến nơi lại giao cho tụi mình 1 chiếc xe số và 1 chiếc vision đời 2013 bị hư chén cổ, qua ngày hôm sau khi trao đổi với bên chủ thì được đổi lại 2 chiếc như hình chiếc ab trắng chạy thì hụp ga xém tụt dốc và xém té mấy lần, còn chiếc vision đỏ thì mình không chạy nên không biết ..
+{VEHICLE#QUALITY, neutral}
+
+#275
+cho thuê xe rất xịn đã cho mình cảm giác xe đẹp, bạn chủ dễ thương
+{VEHICLE#QUALITY, positive}
+
+#276
+xe lên dốc cao hơi yếu, bóp phanh trái hơi cót két chắc do xe mới nhưng trải nghiệm ok, cảm ơn nhà xe. Đó chính là cho thuê xe máy - đà lạt vi vu.
+{PRICE, neutral}, {VEHICLE#QUALITY, positive}
+
+#277
+Với thuê xe máy đà lạt - an dân (scooter rental service - motorbike for rent), mình có thể nói rằng trải nghiệm tốt nhất cho đến nay. những người rất tốt bụng, giao tiếp tốt và quản lý dễ dàng. xe tay ga là mới và lái xe tương tự. nếu tôi có thể cho nhiều sao hơn thì chắc chắn tôi đã làm rồi. cảm ơn rất nhiều!.
+{SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#278
+Tôi đã sử dụng dịch vụ tại thuê xe 7 chỗ đà lạt công ty latour. mình mới thuê xe 7 chỗ của công ty hôm 29 06 2024. xe khá mới, tài xế thân thiện, tư vấn khách rất nhiệt tình. sẽ quay trở lại vào lần sau!.
+{PRICE, neutral}, {VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#279
+cho thuê xe máy đà lat(anh dũng) đem lại trải nghiệm xe đời mới chạy rất êm , anh chủ hỗ trợ nhiệt tình
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#280
+đội ngũ thân thiện và dịch vụ cho thuê hoạt động ngay cả khi thông báo trong thời gian ngắn. tuy nhiên, xe đạp đã xuống cấp rất nhiều. sau khi chúng tôi đổi xe đạp do lốp xe bị xẹp và đồng hồ đo vòng tua bị hỏng, chúng tôi đã nhận được một chiếc xe mới với đồng hồ đo vòng tua bị hỏng và phanh hầu như không hoạt động. thật đáng buồn là điều này có vẻ là tiêu chuẩn ở việt nam, vì vậy ba sao.. Trong chuyến thử cho thuê xe máy đà lạt - ánh diệp.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#281
+motorbike dalat là nơi bạn có xe máy 150cc không?
+{VEHICLE#QUALITY, neutral}
+
+#282
+dv bên này rất uy tín, xe chất lượng. Đây là cảm nhận của mình khi ghé dv cho thuê xe máy qt đà lạt.
+{VEHICLE#QUALITY, positive}
+
+#283
+Sau khi check-in tại cho thuê xe máy đà lat(anh dũng), mình anh chủ nhiệt tình giao xe nhanh vui vẻ xe đời mới okela
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#284
+Khi nghỉ ở dv cho thuê xe máy qt đà lạt, mình dịch vụ tốt chủ xe thân thiện xe đời mới.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#285
+cho thuê xe máy đà lạt-mr nguyên đã để lại cho mình cảm giác xe xịn, đẹp, máy chạy tốt. dịch vụ tuyệt vời lắm ạ
+{VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#286
+Về thuê xe 29 chỗ ở đà lạt, tôi muốn nói rằng chuyến đi của mình rất an toàn, tài xế đến đúng giờ và giá cả hợp lý. nhà xe rất thoải mái, nội thất xe đẹp và sạch sẽ. rất hài lòng với dịch vụ, sẽ tiếp tục ủng hộ lần sau.
+{PRICE, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}, {SERVICE#STAFF, neutral}
+
+#287
+Sau khi ghé thăm thuê xe tự lái giá rẻ đà lạt, tôi nhận ra rằng xe đời mới, sạch sẽ, dịch vụ tốt sẽ ủng hộ trong thời gian tới.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#288
+Lần ghé cho thuê xe máy đà lạt-mr nguyên vừa rồi, mình cảm nhận cửa hàng cho thuê xe đạp tốt bụng và lịch sự xe đạp scooter tiêu chuẩn 120k ngày tất nhiên là kèm theo mũ bảo hiểm khi thuê nhà, cần phải có hộ chiếu thay cho tiền đặt cọc và phải trả trước phí. nếu thời tiết xấu, chúng tôi cũng sẽ tặng bạn một chiếc áo mưa đơn giản xe máy được bảo dưỡng cẩn thận và đi lại thoải mái. chúng tôi cũng có thể giúp bạn bằng tiếng anh, điều này rất hữu ích chúng tôi khuyên bạn nên sử dụng điều này khi ở gần đó.
+{PRICE, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}, {LOCATION, positive}
+
+#289
+Khi mình tới motobike for rent, mình thấy xe đang trong tình trạng rất tốt, có nhiều xe để lựa chọn, anh chủ dễ thương..
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#290
+Không ngờ pi motorbike rental lại mặc dù tôi không biết làm thế nào để đi xe máy tốt, nhưng thật tuyệt khi họ giải thích chi tiết khi tôi thuê nó và thậm chí chỉ cho tôi cách vận hành nó và một chuyến đi thực hành. tôi không biết nếu nó rẻ hơn vì tôi đã sử dụng pi hostel, nhưng đó là 130.00 đồng để thuê trong một ngày, và giá bao gồm mũ bảo hiểm cho hai người. sẽ đáng tin cậy và tốt hơn nếu thuê một nơi khi lưu trú tại pi hostel. bạn phải để lại hộ chiếu khi thuê. không cần bằng lái xe quốc tế
+{VEHICLE#QUALITY, positive}, {PRICE, neutral}, {SERVICE#RENTING, neutral}
+
+#291
+Đi cho thuê xe máy thuỵ lê , cho thuê loa kẹo kéo, xe hop đồng tour du lich. đưa đón sân bay… rồi, giờ mới hiểu sao giao xe tận nơi, nhiệt tình, giá cả hợp lý. lần sau sẽ tiếp tục thuê..
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, neutral}
+
+#292
+những chiếc xe đạp mới, được bảo dưỡng và trong tình trạng tốt. tôi đã thuê một chiếc airblade 150cc trong một tháng. giá tốt.. Nơi mình đến chính là thuê xe máy đà lạt anh hải.
+{VEHICLE#QUALITY, positive}, {SERVICE#RENTING, positive}
+
+#293
+Khi check-in dv cho thuê xe máy qt đà lạt, mình xe đời mới chạy rất ok luôn nha mn. ac chủ dễ thương nhiệt tình lắm.
+{VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#294
+Trong chuyến đi Đà Lạt này, tôi đã ghé cho thuê xe máy mỹ phúc - khe sanh và tôi thấy dịch vụ tốt, chất lượng xe đẹp, khi nào đến sẽ qua đây thuê tiếp.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#295
+cho thuê xe máy đà lạt - go happy thật sự khiến mình rất không hài lòng về dịch vụ, không nhiệt tình với khách hàng. mình muốn trả xe tầm sau 12h thì nói là từ 12h tới 13h nhân viên nghỉ trưa nên không đi lấy xe. lúc 13h nhận xe thì tính thêm tiền thuê 1 ngày, trong khi sáng mình gọi điện thì không báo trước mình về việc đó.
+{SERVICE#STAFF, negative}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, neutral}
+
+#296
+Sau khi tới cho thuê xe máy pi nguyễn, mình nhận ra mình thuê xe ở đây mấy chiếc, giao nhanh gọn, anh chủ nhiệt tình. giá rẻ 100k ngày xe mới
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#297
+dv cho thuê xe máy qt đà lạt đã cho mình trải nghiệm xe mới, anh chị chủ rất nhiệt tình
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#298
+Lần đầu tiên tôi ghé motobike for rent, tôi đã nhận thấy ông chủ rất tốt bụng và xe đạp thì còn rất tốt. con gái của ông chủ dễ thương quá. hehe. cô ấy là người hàn quốc lai. xin hãy cho tôi thật nhiều tiền tiêu vặt..
+{VEHICLE#QUALITY, positive}, {SERVICE#RENTING, neutral}
+
+#299
+Sau khi trải nghiệm ở thuê xe máy đà lạt văn phú ( dalat motorbike rental ), mình thấy thuê xe nhanh chóng, thủ tục không rườm rà. xe sirius tiết kiệm xăng, chạy 3 ngày tốn chưa đến 100k tiền xăng
+{PRICE, neutral}, {SERVICE#RENTING, negative}, {VEHICLE#QUALITY, neutral}
+
+#300
+Tại cho thuê xe máy đà lạt - go happy, điều mình nhận thấy là hỗ trợ nhiệt tình chu đáo ạ.
+{SERVICE#STAFF, positive}
+
+#301
+Khi ghé qua cho thuê xe o to, xe máy (công ty tnhh sao vàng tour đà lạt), mình xe mới,tài xế nhiệt tình. mới trải nghiệm người
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#302
+Cá nhân mình, thuê xe tự lái giá rẻ đà lạt mang lại cảm giác rất hài lòng với dịch vụ tại đây.
+{SERVICE#STAFF, neutral}
+
+#303
+Thật lòng mà nói, ghé viet motorcycle hotel motorbikes rental pg-1 mình thấy bạn có xe tay ga không? xe đạp tự động?.
+{VEHICLE#QUALITY, neutral}
+
+#304
+Đôi lời về dịch vụ cho thuê xe máy giá rẻ tri ân: dịch vụ quá trời tốt, tận tình, chu đáo. đưa xe đến tận chỗ homestay vào lúc sáng sớm, lúc trả xe thì được đưa ra bến xe luôn. 10 điểm cho chất lượng.
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, neutral}
+
+#305
+Thông tin thêm về cho thuê xe máy phong hoa huệ: dàn xe đồng bộ, có đầu tư. giá mềm dễ tiếp cận, giao xe nhanh gọn, 5h sáng là đã có xe rồi, rất phù hợp nếu tới đà lạt sáng sớm.
+{VEHICLE#QUALITY, neutral}, {PRICE, positive}, {SERVICE#RENTING, positive}
+
+#306
+Trong lần ghé cho thuê xe máy đà lạt - go happy, dịch vụ chu đáo, nhiệt tình các bạn nhân viên dễ thương, làm việc chuyên nghiệp 10 điểm.
+{SERVICE#STAFF, positive}
+
+#307
+Lần đầu đến cho thuê xe máy đà lạt - go happy, mình cảm nhận sau 2 lần trải nghiệm tôi cản nhận tất cả dịch vụ của happy day travel tốt , từ chất lượng tour đến phòng ốc và nhân viên đều ok . không có điểm nào đáng phàn nàn cả, nhân viên ân cần, chu đáo, thái độ tốt trong công việc. sẽ quay lại khi đến đà lạt !
+{SERVICE#STAFF, negative}, {VEHICLE#QUALITY, positive}
+
+#308
+Khi đến cho thuê xe máy đà lạt-mr nguyên, mình nhận ra dịch vụ tốt, tận tình, chủ nhiệt tình, vui vẻ 100đ nha
+{PRICE, neutral}, {SERVICE#STAFF, positive}
+
+#309
+Sau khi ghé qua dalat motorbike rental & easyrider tour, mình thấy một trong những điểm nổi bật của chuyến đi 3 tuần rưỡi của chúng tôi đến việt nam. những người này rất hiểu biết, vui tính và an toàn. chúng tôi đã có ngày tuyệt vời nhất. con gái tôi và tôi đã chọn phương án easyrider và chồng tôi đã tự mình lái xe. chúng tôi hơi em ngại trước khi bắt đầu nhưng nhanh chóng cảm thấy thoải mái nhờ hoạt động chuyên nghiệp. chúng tôi trải nghiệm vùng quê đà lạt, vườn hoa, cà phê chồn, nuôi dế, nhà máy tơ lụa và nhiều hơn thế nữa. rất khuyến khích sử dụng công ty này cho chuyến tham quan bằng xe máy của bạn từ đà lạt..
+{VEHICLE#QUALITY, neutral}, {SERVICE#RENTING, positive}
+
+#310
+dịch vụ tốt giá cả phải chăng. Đó là lúc mình có mặt tại cho thuê xe máy đà lạt - go happy.
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}
+
+#311
+Trải nghiệm ở cho thuê xe máy đà lạt-mr nguyên khiến mình anh chị chủ nhiệt tình nha, xe mới và giá cả hợp lý, lần sau sẽ ủng hộ nha
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, positive}
+
+#312
+điểm cộng lớn là dịch vụ cho thuê này cho phép đi đến các tỉnh khác. tôi đạp xe đến nha trang và quay lại. chiếc xe đang hoạt động hoàn hảo honda airblade 125cc. giá đã ổn. nhìn chung hài lòng với dịch vụ. edit: lần thuê thứ 2 và một sự hài lòng khác . lần này một chiếc airblade khác đang ở trạng thái tốt nhất chuyến đi bảo lộc và quay lại .. Nơi này chính là thuê xe máy đà lạt anh hải.
+{SERVICE#STAFF, neutral}, {VEHICLE#QUALITY, neutral}, {PRICE, positive}, {SERVICE#RENTING, neutral}
+
+#313
+Qua một bài viết, tôi biết đến cho thuê xe máy đà lạt - hoàng thiện và tôi thấy xe thuê rất mới và có giao xe tận nơi.
+{SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#314
+Đôi lời về coffee and motobike for rent.: thuê một chiếc xe máy vào buổi sáng và người chủ rất đáng yêu và giải thích mọi thứ về chiếc xe đạp. cũng có một cửa hàng nhỏ chuyên bán cà phê đá việt nam được chế biến rất ngon. chắc chắn sẽ thuê lại. chủ sở hữu và bạn bè rất trung thực và rất thân thiện.
+{VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#315
+hài lòng với dịch vụ.. Và mình đã ở cho thuê xe máy đà lạt-mr nguyên.
+{SERVICE#STAFF, neutral}
+
+#316
+Tình cờ, tôi đã thuê xe tại thuê xe máy đà lạt thảo vy. xe tốt dịch vụ tốt.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#317
+Khi ghé qua dịch vụ cho thuê xe máy giá rẻ tri ân, mình chỗ thuê xe rất uy tín xe đời mới mạnh chú hiệp cho thuê xe rất vui vẻ, nhiệt tình giao nhận xe tận nơi khu vực gần hoàng hoa thám ngày mình về trả xe mà báo chú qtqd do quên báo chú trước nên làm chú chạy gần 20km qua nhận xe trong khi trời đang mưa để mình kịp chuyến xe về sg, ấy vậy mà chú vẫn nhiệt tình hỗ trợ xin lỗi và cám ơn chú rất nhiều luôn ! lần tới có dịp lên đà lạt chơi mình sẽ lại liên hệ thuê xe tri ân
+{LOCATION, positive}, {PRICE, neutral}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#318
+Sau khi check-in tại pi motorbike rental, mình ý là mọi người mướn xe cẩn thận nha dịnh vụ hơi tệ hơn chử tệ . gia hạn không chịu trả sau 22h tính phí 300k 1 chiếc xe á nha các bạn ư sợ ma
+{PRICE, neutral}, {VEHICLE#QUALITY, neutral}, {SERVICE#RENTING, neutral}
+
+#319
+dịch vụ cho thuê xe máy giá rẻ tri ân để lại cảm giác xe mới tốt, giao nhanh, chú giao xe thân thiện dễ thương
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#320
+Ở cho thuê xe máy đà lạt - go happy mình đã thấy phòng đẹp, tiện nghi và nhân viên nhiệt tình, thân thiện
+{SERVICE#STAFF, positive}
+
+#321
+home đẹp, nhân viên hỗ trợ nhiệt tình. Nơi này chính là xe dịch vụ đà lạt.
+{SERVICE#STAFF, positive}
+
+#322
+Đến cho thuê xe máy đà lạt - go happy mình mới thấy xe mới chạy ngon lắm nha, tuyệt vời , sẽ ủng hộ tiếp
+{VEHICLE#QUALITY, positive}
+
+#323
+dịch cho thuê xe tốt, nhiệt tình và vui vẻ với khách hàng, xe tay ga mới và ok lắm. Nơi đó là dịch vụ cho thuê xe máy giá rẻ tri ân.
+{PRICE, positive}, {SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#324
+Tới dịch vụ cho thuê xe máy giá rẻ tri ân một lần, mình thấy chú thân thiện vui vẻ lắm nha..xe mạnh leo dốc ok hết .lần sau sẽ tiếp tục ủng hộ chú nha
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, neutral}
+
+#325
+Tôi sử dụng dịch vụ thuê xe tại thuê xe máy đà lạt - an dân (scooter rental service - motorbike for rent). tôi giới thiệu, chủ sở hữu là đáng yêu, giá cả phải chăng và đáng tin cậy. anh ấy thậm chí còn đồng ý đưa tôi đến ký túc xá thanh niên của tôi sau khi tôi gửi xe cho anh ấy vào buổi tối. ở trên cùng cảm ơn bạn.
+{PRICE, positive}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, neutral}
+
+#326
+Một vài nhận xét về thuê xe máy đà lạt kim thành: kim thành hỗ trợ khách tận tâm, xe chạy mượt, giá hợp lý. đi đà lạt nhất định sẽ quay lại thuê tiếp!.
+{PRICE, positive}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, positive}
+
+#327
+dịch vụ tốt, xe xịn ạ. Đó là những gì mình thấy khi ở cho thuê xe máy - tài đà lạt.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#328
+Tôi đã ghé dịch vụ cho thuê xe máy giá rẻ tri ân và giao xe nhanh, giá hợp lý, xe đi cũng ổn.
+{PRICE, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, neutral}
+
+#329
+Tình cờ, tôi đã thuê xe tại cho thuê xe máy đà lạt - ánh diệp. nơi này cho thuê xe đạp, số sàn hoặc số tự động..tất cả đều ở tình trạng rất tốt, gần như mới. 0wner rất trung thực và hữu ích. tôi đạp xe trong 3 ngày, thích thú lái xe trên đường phố đà lạt và xa hơn nữa là đến hồ. sẽ làm lại..
+{PRICE, neutral}, {VEHICLE#QUALITY, positive}, {LOCATION, positive}
+
+#330
+Tại xe dịch vụ đà lạt - sang a còng mình đã tài xế dễ thương nhiệt tình
+{SERVICE#STAFF, positive}
+
+#331
+Tên địa điểm: thuê xe máy đà lạt anh hải. Trải nghiệm: thuê hai chiếc xe tay ga 160 cc. điều kiện hàng đầu ở một mức giá hoàn toàn hợp lý. việc liên lạc và nhận hàng không phức tạp. rất khuyến khích. cảm ơn đội ngũ
+{VEHICLE#QUALITY, neutral}, {PRICE, neutral}, {SERVICE#RENTING, negative}
+
+#332
+Tên địa điểm: xe dịch vụ đà lạt - sang a còng. Trải nghiệm: chuyến đi tuyệt vời, xe đưa đón tận nơi, đúng giờ
+{SERVICE#RENTING, positive}, {VEHICLE#QUALITY, neutral}
+
+#333
+Từng ghé qua cho thuê xe máy đà lạt - go happy, mình chưa đủ 18 tuổi thuê xe được hk
+{PRICE, neutral}, {VEHICLE#QUALITY, neutral}
+
+#334
+dịch vụ chú rất dễ thương. Mình đã trải nghiệm khi ghé dịch vụ cho thuê xe máy giá rẻ tri ân.
+{SERVICE#STAFF, positive}
+
+#335
+Để nói về thuê xe máy thu hiền, mình thấy thôi thôi chừa luôn xe hư thắng, ổng kiu chạy lại ổng để nâng thắng chứ nhất quyết không lại hỗ trợ. nghĩ sao cho không chạy xe hư thắng đến chỗ ổng mà không nghĩ đến sự an toàn của khách, giá cả thì tính trên trời, xe thì cũ, làm tiền khách..
+{VEHICLE#QUALITY, negative}, {PRICE, neutral}, {SERVICE#RENTING, neutral}
+
+#336
+Lần đầu tới cho thuê xe máy đà lạt - go happy, mình nhận thấy mình cực hài lòng với dịch vụ của bên go happy, hỗ trợ giao nhận xe tận nơi, xe mới, anh chủ hỗ trợ rất nhiệt tình, ccd cũng chỉ yêu cầu chụp ảnh chứ bên go happy không giữ lại nên việc trả xe cũng khá thuận tiện. 1 khách hàng thân thiết của go happy!.
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, negative}, {VEHICLE#QUALITY, positive}
+
+#337
+Địa điểm tôi thuê xe là dịch vụ cho thuê xe máy giá rẻ tri ân. xe siêu mạnh luôn ạ và hỗ trợ nhiệt tình lắm lắm.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, neutral}
+
+#338
+giao nhanh xe mới được cái cuối tuần các nhà xe khác đều hết thì bên này lúc nào cũng có xe cho khách đi, được cái là đặt xe là chắc chắn có xe nên khá yên tâm. Và địa điểm mình nhắc đến chính là cho thuê xe pg1 đà lạt.
+{PRICE, neutral}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#339
+Ở thuê xe tự lái giá rẻ đà lạt, mình trải nghiệm chất lượng xe tuyệt vời, giá cả rẻ
+{PRICE, positive}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, neutral}
+
+#340
+Mình muốn chia sẻ về cho thuê xe máy sang thu: giá thì rất cao mà dịch vụ thì cực tệ, xe không ổn định, thái độ cực kỳ.
+{PRICE, negative}, {SERVICE#STAFF, negative}, {SERVICE#RENTING, negative}, {VEHICLE#QUALITY, positive}
+
+#341
+trải nghiệm thuê xe máy tốt nhất ở đà lạt! đã thuê một chiếc honda airblade hoàn toàn mới với mức giá tuyệt vời và dịch vụ thật xuất sắc! nhóm siêu hữu ích, phản hồi nhanh trên whatsapp và rất chuyên nghiệp. họ thả xe và nhặt chiếc xe đạp một cách dễ dàng. rất khuyến khích dịch vụ cho thuê này chắc chắn sẽ sử dụng lại chúng!. Mình đã cảm nhận điều này tại thuê xe máy đà lạt - an dân (scooter rental service - motorbike for rent).
+{PRICE, positive}, {VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}
+
+#342
+Về dv cho thuê xe máy qt đà lạt, mình có nhận xét là dịch vụ tốt giá cả phải chăng. sẽ còn ủng hộ..
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}
+
+#343
+Nói ngắn gọn về motobike for rent: xe tay ga siêu thân thiện, giá cả phải chăng, chất lượng tốt.
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#344
+trải nghiệm tuyệt vời. rất nhiệt tình và chu đáo!!. Trong chuyến thử thuê xe 7 chỗ đà lạt công ty latour.
+{SERVICE#STAFF, positive}
+
+#345
+dịch vụ bên chỗ này ok,xe đẹp giá rẻ , chỉ 100k 1 ngày, phục vụ rất ân cần. Đây là điều mình thấy tại thuê xe máy giá rẻ duy my.
+{PRICE, positive}, {SERVICE#STAFF, neutral}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, positive}
+
+#346
+dịch vụ tuyệt vời! tôi không lấy xe đạp cũ, ảnh hộ chiếu, trả tiền sau! không có gì!. Và địa điểm mình ghé hôm đó là thuê xe máy đà lạt anh hải.
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, negative}
+
+#347
+Một dịp ghé thăm lê la đà lạt - cho thuê xe máy pg1, mình thấy xe mới chủ đẹp trai.
+{VEHICLE#QUALITY, positive}
+
+#348
+Cảm giác ở cho thuê xe rất xịn là xe ok. anh cho thuê xe quá nhiệt tình và dễ thương. hãy thuê xe chỗ này nhé
+{VEHICLE#QUALITY, neutral}, {PRICE, neutral}, {SERVICE#STAFF, positive}
+
+#349
+Tới thuê xe máy đà lạt thảo vy, mình trải nghiệm anh chủ dễ thương lắm .làm việc có tâm, mọi người nên thử
+{SERVICE#STAFF, positive}
+
+#350
+Nhìn chung, trải nghiệm của mình tại thuê xe 7 chỗ đà lạt công ty latour là xe mới, tài xế thân thiện, dịch vụ rất ư là tuyệt vời, mình chắc chắn sẽ ủng hộ dài dài luôn nếu còn tiền đi du lịch tiếp.
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, negative}, {VEHICLE#QUALITY, positive}
+
+#351
+tại đây có dòng xe pg1 đang hot trên thị trường, đến đây mọi người sẽ được tư vấn và phục vụ nhiệt tình cho hành trình du lịch của mình.. Mình đã trải nghiệm khi ghé cho thuê xe pg1 đà lạt.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, neutral}
+
+#352
+Đến cho thuê xe máy trường sinh và minh thấy xe tốt giá mềm, chủ xe rất thân thiện.
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#353
+tuan roi nha minh moi thue xe thinh phu tham quan da lat tai xe vui ve nhiet tinh lan sau len da lat minh se thue ve dich vu nay. Và chỗ đó là thuê xe 16 chỗ du lịch đà lạt - thịnh phú.
+{VEHICLE#QUALITY, neutral}
+
+#354
+pi motorbike rental khiến mình cảm nhận họ có những chiếc xe máy hoàn toàn mới như đã chạy được 600 km trong tình trạng rất tốt. chúng tôi đã lái xe khoảng 130 km trong một ngày. người phụ nữ trên bàn rất tử tế và tiếng anh của cô ấy rất tốt. bạn có thể thuê xe đạp từ sáng sớm cho đến 23h30. sau đó họ tính phí ngày mới. bình xăng đã cạn và bạn phải đến trạm xăng đầu tiên, nhưng điều đó là bình thường ở việt nam. giá thuê 1 ngày là 130k nhưng đặt cọc phải để lại chứng minh nhân dân hoặc hộ chiếu vì máy còn mới và phải đặt cọc bằng tiền mặt sẽ rất lớn. động cơ vẫn ổn, lốp xe trong tình trạng rất tốt, chúng tôi không gặp vấn đề gì trong chuyến đi, vì vậy tôi không thể nói họ giải quyết vấn đề như thế nào nhưng tôi tin rằng nó sẽ ổn thôi.
+{VEHICLE#QUALITY, positive}, {PRICE, neutral}, {SERVICE#RENTING, neutral}
+
+#355
+Khi có dịp ghé cho thuê xe máy đà lạt - go happy, mình cảm nhận không cho đặt xe trước ! trên website thì ghi là 24 24, điện thoại hotline để đặt xe, khi mình điện thoại thì bảo hôm sau liên hệ lại vì cửa hàng không có dịch vụ đặt xe trước, và mở cửa từ 7:00 am.
+{PRICE, neutral}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, neutral}, {SERVICE#STAFF, neutral}
+
+#356
+Một vài chia sẻ về thuê xe 7 chỗ đà lạt công ty latour. rất ấn tượng với sự tư vấn nhiệt tình và sự dễ thương của tài xế công ty, nếu có dịp lên lại đà lạt nhất định sẽ ủng hộ công ty.
+{SERVICE#STAFF, positive}
+
+#357
+dịch vụ tốt,xe chay êm nói chung nên thử nhen. Lúc đó mình ở thuê xe máy giá rẻ đà lạt - mai sơn.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#358
+Một lần ở dịch vụ cho thuê xe máy giá rẻ tri ân rẻ, xe đi ngon !
+{PRICE, neutral}, {VEHICLE#QUALITY, positive}
+
+#359
+Ở thuê xe tự lái giá rẻ đà lạt mình đã thấy xe đẹp, giá rẻ, giao xe nhanh, uy tín. lần sau có đi đà lạt sẽ tiếp tục ủng hộ
+{PRICE, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#360
+Ghé lê la đà lạt - cho thuê xe máy pg1 xong mình thấy xe mới đẹp, anh chủ nhiệt tình thân thiện giá cả hợp lý nhé cả nhà
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, positive}
+
+#361
+Tôi đã đến thuê xe máy đà lạt - an dân (scooter rental service - motorbike for rent), xe mới chạy êm lắm mọi người ơi.
+{VEHICLE#QUALITY, positive}
+
+#362
+Mới khám phá cho thuê xe máy đà lạt-mr nguyên hôm nay, ấn tượng bởi khả năng leo dốc của chiếc air blade đời mới, vượt qua con dốc hùng vương không cần vít ga hết mức.
+{VEHICLE#QUALITY, positive}
+
+#363
+anh chị giao xe tận chỗ miễn phí với nhiệt tình lắm ạ.giá cũng ok xe chạy ổn nhe. Địa chỉ mình ghé là dv cho thuê xe máy qt đà lạt.
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, neutral}
+
+#364
+Trong lần ghé cho thuê xe máy đà lạt - go happy, đi du lịch 1 ngày ở công ty rất tốt. tuy đăng ký lúc đầu ở công ty khác nhưng được ghép tour vào happyday gặp hướng dẫn viên anh tuấn không cao ở công ty hướng dẫn rất nhiệt tình, tận tâm hài hước, còn cả biết chụp hình đẹp nữa. xe ở công ty rất mới. mọi dịch vụ đều rất tốt đưa đón tận nơi..
+{PRICE, neutral}, {SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#365
+Tại cho thuê xe máy pi nguyễn, phòng mới và sạch sẽ, anh chị chủ nhiệt tình và dễ thương. giá phòng cũng mềm. chỗ này nhìn vậy chứ gần trung tâm lắm, mình đi chợ là đi bộ nè, đi thiền viện, fairytale land, ga đà lạt hay mấy chỗ khác cũng gần nữa. nói chung là tiện
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}, {PRICE, neutral}, {SERVICE#RENTING, neutral}, {LOCATION, positive}
+
+#366
+Vừa đến thuê xe máy giá rẻ đà lạt - mai sơn đã thấy thật là tuyệt vời..xe quá đẹp
+{VEHICLE#QUALITY, positive}
+
+#367
+Nghe chia sẻ về bơ motobikes: chúng tôi thuê một chiếc xe máy trong 4 ngày, đó là một chiếc airblade mới, giá cả rất phải chăng. dịch vụ cho thuê thực sự rất tốt và hữu ích, cô ấy thậm chí còn gọi taxi cho chúng tôi đến sân bay sau khi lấy xe đạp về
+{PRICE, positive}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#368
+dịch vụ tốt. mình và gia đình đã có trải nghiệm rất tốt với happy day. Địa điểm mình đề cập là cho thuê xe máy đà lạt - go happy.
+{SERVICE#STAFF, positive}
+
+#369
+Về tổng thể, thuê xe máy đà lạt anh hải mang lại cảm giác chủ sở hữu tốt và dễ chịu. giá cả hợp lý cho một chiếc xe đạp tình trạng tốt. mình đi yamaha nvx nó rất tuyệt.
+{PRICE, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#370
+xe cốp rộng lắm ạ. ac chủ nhiệt tình hỗ trợ nhóm mình láy chị em lúc 4h sáng. cám ơn ac nhiều nhé. Một trải nghiệm khó quên tại cho thuê xe máy giá rẻ đà lạt - vũ ti số 2 đường cách mạng tháng 8, p8, đà lạt.
+{VEHICLE#QUALITY, neutral}, {SERVICE#STAFF, positive}
+
+#371
+Một vài chia sẻ về cho thuê xe rất xịn. cho thuê xe máy đà lạt thì ở đây mình đánh giá cao nhất. uy tín chuyên nghiệp xe cũng ổn. rất nhiệt tình.
+{PRICE, negative}, {SERVICE#RENTING, negative}, {VEHICLE#QUALITY, neutral}, {SERVICE#STAFF, positive}
+
+#372
+cho thuê xe máy đà lạt-mr nguyên là nơi mình từng mình trả xe người được tặng tem giảm giá cho lần sau, nhất định sẽ quay lại và rủ đồng nghiệp đi cùng.
+{PRICE, neutral}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, neutral}
+
+#373
+cho thuê xe nhiệt tình, chu đáo. xe khoẻ ổn. Hôm đó mình dùng dịch vụ tại dịch vụ cho thuê xe máy giá rẻ tri ân.
+{PRICE, neutral}, {SERVICE#STAFF, positive}, {VEHICLE#QUALITY, neutral}
+
+#374
+địa điểm thuê xe 29 chỗ giá rẻ và uy tín. xe mới, sạch sẽ, không gian rộng rãi. tài xế lái xe rất thân thiện, chu đáo và an toàn. đặt xe nhanh chóng, tiện lợi.. Nơi đó là thuê xe 29 chỗ ở đà lạt.
+{PRICE, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#375
+đã thuê xe ở đây và giá khá tốt ạ, chủ rất dễ thương và luôn hỗ trợ. Và nơi mình nhắc tới là viet motorcycle hotel motorbikes rental pg-1.
+{PRICE, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#376
+cho thuê xe máy dũng đà lạt đã để lại cho mình cảm giác tận tình nhân viên rất dth nói ch lịch sự sẽ ủng hộ dài dài
+{SERVICE#STAFF, positive}
+
+#377
+Đến thuê xe máy đà lạt - an dân (scooter rental service - motorbike for rent) và minh thấy chỗ thuê xe uy tín, giá rẻ và xe đời mới, anh chủ đẹp trai, nhiệt tình giao xe tận nơi, thủ tục dễ dàng. lần sau lên đà lạt sẽ ủng hộ anh chủ đẹp trai nữa.
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#378
+Khi mình tới dv cho thuê xe máy qt đà lạt, mình thấy xe mới chủ nhiệt tình.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#379
+Đi motobike for rent làm mình thấy nơi tuyệt vời để thuê xe máy. xe máy là tất cả những gì bạn cần để khám phá đà lạt. và dịch vụ thì hoàn hảo. những anh chàng rất tuyệt vời!
+{PRICE, neutral}, {VEHICLE#QUALITY, neutral}, {SERVICE#STAFF, positive}
+
+#380
+Tôi đã ghé cho thuê xe máy đà lạt-mr nguyên và chủ dễ thương, phí hợp lý, nên thuê nhé mọi người.
+{PRICE, positive}, {SERVICE#RENTING, positive}
+
+#381
+Lần đầu đến lê la đà lạt - cho thuê xe máy pg1, tôi đã trải nghiệm vị trí thuê xe sát bên chợ đà lạt, rất tiện. 45 lê đại hành xe thì toàn xe mới, odo chưa tới 100km giá trải nghiệm hợp lý so với 1 chiếc cực mới này. anh chủ dễ thương nhưng mà có vợ rồi thuê xe được tặng sẵn 1lit xăng, tha hồ vi vu 50km nữa mới cần đổ lại booking trước để giữ lại màu vàng nổi bậc này tặng lê la đà lạt 5 cho những trải nghiệm tuyệt vời trên..
+{LOCATION, positive}, {PRICE, neutral}, {VEHICLE#QUALITY, positive}, {SERVICE#RENTING, neutral}, {SERVICE#STAFF, positive}
+
+#382
+Ghé cho thuê xe máy sang thu xong mình thấy chúng tôi thuê xe, deal bên cho thuê sẽ giao xe nhưng không thấy, bên thuê phải bắt taxi qua lấy, tốn thêm 200k tiền taxi mọi người muốn thuê nên suy nghĩ kỹ lại.. lần sau có giảm giá 50 cũng không dám thuê lại
+{PRICE, neutral}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, neutral}
+
+#383
+Từng trải nghiệm ở dịch vụ cho thuê xe máy giá rẻ tri ân, mình thấy bác chủ nhiệt tình, dễ thương, xe tốt
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#384
+mình thuê xe 16 chỗ đi du lịch đà lạt của dalat today travel rất ưng ý. xe rất tốt, lái xe nhiệt tình.. Mình ghi nhận điều này tại thuê xe 16 chỗ ở đà lạt.
+{PRICE, neutral}, {VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#385
+Có dịp trải nghiệm dịch vụ cho thuê xe máy giá rẻ tri ân, đã có rất nhiều lời đánh giá có cánh cho anh chị chủ rùi, và điều làm cho mình hài lòng nữa là anh chị rất đúng giờ. cảm ơn anh chị nhiều ạ.
+{SERVICE#STAFF, neutral}, {SERVICE#RENTING, positive}
+
+#386
+Sau khi ghé thăm thuê xe máy giá rẻ duy my, mình thấy xe đẹp , mới , giá tốt , giao xe rất nhanh , cô chủ dễ thương , dễ mến , đáng yêu , thân thiện , các bạn lên dalat nhớ liên hệ thuê xe duy my nhé , sẽ không làm các bạn thất vọng ..
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#387
+Khi có dịp ghé cho thuê xe máy sang thu, mình cảm nhận không có đưa xe tận nơi như mô tả. xứng đáng 1 sao.
+{SERVICE#RENTING, positive}, {VEHICLE#QUALITY, neutral}
+
+#388
+Tình cờ, tôi đã thuê xe tại dv cho thuê xe máy qt đà lạt. dịch vụ tốt xe mới chủ xe thân thiện.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#389
+Tôi chọn thuê xe máy đà lạt - an dân (scooter rental service - motorbike for rent) làm nơi thuê phương tiện di chuyển. dịch vụ xuất sắc, phản hồi nhanh chóng và xe đạp vẫn tốt. một điều dành cho du khách là bạn sẽ không nhận được xe đầy xăng như trường hợp thông thường nhưng bạn cũng không cần phải trả lại đầy xăng. tôi chỉ ngạc nhiên vì điều này vì bạn không bao giờ biết mình sẽ cần bao nhiêu nhiên liệu. giá là 150k một ngày, không tính phí nửa ngày nhưng cũng không cần đặt cọc chỉ cần có ảnh hộ chiếu. tôi muốn giới thiệu.
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}, {PRICE, neutral}
+
+#390
+thuê xe máy đà lạt giá rẻ là nơi mình từng dịch vụ tốt, nhân viên thân thiện
+{SERVICE#STAFF, positive}
+
+#391
+Tới thuê xe máy đà lạt - an dân (scooter rental service - motorbike for rent), mình nhận thấy chủ sở hữu rất nhanh nhạy. thuê một chiếc xe đạp mà không cần cầm hộ chiếu hoặc bất cứ thứ gì khác. giá cả rất hợp lý, xe đạp trong tình trạng tốt, tôi giới thiệu chúng!.
+{SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}, {PRICE, positive}
+
+#392
+Đến dịch vụ cho thuê xe máy giá rẻ tri ân và minh thấy nhiệt tình.
+{SERVICE#STAFF, positive}
+
+#393
+Khi ghé motobike for rent, mình thấy xe cho thuê mới, giá cả hợp lý, anh chủ dễ thương.
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#394
+Đến cho thuê xe máy đà lạt - go happy và minh thấy hướng dẫn viên nhiệt tình, vui vẻ. rất đáng để trải nghiệm. lần sau đến sẽ tiếp tục ủng hộ tour..
+{SERVICE#STAFF, positive}
+
+#395
+Sau khi đến motorbike dalat, mình công ty cho thuê xe rất tốt. xe máy tốt, nhưng thiếu giá đỡ điện thoại
+{PRICE, positive}, {VEHICLE#QUALITY, positive}, {SERVICE#RENTING, negative}
+
+#396
+Tại dv cho thuê xe máy qt đà lạt, điều mình nhận thấy là xe mới cứng ,giá ok . anh chị chủ nhiệt tình hỗ trợ giao nhận xe..
+{SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#397
+Nghe chia sẻ về cho thuê xe máy đà lạt - vũ: lần đầu lên đà lạt thuê xe bên vũ rất ok. vừa đến bến xe liên tỉnh là đã có xe chạy. thủ tục cũng rất nhanh gọn, chỉ cần chụp lại ccd thôi. giá thuê xe ab 160 100k khá ổn so với dịch vụ thuê bây giờ. xe chạy rất êm, vượt đèo, vượt dốc không ngán loại nào. ngoại hình còn khá mới. trả xe tặng anh chủ giá để điện thoại dò đường, còn cái dù che giá đỡ trong cóp xe. lên đây nhờ cái giá đỡ này mới tung hoành được. nếu có dịp lên tiếp sẽ thuê ủng hộ tiếp shop.
+{PRICE, neutral}, {VEHICLE#QUALITY, positive}, {SERVICE#RENTING, positive}, {SERVICE#STAFF, neutral}
+
+#398
+thuê xe máy giá rẻ đà lạt - cảnh ruby đem lại trải nghiệm nhân viên nhiệt tình vui vẻ tác phong nhanh nhẹn
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}
+
+#399
+Để nói về thuê xe máy đà lạt - an dân (scooter rental service - motorbike for rent), mình thấy tuyệt vời, rất tuyệt, họ đưa tôi về khách sạn sau khi trả lại xe máy.
+{VEHICLE#QUALITY, neutral}
+
+#400
+Lần tới thuê xe tự lái giá rẻ đà lạt, mình đã xe mới, sạch sẽ giao nhận tận nơi, thủ tục đơn giản, đặc biệt là giá cả hợp lý. mình cực kỳ thích dịch vụ thuê xe tự lái giá rẻ ở đây luôn í. nhân viên tư vấn nhiệt tình. sẽ ủng hộ dài dài
+{PRICE, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#401
+Với thuê xe máy đà lạt anh hải, điều mình thấy là không thể giới thiệu thêm, hải rất thoải mái và cung cấp những chiếc xe đạp được bảo quản tốt, chất lượng với giá trị lớn. tôi thuê một chiếc honda winner x 150cc trong tình trạng tốt. cửa hàng của anh ấy có thể khó tìm vì nó nằm ở một con đường dốc..
+{SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}, {LOCATION, negative}
+
+#402
+Ghé dv cho thuê xe máy qt đà lạt, mình thấy chất lượng tốt, nhiệt tình .. thanks
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#403
+Lần ghé thuê xe 29 chỗ ở đà lạt vừa rồi, mình thấy chất lượng okee
+{VEHICLE#QUALITY, neutral}
+
+#404
+chúng tôi đồng ý thuê xe máy với tôi đón trong 4 giờ. sau 4 giờ họ nói với tôi rằng họ đã thuê xe máy. dịch vụ tệ, không đáng tin cậy. Đây là cảm nhận tại thuê xe máy đà lạt - an dân (scooter rental service - motorbike for rent).
+{PRICE, neutral}, {VEHICLE#QUALITY, neutral}, {SERVICE#STAFF, negative}
+
+#405
+cho thuê xe rất xịn khiến mình cảm nhận xe giao nhanh chất lượng xe tốt, chạy rất ổn
+{SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#406
+thuê xe máy đà lạt văn phú ( dalat motorbike rental ) là nơi mình cảm nhận lần đầu đi đà lạt và thuê xe máy, tìm được văn phú là đúng đắn. không cần đặt cọc, thủ tục nhanh gọn, xe sạch đẹp, chạy êm. mình cực kỳ thích!
+{PRICE, neutral}, {VEHICLE#QUALITY, positive}, {SERVICE#RENTING, positive}
+
+#407
+Đi coffee and motobike for rent. làm mình thấy một cửa hàng xe đạp với người chủ thân thiện và một khu vườn nhỏ. cà phê tôi uống khi ngồi ngoài vườn cũng rất ngon.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, neutral}
+
+#408
+Lúc ghé qua dv cho thuê xe máy qt đà lạt, mình thấy dịch vụ xe tốt, chuyên nghiệp, tận tâm, recomment nên thuê xe bạn thảo nha!.
+{PRICE, negative}, {SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#409
+Để đánh giá cho thuê xe máy pi nguyễn, mình nghĩ sạch đẹp nhiệt tình.
+{SERVICE#STAFF, positive}
+
+#410
+hoàn hảo xe tay ga đang trong tình trạng rất tốt gần như mới giá tiêu chuẩn và bao gồm 1l nhiên liệu. nhân viên rất thân thiện và niềm nở tôi khuyên bạn nên. Tôi đã có trải nghiệm này ở pi motorbike rental.
+{LOCATION, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#411
+Sau khi tới cho thuê xe máy dalat trang, mình nhận ra xe đẹp, đi êm. giao tận nơi, thân thiện.. lần sau lên đà lạt sẽ ủng hộ típ
+{VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#412
+Ở dịch vụ cho thuê xe máy giá rẻ tri ân, mình đã trải nghiệm dịch vụ rất hài lòng, giá cả hợp lí và chủ phục vụ nhiệt tình nhẹ nhàng. tình cờ thấy biển quảng cáo treo nên gọi chứ không nghe review ở đâu cả mà ưng quá trời
+{PRICE, neutral}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, neutral}
+
+#413
+Mình đã dành thời gian ở cho thuê xe máy phong hoa huệ và đây là những gì mình cảm nhận: giao xe thì ok nhanh. đến lúc mình trả thì nói không có người đến lấy, nếu trả sau 19h thì phải tự qua trả. và thế là thôi mình phải đợi đến sáng 7h mới trả xe mới có người lấy, mất 100k cho ngày hôm sau mặc dù không đi..
+{SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}, {PRICE, neutral}
+
+#414
+địa điểm tuyệt vời tôi đã tìm được một chiếc xe máy tốt với giá hời. Và đó là trải nghiệm của tôi tại motobike for rent.
+{PRICE, neutral}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#415
+bà chủ nhà rất tốt bụng. 150.00 một ngày là rất rẻ, bạn chỉ cần hộ chiếu là có thể thuê được.. Đó là những gì mình thấy khi ở motobike for rent.
+{PRICE, neutral}, {SERVICE#RENTING, neutral}
+
+#416
+chú hiệp rất nhiệt tình. cảm ơn chú tụi cháu đã có chuyến đi thật vui vẻ. Tôi muốn chia sẻ về dịch vụ cho thuê xe máy giá rẻ tri ân.
+{SERVICE#STAFF, positive}
+
+#417
+công ty thực sự chuyên nghiệp, đội ngũ nhân viên nhiệt tình, có trình độ.. Đó là kỷ niệm tại cho thuê xe máy đà lạt - go happy.
+{SERVICE#STAFF, positive}
+
+#418
+Theo quan sát tại dalat motorbike rental & easyrider tour, tôi đã thử thuê nó ở một khách sạn nhưng nó có giá 220.00 đồng, có vẻ đắt so với giá địa phương nên tôi tìm thấy ở đây và thuê một chiếc yamaha 125cc với giá 150.00 đồng, xe còn rất tốt. cô chủ rất tốt bụng và đã thay mũ bảo hiểm cho tôi 3 lần vì đầu tôi to và không vừa. tôi đánh giá cao nơi này cho bất kỳ ai muốn thuê một chiếc xe đạp.
+{SERVICE#RENTING, negative}, {PRICE, negative}, {VEHICLE#QUALITY, positive}
+
+#419
+Về motorbike dalat, mình có vài điều muốn nói: một trải nghiệm tuyệt vời. xe máy trong tình trạng rất tốt và ở một mức giá tốt. người phụ trách là một chuyên gia tuyệt vời và hoàn toàn đáng tin cậy.
+{SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#420
+Ở cho thuê xe máy đà lạt_anh tây mình đã thấy trải nghiệm thuê xe rất okela. mình thuê tổng 3 ngày, xe mới, mọi chức năng của xe cũng được bảo dưỡng đầy đủ, chạy êm. khuyên mọi người nên thuê bên anh tây nha
+{PRICE, neutral}, {VEHICLE#QUALITY, positive}
+
+#421
+Cá nhân mình, thuê xe tự lái giá rẻ đà lạt mang lại cảm giác rất hài lòng với dịch vụ của các bạn.
+{SERVICE#STAFF, neutral}
+
+#422
+Đôi lời về thuê xe máy đà lạt - an dân (scooter rental service - motorbike for rent): thực sự dễ dàng để thuê một chiếc xe tay ga. hùng rất tuyệt..rất nhiệt tình và rất thân thiện. rất khuyến khích bạn sử dụng dịch vụ này nếu bạn cần một chiếc xe tay ga trong vài ngày quanh đà lạt. chúng tôi có một chiếc xe tay ga trong 3 ngày và chi phí là 450.00 đồng. cảm ơn lần nữa.
+{SERVICE#RENTING, positive}, {VEHICLE#QUALITY, neutral}, {SERVICE#STAFF, positive}, {PRICE, neutral}
+
+#423
+Trải nghiệm của mình tại cho thuê xe máy - đà lạt vi vu là dịch vụ số 1 đà lạt, nhanh chóng, alo là có. quá tuyệt vời!.
+{SERVICE#STAFF, neutral}, {SERVICE#RENTING, positive}
+
+#424
+Tổng quan về pi motorbike rental: mọi thứ diễn ra hoàn hảo! các cô gái ở bàn làm việc rất tử tế và cho chúng tôi thuê nó từ tối chủ nhật đến sáng thứ ba với giá hai ngày. chiếc xe đạp còn mới và trong tình trạng tốt, chúng tôi thậm chí còn có áo mưa cho chuyến đi! cho thuê đáng yêu, người dân thân thiện và giá tốt..
+{SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#425
+Sau khi ghé thăm thuê xe máy đà lạt anh hải, tôi nhận ra rằng chúng tôi thuê hai chiếc xe máy trong bốn ngày và dịch vụ rất tuyệt vời. việc liên lạc và giao hàng diễn ra nhanh chóng, xe đạp đã đến khách sạn của chúng tôi ngay lập tức. thật không may, chúng tôi cần đổi một chiếc xe đạp vào tối hôm sau do những trường hợp không lường trước được. người chủ rất nhiệt tình, nhận chiếc xe đạp từ địa điểm của chúng tôi và thay nó bằng một chiếc mới vào sáng hôm sau. anh thậm chí còn chuyển nhiên liệu từ chiếc xe cũ sang chiếc mới, điều này được nhiều người đánh giá cao. toàn bộ trải nghiệm bốn ngày diễn ra suôn sẻ nhờ dịch vụ chuyên nghiệp của anh ấy. mặc dù có một chút rào cản ngôn ngữ nhưng anh ấy rất sẵn lòng giao tiếp và đảm bảo rằng chúng tôi hài lòng. nhìn chung, chúng tôi rất hài lòng với dịch vụ này và rất muốn giới thiệu nó..
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, negative}, {SERVICE#RENTING, negative}, {PRICE, negative}
+
+#426
+Tìm thấy motobike for rent trên bản đồ, tôi trải nghiệm thấy họ lấy tiền ngay, thậm chí không cho chọn xe máy và đưa cho tôi chiếc cũ không còn xe đạp nữa . nó chỉ có một chiếc gương luôn lủng lẳng khi bạn lái xe. mình sạc 4 lít xăng thì thấy gương có vấn đề. khi tôi trả lại sau 30 phút thì họ bảo hết xăng trong bình và từ chối trả tiền xăng tổng quãng đường khoảng 2 km . hoặc là họ lừa dối tôi hoặc chiếc xe đạp quá phàm ăn. không được khuyến khích..
+{SERVICE#RENTING, positive}, {VEHICLE#QUALITY, negative}
+
+#427
+Tôi đã đến thuê xe máy đà lạt văn phú ( dalat motorbike rental ), chất lượng dịch vụ quá tuyệt! xe tay ga chạy êm, sạch sẽ. giao xe tận nơi, thủ tục đơn giản. rất đáng để trải nghiệm.
+{SERVICE#STAFF, neutral}, {VEHICLE#QUALITY, positive}, {SERVICE#RENTING, positive}
+
+#428
+Kỷ niệm ở dv cho thuê xe máy qt đà lạt là xe đẹp mới anh chị chủ nhiệt tình hỗ trợ hết mình lun
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#429
+Sau chuyến đi cho thuê xe máy - tài đà lạt, mình thấy giá thành hợp lý phục vụ rất tốt
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}
+
+#430
+Ở cho thuê xe rất xịn thấy chưa từng thuê xe ở đâu mà service tốt như thế này, có hẳn miếng lót mũ bảo hiểm xịn luôn.
+{PRICE, neutral}, {VEHICLE#QUALITY, positive}
+
+#431
+Tôi ghé dịch vụ cho thuê xe máy giá rẻ tri ân để lấy xe đã đặt trước. cô chú rất nhiệt tình dễ thương giá cả rất ok nên thuê ở đây nha mọi người. mình đi ngày 04 10 2024.
+{PRICE, neutral}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}
+
+#432
+cho thuê tuyệt vời. khoản tiền gửi bằng đô la. tôi lấy chiếc xe đạp và trả lại ba ngày sau. mọi thứ đều rõ ràng. không có gì.. Mình đã tới motorbike dalat hôm đó.
+{SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, neutral}
+
+#433
+Tôi có dịp thuê phương tiện từ cho thuê xe máy thuỵ lê , cho thuê loa kẹo kéo, xe hop đồng tour du lich. đưa đón sân bay…. mình mói thue xe ỏ đay .ab dòi mói mà có 100k mot ngày .cảm on shop .làn sau mình sẽ ủng ho shop nũa.
+{VEHICLE#QUALITY, neutral}, {PRICE, neutral}
+
+#434
+Tôi thuê xe tại cho thuê xe máy đà lat(anh dũng) để di chuyển trong thành phố. dịch dụ tốt anh chủ vui tính dethun lần sauu sẽ ghé lại.
+{SERVICE#STAFF, positive}
+
+#435
+Lúc ghé motorbike dalat, mình thấy cái tên rất dễ gây hiểu lầm, bạn không thể thuê xe tay ga một chiều. vì vậy 1 sao.
+{PRICE, neutral}, {VEHICLE#QUALITY, neutral}
+
+#436
+sơn đà lạt cho thuê xe máy thực sự mang lại cảm giác 1 năm lên đà lạt không dưới 5 lần đều thuê xe chỗ này. xe đẹp mới, anh chủ siêu xịn, xe bị bể bánh giữa rừng thông ảnh vẫn chạy đến đổi xe cho mình. cảm ơn anh chủ rất nhiều
+{PRICE, neutral}, {VEHICLE#QUALITY, positive}, {SERVICE#STAFF, neutral}
+
+#437
+cho thuê xe máy - an dân 2 khiến mình cảm giác giá cả hợp ní, chủ sốp dth, nên thử 1 lần à không nhìu lần mới đúng
+{PRICE, neutral}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, positive}
+
+#438
+Phải nói cho thuê xe máy đà lat(anh dũng) khiến mình cảm thấy hài lòng với dịch vụ cho thuê xe máy anh dũng dalat giao xe rất nhanh xe mới và chủ rát nhiẹt tình và dể chiu
+{PRICE, neutral}, {SERVICE#STAFF, neutral}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#439
+Với thuê xe 29 chỗ ở đà lạt, điều mình thấy là nội thất xe quá sịn. giá cả ok , tài xế vui tính, niêm nở sẽ ủng hộ lần sau.
+{VEHICLE#QUALITY, neutral}, {PRICE, neutral}, {SERVICE#RENTING, neutral}
+
+#440
+Khi đến cho thuê xe máy đà lạt - go happy, mình nhận ra nhân tiện lưu trú ở happyday nên thuê xe máy luôn cho tiện. nhân viên thân thiện, xe mạnh leo đèo dốc đà lạt ầm ầm.
+{PRICE, neutral}, {VEHICLE#QUALITY, neutral}, {SERVICE#STAFF, positive}
+
+#441
+Đến cho thuê xe máy đà lạt - go happy, mình trải nghiệm tôi có công việc gấp ở tp đà lạt cần phương tiện đi lại tôi đã lh với dịnh vụ bên của hàng.và đã giao xe tận nơi.dich vụ của của hàng rất hài lòng và các bạn nhận viên rất nhiệt tình.cám ơn team cho thuê máy tại đà lạt.quay trở lại tôi sẻ tiếp tục tìm đến các bạn ạ.
+{LOCATION, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, neutral}, {SERVICE#STAFF, positive}
+
+#442
+Mình vừa có dịp ghé thuê xe máy đà lạt văn phú ( dalat motorbike rental ), và đây là cảm nhận: cảm ơn văn phú đã giúp chuyến đi đà lạt của mình trọn vẹn. xe không bị giật, chạy êm, giao nhận đúng giờ. sẽ quay lại lần sau.
+{SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#443
+mình đã thuê một chiếc xe máy rất đẹp ở đây để khám phá vùng đà lạt. cầu dao, đèn và tất cả các bộ phận khác hoạt động tốt và được bảo trì rất tốt. xe máy là cách hoàn hảo để khám phá khu vực này. ông chủ lê văn vũ cực kỳ hữu ích khi giúp đỡ tôi ở những lĩnh vực khác trong chuyến đi, như phương tiện đi lại và giúp đỡ tôi khi tôi không có cách nào để đến được ngôi làng nông thôn mà tôi cần. cảm ơn! giá cũng rất tuyệt cho chiếc xe đạp! rất khuyến khích.. Đây là cảm nhận của mình khi ghé motorbike dalat.
+{VEHICLE#QUALITY, positive}, {LOCATION, positive}, {SERVICE#RENTING, neutral}
+
+#444
+Một lần ghé thuê xe máy đà lạt kim thành, mình đã mình thuê 2 ngày rưỡi, xe ab giá 250.00, dịch vụ ok
+{SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, neutral}, {SERVICE#STAFF, neutral}
+
+#445
+xe o đay mới , sạch se từ xe den mủ bảo hiem mịn rat hai long. cho thuê xe máy thuỵ lê , cho thuê loa kẹo kéo, xe hop đồng tour du lich. đưa đón sân bay… là nơi mình muốn nhắc đến.
+{VEHICLE#QUALITY, positive}
+
+#446
+Về cơ bản, dv cho thuê xe máy qt đà lạt là xe ab rất xịn, mới lắm mà giá hạt dẻ 100k ngày. mình chở vợ chở con nhỏ đi lên dốc xuống dốc đà lạt mà vẫn rất an tâm. lần sau quay lại đà lạt sẽ thuê xe của shop nữa..
+{PRICE, positive}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, positive}
+
+#447
+Sau khi trải nghiệm tại dịch vụ cho thuê xe máy giá rẻ tri ân, mình chú thân thiện, dễ thương, hỗ trợ giao xe tận nơi , xe mới , siu sạch sẽ ít hao xăngg
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#448
+Tôi thuê xe tại thuê xe 7 chỗ đà lạt holiday để di chuyển trong thành phố. uy tín. giá hợp lý tài xế chuyên nghiệp.
+{PRICE, positive}, {SERVICE#RENTING, positive}
+
+#449
+Thật lòng mà nói, ghé cho thuê xe máy đà lạt-mr nguyên mình thấy nhiệt tình, giá cả hợp lý, nhiều loại xe.
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, neutral}
+
+#450
+chú rất nhiệt tình hỗ trợ, đưa xe đến tận nơi. đi đà lạt chỉ thuê mỗi xe nhà chú. Nơi mình nói đến là dịch vụ cho thuê xe máy giá rẻ tri ân.
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, neutral}
+
+#451
+mình thuê xe máy ở đây rất thích ạ. anh chủ rất dễ chịu, xe thì mạnh, mới khỏi bàn. mọi người yên tâm thuê ở đây. Tôi đã có trải nghiệm này ở cho thuê xe máy - tài đà lạt.
+{PRICE, neutral}, {VEHICLE#QUALITY, positive}, {SERVICE#STAFF, neutral}
+
+#452
+Trong chuyến tham quan thiện - cho thuê xe máy, mình cảm nhận dịch vụ 10 10. chủ nhà giao xe đạp tận nhà. 100k ngày. chủ nhà thân thiện. xe đạp tốt và êm. chủ nhà cũng tặng tôi 2 raincoast. tôi đã lên lịch thuê xe đạp trong 3 ngày nhưng trả xe sớm hơn 1 ngày, anh ấy vẫn hài lòng với xe và chỉ tính phí 2 ngày..
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}, {PRICE, neutral}
+
+#453
+dịch quá tuyệt vời luôn, chú thân thiện và xe cực kỳ đảm bảo và chất lượng. chắc chắn lần sau sẽ ghé chú tiếp. Đó là cảm nhận của tôi sau khi đến dịch vụ cho thuê xe máy giá rẻ tri ân.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, neutral}
+
+#454
+Mình đã dành thời gian ở thuê xe máy đà lạt văn phú ( dalat motorbike rental ) và đây là những gì mình cảm nhận: điểm cộng là giao xe đúng hẹn, không thu thêm phí phụ. mình ở gần hồ hoàng văn thụ, giao xe tận nơi luôn. xe vision màu trắng sạch sẽ, chạy ổn.
+{SERVICE#RENTING, negative}, {VEHICLE#QUALITY, neutral}, {LOCATION, positive}
+
+#455
+Khám phá thuê xe máy đà lạt - an dân (scooter rental service - motorbike for rent) và mình thấy trải nghiệm tuyệt vời. giá cả thực sự công bằng và chủ sở hữu thực sự có sức chứa. tôi khuyên bạn nên!.
+{PRICE, neutral}, {SERVICE#RENTING, positive}
+
+#456
+Tôi thuê xe tại thuê xe máy giá rẻ đà lạt - mai sơn để di chuyển trong thành phố. dịch vụ giao tận nhận tốt xe sạch sẽ.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#457
+Ở xe dịch vụ đà lạt, một điều tôi quan sát được là home nhân viên thân thiện, nhiệt tình mình sẽ quay lại và giới thiệu bạn bè.mọi người nên trải nghiệm thử ạ.
+{SERVICE#STAFF, positive}
+
+#458
+Tới anh dũng xe máy giá rẻ dalat, mình nhận thấy anh chị chủ nhiệt tình, giao nhận xe tận nơi, có hỗ trợ giao xe sớm nữa. giá cả phải chăng 100k xe tay ga đời mới. lần sau đi đl sẽ thuê tiếp
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}, {PRICE, positive}
+
+#459
+xe sạch đẹp, dịch vụ tốt. sẽ ủng hộ nếu tới đà lạt.. Nơi mình đã ghé là thuê xe 7 chỗ đà lạt holiday.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#460
+Để đánh giá thuê xe máy giá rẻ đà lạt - mai sơn, mình nghĩ chạy xe êm ,rất tốt chủ shop nhiệt tình.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#461
+Trải nghiệm tại thuê xe máy đà lạt giá rẻ: xe xịn. nhân viên dễ thương
+{VEHICLE#QUALITY, neutral}, {SERVICE#STAFF, positive}
+
+#462
+Khi ghé dịch vụ cho thuê xe máy giá rẻ tri ân, mình thấy giá rẻ và chất lượng phục vụ rất tốt.
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#463
+Tôi nghe nhiều người nhắc đến bơ motobikes, nên tôi đã đến thử. cho thuê xe đạp tốt nhất ở đà lạt! cảm ơn rất nhiều! xe đạp mới, hoàn hảo để đi du lịch lên núi và ngắm nhìn đồn điền trà! với tất cả trái tim tôi!.
+{PRICE, positive}, {VEHICLE#QUALITY, positive}
+
+#464
+Sau khi ghé thăm cho thuê xe máy đà lạt - ánh diệp, tôi nhận ra rằng giá bình ổn , lần nào mình lên cũng thuê chỗ này.
+{PRICE, positive}, {SERVICE#RENTING, neutral}
+
+#465
+Một dịp ghé thăm dịch vụ cho thuê xe máy giá rẻ tri ân, mình thấy xe chất lượng, dịch vụ chu đáo.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#466
+tour thú vị và hấp dẫn. hướng diễn viên nhiệt tình trong quá trình tour. dịch vụ chất lượng. Trải nghiệm này mình có được tại cho thuê xe máy đà lạt - go happy.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, neutral}
+
+#467
+Một chuyến đi tới dalat motorbike rental & easyrider tour khiến mình tất cả đều suôn sẻ, công bằng và thân thiện
+{SERVICE#STAFF, positive}
+
+#468
+xe chạy ngon, lên dốc mượt. Và tôi ghi nhận điều đó ở dv cho thuê xe máy qt đà lạt.
+{VEHICLE#QUALITY, positive}
+
+#469
+Tình cờ, tôi đã thuê xe tại thuê xe 4 chỗ, 7 chỗ. dịch vụ tốt. tài xế nhiệt tình. cảm ơn văn phòng đã cho chúng tôi 1 trải nghiệm tốt về đà lạt..
+{SERVICE#STAFF, positive}
+
+#470
+10 10. không điểm nào để chê. anh chủ thân thiện. không tạm giữ ccd hay bằng lái xe. thuê xe đồng giá 100k còn được tặng 1 lít xăng, và được anh tặng cho 2 cái áo mưa trong mùa mưa luôn. xe khá mới, còn có chỗ để gắn điện thoại chỉ đường. mình còn được hỗ trợ cả giao lẫn trả xe tại bến xe liên tỉnh. mình xin trả xe lúc 8h30 tối vẫn được nha.. Và nơi mình tới trải nghiệm là thuê xe máy đà lạt anh hải.
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, positive}, {PRICE, neutral}
+
+#471
+cho thuê xe máy đà lạt - go happy đã để lại cho mình cảm giác nhiệt tình, giao xe đúng giờ giá rẻ
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, neutral}
+
+#472
+Ghé chơi cho thuê xe máy thuỵ lê , cho thuê loa kẹo kéo, xe hop đồng tour du lich. đưa đón sân bay…, mình thấy xe đẹp ,mạnh , chị chủ xe đẹp gái nhiệt tình
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#473
+Ở cho thuê xe may giá rẻ đà lạt, một điều tôi quan sát được là xe máy cũ nhưng giá thuê lại như giá xe mới ,cách làm việc hơi dốt .trãi nghiệm không hề tốt .nên né ra chỗ thuê xe tín.
+{PRICE, neutral}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, negative}
+
+#474
+dũng có ghé đến qua pure house villa đẹp, phòng sạch sẽ tiện nghi, gần quảng trường lâm viên , hồ xuân hương nên đi đâu chơi cũng tiện ạ đợt sau dũng có đi đà lạt sẽ ghé lại pure house nữa. Nơi đó là xe dịch vụ đà lạt.
+{LOCATION, positive}
+
+#475
+chúng tôi thuê một chiếc xe máy trong hai ngày. chúng tôi thực sự cảm thấy rất được chào đón. ông chủ và có lẽ cả con trai ông đều rất vui vẻ và thân thiện. họ cũng rất có sức chứa. tôi rất khuyến khích.. Hôm đó mình dùng dịch vụ tại motorbike dalat.
+{VEHICLE#QUALITY, neutral}, {SERVICE#STAFF, positive}
+
+#476
+Khi bạn đến cho thuê xe máy - tài đà lạt, bạn sẽ thấy rõ rằng xe mới rất mạnh, chạy vi vu ạ. chủ xe nhiệt tình và thân thiện. đã ủng hộ từ năm 2022 tới nay luôn ạ.
+{VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#477
+Ghé dv cho thuê xe máy qt đà lạt, mình cảm nhận xe chạy tốt.
+{VEHICLE#QUALITY, positive}
+
+#478
+Chia sẻ về thuê xe máy đà lạt văn phú ( dalat motorbike rental ): khá hài lòng. nếu bạn đang tìm dịch vụ thuê xe máy ở đà lạt giá tốt, thì văn phú là lựa chọn không tồi
+{PRICE, positive}, {SERVICE#STAFF, negative}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, negative}
+
+#479
+dịch vụ tốt. Chỗ mình ghé là thuê xe máy đà lạt thảo vy.
+{SERVICE#STAFF, positive}
+
+#480
+lần nào lên đà lạt mình cũng chọn thuê xe ở đây. xe quá ngon, dịch vụ nhanh chóng, giá thì hợp lý. 5 sao!. Nơi đó chính là cho thuê xe rất xịn.
+{PRICE, positive}, {VEHICLE#QUALITY, positive}, {SERVICE#STAFF, neutral}, {SERVICE#RENTING, positive}
+
+#481
+Khi tìm dịch vụ thuê xe tại Đà Lạt, thuê xe máy đà lạt - moto a3.go là lựa chọn của tôi. mình đi đà lạt du lịch và đã thuê xe máy ở đây rất tốt, tư vấn nhiệt tình, giá hợp lý..
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#482
+tụi mình đã thuê xe ở đây và chất lượng dịch vụ nên được đánh giá 100 sao luôn á. xe đẹp và mũ bảo hiểm sạch sẽ, phanh xe rất tốt giúp mình đảm bảo qua những con dốc. các anh hỗ trợ rất nhanh và nhiệt tình nếu gặp vấn đề, xe tụi mình buổi đêm gần hết xăng cũng đổ giúp tụi mình nữa. dịch vụ thật sự rất rất rất tốt.. Và chỗ đó là thuê xe máy đà lạt - an dân (scooter rental service - motorbike for rent).
+{PRICE, neutral}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}, {LOCATION, positive}
+
+#483
+Trong lần ghé cho thuê xe máy đà lạt - go happy, mình cảm thấy xe mới, mấy bạn nhân viên nhiệt tình lắm nha
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#484
+chúng tôi thuê 4 chiếc xe đạ 3 chiếc honda xr150 và một chiếc yamaha xtz125. tất cả các xe đạp đều ở trong tình trạng khá tệ: phanh trước không được điều chỉnh cài đặt đúng cách, việc phanh chính xác rất phức tạ lọc gió bị tắc gây ra hiện tượng thiếu lực và phản ứng ga điều này khá quan trọng trên đường núi hệ thống treo không có đủ giảm chấn, dường như bị hỏng hoặc không được bảo dưỡng đúng cách; tay lái bị cong, tay lái không được đặt chính xác nên xe đạp có xu hướng rẽ phải trái. tôi ngạc nhiên tại sao nơi này lại được đánh giá khá cao với chất lượng xe đạp thấp này. tái bút tôi có chiếc x150 và yamaha wr450f của riêng mình, được bảo dưỡng đàng hoàng nên tôi có thể so sánh.. Và địa điểm mình nhắc đến chính là motorbike dalat.
+{VEHICLE#QUALITY, neutral}, {PRICE, negative}, {SERVICE#RENTING, negative}
+
+#485
+Tôi ghé thuê xe máy đà lạt - an dân (scooter rental service - motorbike for rent) để lấy xe đã đặt trước. tôi khuyên bạn nên cho thuê siêu an toàn, siêu thân thiện và có sức chứa..
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, neutral}
+
+#486
+Lần đầu ghé motorbike dalat, mình cảm nhận xe đạp chất lượng tốt giá thuê một chiều đắt hơn đáng kể so với các loại xe cho thuê một chiều khác được sử dụng ở việt nam.
+{PRICE, neutral}, {SERVICE#RENTING, negative}, {VEHICLE#QUALITY, positive}
+
+#487
+Với motor bike for rent 2, ý kiến của mình là dịch vụ chuyên nghiệp, xe toàn đời mới và giá cả rất cạnh tranh. recommendation.
+{PRICE, neutral}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#488
+Nghe chia sẻ về dịch vụ cho thuê xe máy giá rẻ tri ân: nơi tốt nhất bạn có thể tìm thấy để thuê xe máy ở đà lạt. chủ sở hữu thân thiện và xe máy hoạt động tốt.
+{PRICE, neutral}, {VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#489
+mọi thứ đều hoàn hảo. chủ sở hữu rất thân thiện và hữu ích. chúng tôi đã trả 150k ngày vì chúng tôi thuê xe tay ga chỉ trong 2 ngày. Mình đã trải nghiệm khi ghé motorbike dalat.
+{SERVICE#STAFF, positive}, {PRICE, neutral}, {VEHICLE#QUALITY, neutral}
+
+#490
+Khi lưu trú tại cho thuê xe rất xịn, mình thấy thuê xe ở đây được giao trả tận nơi, phục vụ tận tình, nhân viên dễ thương! dịch vụ tất tốt ạ
+{PRICE, neutral}, {SERVICE#STAFF, positive}, {VEHICLE#QUALITY, neutral}
+
+#491
+xe đời mới đặc biệt là ab. đã thuê nhiều lần ở đà lạt vivu.. Đây là điều mình thấy tại cho thuê xe máy - đà lạt vi vu.
+{VEHICLE#QUALITY, positive}
+
+#492
+Ghé qua thuê xe máy . đà lạt . chị thảo, mình thấy xe tốt, giá cả hợp lý, sẽ ủng hộ lần sau.
+{PRICE, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#493
+Lúc ghé qua dịch vụ cho thuê xe máy giá rẻ tri ân, mình thấy chú cho thuê xe siu dễ thương lunn.
+{PRICE, neutral}, {SERVICE#STAFF, positive}, {VEHICLE#QUALITY, neutral}
+
+#494
+Cảm nhận chung về cho thuê xe rất xịn của mình là hỗ trợ nhiệt tình, giao xe tận nơi, đến đl nên thuê xe ở đây nha mọi người.
+{PRICE, neutral}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, neutral}
+
+#495
+Từng trải qua tại cho thuê xe máy - đà lạt vi vu, mình thấy xe mới, khá mạnh lên dốc thoải mái nha. giá cả hợp lý lắm luôn. đặc biệt anh chủ siêu dễ thương và có tâm. hỗ trợ khách hết mình. lần sau đến đà lạt mình sẽ ủng hộ tiếp
+{VEHICLE#QUALITY, positive}, {PRICE, positive}, {SERVICE#RENTING, neutral}, {SERVICE#STAFF, positive}
+
+#496
+xe chất lượng. chủ xe nhiệt tình. Đó là những gì tôi đã chứng kiến ở cho thuê xe máy lê nguyên..
+{VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#497
+Khi đến trải nghiệm tại cho thuê xe máy đà lạt - go happy, tôi cảm thấy dịch vụ tốt, du lịch tốt sẽ quay lại đà lạt và trải nghiệm lần nữa
+{SERVICE#STAFF, positive}
+
+#498
+Thông tin thêm về thuê xe máy đà lạt - an dân (scooter rental service - motorbike for rent): mình từ bình dương lên, 12 giờ đêm thuê em này vẫn hỗ trợ giao xe. nói chung là rất ok luôn, xe mới, nó tiết kiệm xăng đến nổi mình đổ 30k tiền xăng mà chạy không hết nổi luôn tại đà lạt lạnh quá nằm ở nhà không à, người em này còn chỉ mình mấy chỗ ăn uống các kiểu . cho sốp này 10 điểm.
+{SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, positive}, {LOCATION, positive}, {PRICE, neutral}
+
+#499
+Để nói về cho thuê xe máy đà lạt - go happy, mình thấy dịch vụ bên này siêu ok luôn ạ, anh chủ tư vấn nhiệt tình, giá cả hợp lý. mọi người nên thử chỗ này nha.
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, neutral}
+
+#500
+Đôi lời về dịch vụ cho thuê xe máy giá rẻ tri ân: chú rất thân thiện đưa xe tận nơi lun xe ngon bao lên dốc 10 điểm.
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#501
+nhân viên xinh đẹp và xe máy chất lượng tốt, dịch vụ tốt gửi xe đạp đến địa chỉ đã chỉ định và giá cả hợp lý.. Và địa điểm mình ghé hôm đó là thuê xe máy đà lạt anh hải.
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#502
+Lần đến cho thuê xe máy đà lat(anh dũng), mình thấy xe chất lượng, đáp ứng hành trình của bạn. chủ xe uy tín
+{VEHICLE#QUALITY, positive}, {SERVICE#STAFF, neutral}
+
+#503
+Lần đầu đến thuê xe máy đà lạt văn phú ( dalat motorbike rental ), tôi đã trải nghiệm hỉ cần gửi vị trí qua zalo, bên văn phú thuê xe máy ở đà lạt giao xe tận cổng homestay. quá tiện, đỡ mất thời gian. mình chọn xe số, máy bốc, .rất đáng tiền.
+{LOCATION, positive}, {PRICE, neutral}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, positive}
+
+#504
+nơi tốt để thuê từ. khoảng 150k ngày. chiếc xe đạp đầu tiên gặp vấn đề nhưng tôi đã nhắn tin cho anh ấy về ứng dụng và sẽ có một chiếc xe đạp mới sau 15 phút để đổi. đề xuất cho những ai đang tìm thuê nhà ở đà lạt. Đó là những gì tôi đã chứng kiến ở dalat motorbike rental & easyrider tour.
+{PRICE, neutral}, {VEHICLE#QUALITY, positive}
+
+#505
+Ở cho thuê xe máy hảo trần, mình trải nghiệm xe đời mới và chạy ok lắm ạ. nhân viên giao xe nhiệt tình và vui vẻ lắm.
+{VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, neutral}
+
+#506
+100 điểm từ nơi ở đến thuê xe. gần chợ đêm đà lạt. anh chủ và các anh ở đây đều siêu nhiệt tình, thân thiện. nơi ở an ninh, sạch sẽ, nước nóng đầy đủ. mình check in sớm, nhận xe sớm mà trả trễ không hề tính thêm phí. xe mới, chạy êm ru, ít tốn xăng.. Và nơi mình tới trải nghiệm là viet motorcycle hotel motorbikes rental pg-1.
+{PRICE, neutral}, {VEHICLE#QUALITY, positive}, {LOCATION, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, negative}
+
+#507
+chúng tôi thuê một chiếc honda airblade trong hai ngày và để lại một trăm đô la tiền đặt cọc. xe đạp tốt, chúng tôi đã đạp xe hơn trăm km một cách dễ dàng. chủ sở hữu thân thiện và hiểu các cụm từ cơ bản bằng tiếng anh.. Hôm đó mình dùng dịch vụ tại motorbike dalat.
+{SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#508
+10 điểm không có nhưng luôn ạ. công ty hướng dẫn tỉ mỉ, lái xe thân thiện nhiệt tình và vui tính, cho vợ chồng mình lời khuyên hữu ích về lịch trình. đặc biệt là mấy quán ăn ngon, lạ. chuyến đi của vợ chồng mình thú vị hơn nhờ anh tài xế. à đặc biệt anh chụp ảnh cực có tâm hahaa. cảm ơn anh tùng nhiều nha! highly recommend sao vàng nhé!. Một trải nghiệm khó quên tại cho thuê xe o to, xe máy (công ty tnhh sao vàng tour đà lạt).
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, neutral}
+
+#509
+Lúc ghé cho thuê xe máy đà lạt-mr nguyên, mình thấy khi nào đi du lịch đà lạt thì kiểu gì cũng phải ghé qua đây. chủ rất nhiệt tình, dễ mến, dịch vụ chăm sóc rất tuyệt vời luôn
+{SERVICE#STAFF, positive}
+
+#510
+Chia sẻ về cho thuê xe máy đà lạt - go happy: hơi chậm. tới đón trễ
+{SERVICE#RENTING, negative}
+
+#511
+Đôi lời về thuê xe máy đà lạt anh hải: xe mới, giao xe nhanh tầm 10p. quá ok.
+{SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#512
+Khi mình tới thuê xe máy đà lạt - an dân (scooter rental service - motorbike for rent), mình thấy xe đạp tuyệt vời và nhân viên thân thiện. sẽ giới thiệu cửa hàng này.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, neutral}
+
+#513
+giá hợp lý , xe mạnh , giao nhanh .nhiệt tình qua lấy sớm hỗ trợ mà không tính phí .sẽ ủng hộ lần sau. Tôi đã có trải nghiệm này ở thuê xe máy đà lạt - an dân (scooter rental service - motorbike for rent).
+{PRICE, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, neutral}, {SERVICE#STAFF, positive}
+
+#514
+chủ sở hữu là một người thực sự tốt đẹp. giá cả hợp lý, xe đạp trong tình trạng tốt. không có gì để phàn nàn.. Đó là cảm nhận chung về thuê xe máy đà lạt anh hải.
+{PRICE, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#515
+Lúc ghé thuê xe máy đà lạt thảo vy, mình thấy xe máy chạy tốt, chủ lịch sự, giá cạnh tranh.
+{SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#516
+Khi tìm dịch vụ thuê xe tại Đà Lạt, cho thuê xe máy đà lạt - go happy là lựa chọn của tôi. xin chào. giá thuê xe máy một ngày là bao nhiêu?.
+{PRICE, neutral}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, neutral}
+
+#517
+Lần đầu đến lê la đà lạt - cho thuê xe máy pg1, mình cảm nhận chúng tôi muốn thuê một chiếc xe máy, người chủ thậm chí còn chưa kịp chào hỏi đã bắt đầu hét vào mặt chúng tôi, ra hiệu một cách ngông cuồng và yêu cầu chúng tôi rời đi.. chúng tôi không hiểu tại sao lại có sự chào đón khó chịu như vậy mà thậm chí không nói một lời. đừng thuê một chiếc xe tay ga từ họ.
+{VEHICLE#QUALITY, neutral}
+
+#518
+Một góc nhỏ tại thuê xe 7 chỗ đà lạt holiday dịch vụ chuyên nghiệp. đánh giá 5 cho shop.
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, neutral}
+
+#519
+người đáng yêu và xe đạp tốt. đã gặp sự cố và rất hữu ích và tử tế. muốn giới thiệu cho tất cả những ai cần một chiếc xe đạp ở đà lạt. Đó là những gì mình thấy khi ở dalat motorbike rental & easyrider tour.
+{VEHICLE#QUALITY, positive}
+
+#520
+Một lần đến cho thuê xe rất xịn, mình cảm nhận lần đầu tới đà lạt là gặp ngay anh thuê xe siu cu te đứng chờ ship xe cho hai đứa. người lúc về còn chở ra tận bến xe kèm chụp hình mướn cho nữa. lần sau mà đến nhất định ghé lại chỗ này, kế bên bến xe, giá rẻ mà nhân viên lại thân thiện, anh chủ xe nhiệt tình. ưng hết sức !
+{PRICE, positive}, {VEHICLE#QUALITY, neutral}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, neutral}
+
+#521
+Lần đầu đến cho thuê xe máy - đà lạt vi vu, tôi đã trải nghiệm xe sạch mà anh chủ thân thiện nữa. được giao xe tận nơi với nhiều đồ quá anh còn cho gửi tại kho nữa. 10 điểm tinh tế luôn mọi người nên thuê đây nha.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, neutral}, {SERVICE#RENTING, positive}
+
+#522
+Tôi chọn cho thuê xe máy đà lạt-mr nguyên làm nơi thuê phương tiện di chuyển. tôi thấy giá thuê ở đây hợp lý, xe lại mới, rất phù hợp cho chuyến du lịch vài ngày..
+{PRICE, positive}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, positive}
+
+#523
+cho thuê xe máy xe tay ga đời mới tại đà lạt. Tôi muốn chia sẻ về cho thuê xe máy đà lạt gia an trong các khía cạnh này.
+{PRICE, neutral}, {VEHICLE#QUALITY, positive}
+
+#524
+xe đẹp. chất lượng. nón bảo hiểm sạch. xe đưa đến tận nơi rất nhiệt tình chu đáo. 5sao ạ. Mình có cơ hội trải nghiệm tại dịch vụ cho thuê xe máy giá rẻ tri ân.
+{VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#525
+dịch vụ tốt , nhân viên thân thiện. Và nơi mình nhắc tới là sigo việt nam | cho thuê xe tự lái, có tài xế đà lạt.
+{SERVICE#STAFF, positive}
+
+#526
+Tại thuê xe máy giá rẻ đà lạt - mai sơn, trải nghiệm của mình là dịch vụ tuyệt vời, xe sạch sẽ đời mới, chủ xe nhiệt tình thân thiện. 100 điểm
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#527
+xe ok giá ok nói chung mọi thứ ok nha cả nhà. Và đó là trải nghiệm của tôi tại cho thuê xe máy - tài đà lạt.
+{SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, neutral}
+
+#528
+Lần đến thuê xe máy đà lạt - moto a3.go, mình thấy được dịp đi cùng bạn bè đến đà lạt chơi có thuê xe máy đà lạt moto a3.go cảm thấy xe chạy tốt, nhân viên phục vụ nhiệt tình vui vẻ 5 , sẽ tiếp tục ủng hộ và giới thiệu bạn bè
+{PRICE, neutral}, {VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#529
+Với tất cả những gì dịch vụ cho thuê xe máy giá rẻ tri ân mang lại, mình thấy ông chủ rất tốt bụng, giá thấp và xe máy đang trong tình trạng tốt. bạn chỉ cần trả lại trước 9 giờ tối. trả người anh chở mình về khách sạn . tôi sẽ sử dụng nó lần sau..
+{SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#530
+Khi mình tới cho thuê xe máy trường sinh, mình thấy xe mới, sạch sẽ, phục vụ tốt.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#531
+Ghé bơ motobikes xong mình thấy xe tay ga rất tốt và giá rẻ
+{PRICE, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#532
+Sau khi ghé qua cho thuê xe máy đà lạt - go happy, mình thấy tôi đã tham gia tour săn mây cùng hướng dẫn viên mr.ngọc và tôi rất hài lòng với dịch vụ của công ty.cảm ơn happyday travel.
+{SERVICE#STAFF, neutral}
+
+#533
+Tại thuê xe giá rẻ đà lạt, thuê xe cần ccd nên khá bất tiện khi đi 1 mình vì đã để ccd ở khách sạn. còn dịch vụ oke.
+{PRICE, neutral}, {VEHICLE#QUALITY, neutral}, {SERVICE#STAFF, neutral}
+
+#534
+Tại motobike for rent, mình thấy giá cả hợp lý. người phụ nữ xinh đẹp nói tiếng anh rất tốt. việc vay mượn diễn ra suôn sẻ. tôi muốn giới thiệu nó cho tất cả mọi người..
+{PRICE, positive}, {SERVICE#RENTING, neutral}
+
+#535
+Ở thuê xe máy đà lạt vũ bi giúp mình thấy xe đẹp , tốt , đi đèo ok luôn . anh chủ tốt , giao xe đúng giờ , mấy bạn có tới đlat lúc sáng sớm ãnh cũng giao xe luôn nha , không cần đợi tới 7 8h sáng mới có xe để du lịt đâu . nói chung là 24 24 cứ gọi là ãnh có mặt, chỉ cần hẹn trước thời gian tới thì cứ là ok
+{VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}
+
+#536
+xe ab trắng mới, giao tận nơi rất nhanh chóng.. Trong chuyến thử dịch vụ cho thuê xe máy giá rẻ tri ân.
+{SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#537
+cho thuê xe máy đà lạt - go happy cho mình trải nghiệm bạn hướng dẫn viên phước nhiệt tình,vui tính,thân thiện. .cảm ơn rất nhiều.
+{SERVICE#STAFF, positive}
+
+#538
+Sau khi tìm kiếm, tôi đã liên hệ cho thuê xe máy - đà lạt vi vu để thuê xe. xe mới, giao nhanh, anh chủ xe nhiệt tình, vui tính. có nhiều loại xe tuỳ theo nhu cầu của mỗi người. đây là đơn vị uy tín cho thuê xe máy ở đà lạt.
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}, {PRICE, neutral}
+
+#539
+Mình muốn chia sẻ về xe dịch vụ đà lạt: phòng sạch sẽ, nhân viên nhiệt tình thân thiện.
+{SERVICE#STAFF, positive}
+
+#540
+Lần ghé dịch vụ cho thuê xe du lịch 16 chỗ và 7 chỗ trí trần gần đây, mình thấy tôi rất hài lòng với xe chỗ, phù hợp cho gia đình nhỏ trong các chuyến du lịch
+{VEHICLE#QUALITY, positive}
+
+#541
+Trong chuyến tham quan cho thuê xe máy đà lạt - go happy, mình cảm nhận dịch vụ uy tín làm việc rất chuyên nghiệp và nhanh. giao tiếp với khách hàng rất dễ hiểu, phản hồi nhanh. giá cả siêu hợp lý. cám ơn văn và ông chú thuê xe nhiều!!.
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {PRICE, positive}, {VEHICLE#QUALITY, neutral}
+
+#542
+thuê xe máy đà lạt thảo vy thật sự khiến mình xe tốt chạy êm, anh chủ nhiệt tình,
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#543
+thuê xe máy đà lạt - moto a3.go để lại cho mình cảm giác mình thuê xe máy ở đây khi lên đà lạt, xe mới đi sướng lắm, tha hồ vi vu khắp đà lạt mà anh chủ cũng vui tính cực lun.
+{PRICE, neutral}, {SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#544
+Tới thuê xe máy đà lạt vũ bi, mình nhận thấy anh chủ nhiệt tình,giao tận nơi không tính phí.mình có nói xe yếu cần đổi thì anh chủ đổi ngay xe khác. nếu các bạn cần điểm ăn ngon local thì cứ hỏi anh chủ sẽ chỉ tận tình đừng ngại. tay ga 100k ngày xe mới.
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}, {PRICE, neutral}
+
+#545
+mọi thứ ok . anh chủ và anh em bên đây đều rất nhiệt tình và dễ thương, mọi thứ rất so tốt giá cả ổn với mọi túi tiền đi kèm chất lượng dịch vụ khá cao , mọi thứ mới keng .. Và địa điểm để lại ấn tượng là mô tô 49 - cho thuê xe máy đà lạt.
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, negative}, {VEHICLE#QUALITY, positive}
+
+#546
+Mình đã dành thời gian ở dv cho thuê xe máy qt đà lạt và đây là những gì mình cảm nhận: tiệm cho xe tận tâm, dặn kỹ.
+{VEHICLE#QUALITY, neutral}
+
+#547
+Từng ghé cho thuê xe máy đà lạt - go happy, mình thấy tour thú vị, dịch vụ tốt, đội ngũ nhiệt tình và chuyên nghiệp
+{SERVICE#STAFF, positive}
+
+#548
+Một trải nghiệm đáng giá tại motobike for rent: tôi thuê một chiếc xe tay ga trong 3 ngày từ ngày 2 đến ngày 4 tháng 2. lúc đầu thích màu trắng nên thuê xe ga honda có ốp điện thoại bằng nhựa. vì mới tập chơi nên tôi cần giá đỡ điện thoại nhưng chủ quán đã thay ngay bằng chiếc xe tay ga honda màu đỏ có điện thoại. người giữ. hôm nay là ngày thứ ba. trên đường đi săn mây sanmai về, trong lúc đi ăn phở, tôi va chạm với một chiếc xe buýt ở làn đường đầu tiên và chiếc xe tay ga của tôi bị hư hỏng bên trái. tôi bị ngã và tài xế xe buýt cho tôi 200.00 đồng để lái xe buýt rồi biến mất nên tôi chụp ảnh chiếc xe buýt. tôi đến cửa hàng nói với người quản lý thì anh ta nói riêng chi phí sửa chữa là 5 triệu đồng. tôi hỏi liệu họ có thể báo cáo bằng số xe buýt không, họ nói sẽ khó khăn. tôi đã đăng ký bảo hiểm du lịch nhưng thủ tục phức tạp và 5 triệu đồng không phải là số tiền nhỏ. rất may, chủ xe không nhận số tiền đó và nói rằng đó là quà tết. chủ sở hữu và cửa hàng thực sự thân thiện và tốt đẹp. tôi giới thiệu nó cho người hàn quốc!.
+{VEHICLE#QUALITY, positive}, {PRICE, neutral}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, negative}, {LOCATION, positive}
+
+#549
+Tôi thuê xe tại thuê xe máy đà lạt anh hải để di chuyển trong thành phố. tôi đã thuê một chiếc airblade 150cc trong 4 ngày. nếu bạn định đến sanmai hoặc làng qur'an, vui lòng thuê xe 150cc. tôi đã đi đến tận khu vực núi cao mà không cảm thấy mình thiếu sức lực chút nào. hôm mình trả lại trời mưa nên mình hỏi có thể trả lại ở khách sạn được không. anh ấy đến ngay và trả lại rất dễ dàng. cảm ơn.
+{PRICE, neutral}, {VEHICLE#QUALITY, neutral}, {SERVICE#RENTING, positive}
+
+#550
+cho thuê xe pg1 đà lạt cho mình cảm giác xe mới, xứng đáng trải nghiệm , lên hình bao chất
+{VEHICLE#QUALITY, positive}
+
+#551
+Tôi thuê xe tại thuê xe máy thu hiền để di chuyển trong thành phố. dịch vụ rất tệ.
+{SERVICE#STAFF, negative}
+
+#552
+cho thuê xe máy thuỵ lê , cho thuê loa kẹo kéo, xe hop đồng tour du lich. đưa đón sân bay… khiến mình cảm nhận xe mới giá ok, note lại mỗi khi lên đà lạt chơi
+{SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, positive}
+
+#553
+xe mới ,mạnh, anh chị nhiệt tình chủ nhiệt tình, giá thuê ổn. Và tôi ghi nhận điều đó ở dv cho thuê xe máy qt đà lạt.
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, positive}
+
+#554
+Kỷ niệm ở cho thuê xe máy đà lạt - go happy là phước vui vẻ nhiệt tình. hôm nay đi săn mây rất vui với anh. sẽ ghé lại lần sau
+{SERVICE#STAFF, positive}
+
+#555
+Trải nghiệm tại viet motorcycle hotel motorbikes rental pg-1, mình thấy anh chủ dễ thương , xe đời mới chạy yên tâm mạnh êm chạy khá vui nha.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#556
+Vừa ghé dalat motorbike rental & easyrider tour, mình thấy thuê xe máy vài ngày để tham quan nha trang và xung quanh. chiếc xe máy chết máy giữa hư không. anh chàng cho thuê đã giúp tôi và nói tiếng anh tốt. người thực sự tốt bụng.
+{PRICE, neutral}, {VEHICLE#QUALITY, neutral}
+
+#557
+Khi mình đến motobike for rent, mình thấy xe đạp tốt giá rẻ, chủ sở hữu trung thực
+{PRICE, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#558
+anh dũng xe máy giá rẻ dalat cho mình trải nghiệm hôm trước có lên đl mình thấy địa chỉ của anh trên gg map nên mướn thử, thấy ít đánh giá mà đánh giá nào cũng chỉ khen chứ hong có chê, xe chỗ anh chỉ 100k một ngày thôi, xe ngồi okie, lần sau đi đl nữa em sẽ lên ủng hộ anh típ
+{PRICE, neutral}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, neutral}
+
+#559
+giá cả hợp lý, giao xe tận nơi, các bạn nhân viên hỗ trợ nhiệt tình ạ. Một trải nghiệm tại cho thuê xe máy đà lạt - go happy.
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, neutral}
+
+#560
+Ghé thăm dịch vụ cho thuê xe máy giá rẻ tri ân, mình thấy dịch vụ thuê xe ở đây rất tốt và uy tín nha. mình thuê chiếc ab chỉ từ 100k ngày. xe đời mới chạy rất êm, leo dốc thoải mái luôn. cô chú rất nhiệt tình và dễ thương nha. hôm mình vừa lên đà lạt lúc 5h sáng, không may bụng yếu bị trúng gió nữa mà chưa checkin được homestay. vừa lúc gần nhà chú, chú cho mình vào nhà nghỉ ngơi. cô còn thoa dầu nóng cho mình và pha trà gừng cho mình uống nữa. một lát sau thì mình khoẻ hơn nhiều. rất là ấm lòng và biết ơn cô chú luôn. sẽ giới thiệu cho bạn bè thuê xe ở đây khi đến đà lạt.
+{PRICE, neutral}, {SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}, {LOCATION, positive}
+
+#561
+Khi ghé qua thuê xe 4 chỗ, 7 chỗ, tôi nhận thấy rằng dịch vụ chăm sóc tận tình chu đáo.
+{SERVICE#STAFF, positive}
+
+#562
+Cảm giác ở thuê xe máy giá rẻ đà lạt - cảnh ruby là ngân viên nhiệt tình vui vẻ tác phong vui vẻ ok
+{SERVICE#STAFF, positive}
+
+#563
+Từng trải qua tại motobike for rent, mình thấy vui vẻ nhiệt tình
+{SERVICE#STAFF, positive}
+
+#564
+motor bike for rent 2 là nơi trải nghiệm siêu tốt. chủ sở hữu rất thân thiện và hữu ích. giá cả hợp lý. rất thuận tiện. quá trình này rất dễ dàng và chúng tôi không gặp vấn đề gì khi giao tiếp. chắc chắn đề nghị!
+{SERVICE#STAFF, positive}, {PRICE, positive}, {SERVICE#RENTING, positive}
+
+#565
+Khi bạn đến cho thuê xe máy đà lạt - go happy, bạn sẽ thấy rõ rằng một trong những lựa chọn yêu thích của mình và gia đình khi đến đà lạt. khách sạn happy day với đội ngũ nhân viên rất thân thiện, phòng ốc ngăn nắp, thoáng mát và đặc biệt là giá rất tốt. bên cạnh đó khách sạn happy day có dịch vụ thuê xe máy giá rẻ phong phú, đủ chủng loaị xe và nhất là còn có cung cấp đầy đủ tour tham quan đà lạt nữa. mình và gia đình luôn hài lòng khi ở đây. hứa hẹn sẽ ghé đến vào các lần sau nữa..
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {PRICE, positive}, {VEHICLE#QUALITY, neutral}
+
+#566
+Sau khi tới thuê xe máy đà lạt thảo vy, mình nhận ra anh chị chủ dễ thương, tiễn khách lên xe về mới thôi.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#567
+các anh chàng cung cấp dịch vụ tuyệt vời, xe được bảo dưỡng tốt và giá cả hợp lý. rất khuyến khích. Và nơi mình nhắc tới là motorbike dalat.
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#568
+xe đời mới 2024 ab 155. anh chủ thân thiện nhiệt tình. xe chạy ngon. kiểm tra định kỳ rõ ràng, xe đời mới. Lần ghé đó là cho thuê xe máy - tài đà lạt.
+{VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#569
+Lần đầu tiên tôi ghé thuê xe máy đà lạt anh hải, tôi đã nhận thấy dịch vụ tốt, giao tiếp dễ dàng, phản hồi rất nhanh chưa đầy 5 phút và được đón miễn phí từ khách sạn của chúng tôi.
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}
+
+#570
+Nói chung, motorbike dalat cho mình cảm giác đối tác của tôi và tôi đã thuê một chiếc xe máy trong 3 ngày, chúng tôi được chào đón với dịch vụ đáng kinh ngạc và nhiều lựa chọn xe đạp. chủ sở hữu có kiến thức và thân thiện. bạn có thể liên hệ với doanh nghiệp qua whatsapp nếu có bất kỳ câu hỏi hoặc thắc mắc nào. chúng tôi rất biết ơn khi có được chiếc xe đạp để có thể tự mình khám phá xa hơn ra khỏi thành phố. đề nghị 100 ..
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, neutral}, {PRICE, neutral}
+
+#571
+Đã trải nghiệm tại cho thuê xe máy đà lạt-mr nguyên, và mình thấy xe mới, quá xịn xò. ông bà chủ nhiệt tình, dễ thương. quá hài lòng với dịch vụ ở đây. đây sẽ là sự lựa chọn hàng đầu của mình mãi iêu
+{VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#572
+Khi ghé qua thuê xe máy đà lạt giá rẻ, mình nhận ra giá rẻ, xe đẹp. đến đà lạt muốn thuê xe thì không nên bỏ lỡ chỗ cho thuê này.
+{PRICE, positive}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, positive}
+
+#573
+Cảm nhận riêng của mình về cho thuê xe máy pi nguyễn là ra đây mấy lần đều ghé vô đây,giá tốt. gần trung tâm đi nhóm có thể đi bộ ra quảng trường,chợ..v.v.
+{SERVICE#RENTING, positive}, {LOCATION, positive}
+
+#574
+thủ tục nhanh gọn xe mới, đủ loại. Địa điểm mình đề cập là cho thuê xe máy đà lạt-mr nguyên.
+{SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#575
+Một số cảm nhận tại cho thuê xe 4 chỗ,7chỗ,16 chỗ,29 chỗ,45 chỗ,xe limousine đà lạt-phong vân tourist: bác tài vui tính nhiệt tình dễ thương
+{SERVICE#STAFF, positive}
+
+#576
+Về cơ bản, thuê xe 7 chỗ đà lạt holiday là nhà xe thân thiện, tài xế nhiệt tình, xe mới, đẹp leng keng. 10 điểm.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#577
+Từng trải qua tại thuê xe máy thu hiền, mình thấy nhân viên chửi khách, lúc thuê nói 1 đằng lúc trả nói 1 nẻo. không trung thực lươn lẹo
+{SERVICE#STAFF, negative}
+
+#578
+Tôi đã thuê xe tại cho thuê xe máy an khương. xe tay ga mới. anh chủ nhiệt tình.
+{VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#579
+Trải nghiệm của mình tại dịch vụ cho thuê xe máy giá rẻ tri ân là chú chủ nhiệt tình. sẽ ủng hộ tiếp lần sau.
+{SERVICE#STAFF, positive}
+
+#580
+Nói chung, cho thuê xe máy trường sinh cho mình cảm giác anh chị chủ nhiệt tình vui tính. xe mới, leo dốc không sợ. giá rẻ hơn mấy chỗ mình từng thuê..
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}, {PRICE, positive}, {SERVICE#RENTING, neutral}
+
+#581
+Chút chia sẻ về cho thuê xe máy đà lạt-mr nguyên: xe mới, xịn, thích hợp với đường dốc đà lạt..chủ vui vẻ tư vấn nhiệt tình, sẽ giới thiệu thêm cho bạn bè và người quen khi lên chơi đà lạt!!.
+{VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#582
+motobike for rent thực sự mang lại cảm giác dịch vụ tuyệt vời, xe đạp tốt, 10 10
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#583
+Nhìn chung, trải nghiệm của mình tại bơ motobikes là khuyến nghị 100 . tôi đã nói chuyện với họ, ấn định giá cho mỗi ngày tôi muốn và họ mang đến khách sạn. họ đưa cho tôi hai chiếc áo mưa để che mưa. xe máy mới, mũ bảo hiểm sạch sẽ, không hư hỏng. ngày anh đón cô, anh cũng đến tìm cô. không có tiền đặt cọc..
+{SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, positive}
+
+#584
+Quá trình sử dụng dịch vụ thuê xe 29 chỗ ở đà lạt, mình cảm thấy 8 3 vừa rồi, đoàn mình thuê xe đi du lịch các điểm đà lạt. tài xế lái xe nhiệt tình, vui vẻ, giúp chuyến đi trở nên tốt đẹp cùng các chị em. cảm ơn nhà xe rat nhiều
+{PRICE, neutral}, {VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#585
+xe cho thuê vẫn mới, đi an toàn, máy chạy khoẻ, phanh ăn. xe được giao đến tận nơi. phục vụ nhiệt tình và nhanh chóng. Hôm ấy mình đến dịch vụ cho thuê xe máy giá rẻ tri ân.
+{VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}
+
+#586
+Trải nghiệm ở cho thuê xe máy đà lạt - go happy là vario chạy ổn, giá rẻ so với chỗ khác , 120k chạy vù vù ít hao xăng , mấy anh nhận viên giao xe nhanh dui dẻ, duyệt 10 điểm
+{PRICE, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, negative}
+
+#587
+Khi ở cho thuê xe máy - tài đà lạt, mình thấy xe ok
+{VEHICLE#QUALITY, neutral}
+
+#588
+Khi có dịp tới cho thuê xe máy phong hoa huệ, mình thấy thái độ phục vụ kém.
+{SERVICE#STAFF, negative}
+
+#589
+xe mạnh..đẹp..giá cả hợp lý..a chủ tư vấn nhiệt tình.. Đó là những gì tôi đã chứng kiến ở mô tô 49 - cho thuê xe máy đà lạt.
+{VEHICLE#QUALITY, neutral}, {PRICE, positive}, {SERVICE#RENTING, neutral}, {SERVICE#STAFF, positive}
+
+#590
+đội ngũ hướng dẫn nhiệt tình, chu đáo chuyến đi tuyệt!!. Hôm mình ghé cho thuê xe máy đà lạt - go happy.
+{SERVICE#STAFF, positive}
+
+#591
+cho thuê xe máy chất lượng đức toàn thực sự mang lại cảm giác nhiệt tình dễ thương .
+{SERVICE#STAFF, positive}
+
+#592
+Tới cho thuê xe máy đà lạt - hoàng thiện, mình nhận thấy dịch vụ không tốt! có: giao xe tận nơi các chỗ cho thuê khác cũng vậy khuyết điểm so với các dịch vụ thuê xe khác: khách trả trễ 20p thì tính thêm 1 ngày không hướng dẫn cây xăng gần nhất cho khách tiện đổ xăng ban đầu mình lên đà lạt nhiều lần, có lần trả trễ 20 30p thì không tính thêm, có lần trả gửi ở khách sạn thì nhân viên đến lấy vì tụi mình ra bến xe sớm blabla biết rằng lần này là do tụi mình trễ nhưng khi mà có quá nhiều dịch vụ thì khách vẫn thoải mái với các cơ sở hiểu lòng khách, trễ 20p có thể thêm phí trễ hoặc chỉ tính thêm nửa ngày. đây là lần đầu bị tính thêm 1 ngày thuê 2 xe tay ga thì thêm không ít
+{SERVICE#STAFF, negative}, {LOCATION, positive}, {PRICE, neutral}, {SERVICE#RENTING, negative}, {VEHICLE#QUALITY, neutral}
+
+#593
+Về tổng thể, motobike for rent mang lại cảm giác dịch vụ tốt, anh chủ dễ thương. sẽ ủng hộ dài dài.
+{SERVICE#STAFF, positive}
+
+#594
+Một số cảm nhận tại anh dũng xe máy giá rẻ dalat: chỗ thuê xe chất lượng. anh chị cho thuê rất nhiệt tình, giao xe tận nơi. xe đời mới nên chạy rất thoải mái, mẫu mã đẹp. giá thì bằng các chỗ thuê khác 0 100 cành . có dịp lên đà lạt nữa mình sẽ tiếp tục liên hệ để thuê xe.
+{PRICE, neutral}, {VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}
+
+#595
+Sau khi đến Đà Lạt, tôi thuê xe từ thuê xe máy đà lạt anh hải. đúng như đánh giá trên google maps, chỗ cho xe uy tín, giá rẻ, thân thiện, giao đúng xe mới tốt như yêu cầu. xe ab chỉ có 100k 1 ngày..
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#596
+Tại motobike for rent, anh chủ rất nhiệt tình, chu đáo. xe chất lượng cao, giá cả phải chăng..
+{SERVICE#STAFF, positive}, {PRICE, positive}, {SERVICE#RENTING, negative}, {VEHICLE#QUALITY, positive}
+
+#597
+Quá trình sử dụng dịch vụ thuê xe máy đà lạt - an dân (scooter rental service - motorbike for rent), mình cảm thấy anh chủ giao xe lẹ lớm nha , rất rất rất rất nhiệt tình , thoải mái . thuê đáng đồng tiền bát gạo lun đó mọi người oii . vô cực điểmm không hề seeding quảng cáo luôn , người thật việc thật
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, neutral}, {PRICE, neutral}
+
+#598
+Đây là trải nghiệm chân thật của mình ở cho thuê xe máy dalat trang: chủ xe vui vẻ nhiệt tình ..
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, neutral}
+
+#599
+Một dịp ghé thăm thuê xe máy đà lạt anh hải, mình thấy xe mới và tốt . dịch vụ tận tình và chu đáo. có hỗ trợ đồ để đặt điện thoại đi đường dành cho các bạn tỉnh khác. mình thue 2 ngày rất hài lòng. anh chủ rất ok.Hôm mình đến thuê xe máy đà lạt anh hải, mình cảm nhận xe mới và tốt . dịch vụ tận tình và chu đáo. có hỗ trợ đồ để đặt điện thoại đi đường dành cho các bạn tỉnh khác. mình thue 2 ngày rất hài lòng. anh chủ rất ok.
+{VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#600
+anh. chủ rất nhiệt tình nhé. Đó là những gì mình thấy khi ở cho thuê xe máy đà lat(anh dũng).
+{SERVICE#STAFF, positive}
+
+#601
+Tôi có dịp thuê phương tiện từ thuê xe máy đà lạt - an dân (scooter rental service - motorbike for rent). chúng tôi thuê một chiếc xe tay ga mới với giá 150 nghìn một ngày. mọi thứ đều tuyệt vời, cảm ơn bạn!.
+{PRICE, neutral}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, positive}
+
+#602
+chúng tôi đã có một trải nghiệm thú vị và phải trả 65.00 đồng khoảng 2,4 cho nửa ngày. có thể có những ưu đãi thậm chí còn rẻ hơn, nhưng điều đó tốt cho chúng tôi. họ chỉ yêu cầu hộ chiếu; những gì bạn làm với thông tin này là tuỳ thuộc vào bạn. những chiếc xe tay ga có dung tích 125cc, phanh tốt và nhìn chung ở tình trạng tốt. chiếc xe tay ga có thể được trả lại cho đến 10 giờ tối. người phụ nữ tại chỗ rất tử tế và giải thích lại tất cả các thông tin quan trọng về chiếc xe tay ga. tuy nhiên, hãy nhớ rằng bạn phải để lại hộ chiếu của mình như một khoản đặt cọc tại chỗ. Địa điểm mình đề cập là pi motorbike rental.
+{PRICE, neutral}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, positive}
+
+#603
+Đây là câu chuyện trải nghiệm của mình tại thuê xe máy thu hiền: chê nha, thuê một chiếc đòi giữ hai ccd nói chuyện còn cọc cằn nữa. số điểm đánh giá tập vậy là xứng đáng. né lẹ mọi người.
+{SERVICE#RENTING, neutral}
+
+#604
+Mình đã ghé motobike for rent và đây là nhận định: nơi tuyệt vời. xe đạp chất lượng tốt và nhân viên thân thiện. cảm ơn bạn rất nhiều, chúng tôi sẽ quay lại.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#605
+Tới motobike for rent, mình có cảm nhận dịch vụ thuê xe uy tín , chất lượng , giá rẻ các bạn nên trải nghiệm sau đến đà lạt mình sẽ ghé ủng hộ chủ dễ thương nhiệt tình
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, neutral}
+
+#606
+trong tất cả các loại lòng em thích nhất là lòng tốt của các anh cho thuê xe tại an dân. nhờ có các anh cưu mang mà tụi mình không lưu lạc đầu đường xó chợ lúc nửa đêm, anh chủ đẹp trai dễ thương chiều hơn chiều vong, support tận răng, có nhiều tay vịn chẩt lượng cao. hãy thuê xe ở đâyy!!. Đó là cảm nhận của mình khi ghé thuê xe máy đà lạt - an dân (scooter rental service - motorbike for rent).
+{PRICE, neutral}, {SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#607
+Lần đầu tới bơ motobikes, mình nhận thấy những chiếc xe tay ga đang trong tình trạng hoàn hảo và giá cả rất công bằng. ngoài ra, anh chị chủ nhà cực kỳ thân thiện và luôn giúp đỡ, tư vấn cho tôi. cho thuê xe tay ga tốt nhất ở đà lạt!!.
+{PRICE, neutral}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#608
+Đây là trải nghiệm cơ bản của mình tại cho thuê xe máy đà lạt-mr nguyên: xe đẹp, giá cả phải chăng. rcm mọi người shop này nha.
+{PRICE, positive}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, positive}
+
+#609
+Trải nghiệm ở dịch vụ cho thuê xe máy giá rẻ tri ân thì dịch vụ tốt.
+{SERVICE#STAFF, positive}
+
+#610
+Khi nghỉ ở cho thuê xe máy - tài đà lạt, mình xe chất lượng ôk hẹn lần sau
+{VEHICLE#QUALITY, positive}
+
+#611
+Ghé viet motorcycle hotel motorbikes rental pg-1 mới thấy xe đẹp bảo dưỡng tốt , dịch vụ tốt
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#612
+Ở cho thuê xe máy - tài đà lạt thấy xe ở đây chạy rất tốt
+{VEHICLE#QUALITY, positive}
+
+#613
+Đây là một review chân thực về thuê xe 7 chỗ đà lạt công ty latour: xe sạch sẽ thoáng mát, tài xế thân thiện, nhiệt tình lần sau mình sẽ ủng hộ tiếp ạ.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#614
+Tôi chọn cho thuê xe máy đà lạt - tuấn anh làm nơi thuê phương tiện di chuyển. nhân viện nhiệt tình. xe mới chạy rất an toàn.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#615
+Lần ghé dịch vụ cho thuê xe máy giá rẻ tri ân vừa rồi, mình cảm nhận xe mới đẹp, giá rẻ, chạy êm. chú chủ thân thiện nhiệt tình. sẽ ủng hộ và giới thiệu thêm cho cô chú.
+{PRICE, positive}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#616
+Ở dv cho thuê xe máy qt đà lạt, mình đã trải nghiệm chủ xe nhiệt tình dễ thương. xe đời mới leo đèo dốc ok. anh em ủng hộ nhé
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#617
+Cảm nhận cá nhân của mình về thuê xe máy giá rẻ duy my: anh chị chủ siêu nhiệt tình luôn á, giao xe tận nơi hỗ trợ tụi tui hết mình. lúc lấy xe trời mưa người ac cho tụi tui áo mưa nữa mà giá rẻ nữa cảm động quớ.
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, neutral}, {PRICE, positive}
+
+#618
+Ghé thuê xe máy đà lạt - an dân (scooter rental service - motorbike for rent), mình thấy mỗi lần đi đà lạt là tìm chổ thuê xe ,tình cờ thì biết được chổ này, anh chủ dth nhiệt tình, xe thì xịn và uy tín lắm luôn nha mn. nên thuê nha
+{PRICE, neutral}, {SERVICE#STAFF, positive}, {VEHICLE#QUALITY, neutral}
+
+#619
+quá hài lòng, đi du lịch mà kiếm được chỗ thuê xe uy tín như vậy thích thật sự, được hỗ trợ từ anh vậy luôn, xe mà có lỡ hư hỏng giữa đường cứ gọi là sẽ được hỗ trợ ngày.. thuê xe máy đà lạt anh hải là nơi mình muốn nhắc đến.
+{PRICE, neutral}, {VEHICLE#QUALITY, negative}
+
+#620
+Sau khi trải nghiệm tại thuê xe 7 chỗ đà lạt holiday, mình dịch vụ ok, giá cả hợp lý! sẽ giới thiệu bạn bè khi tới đà lạt.
+{PRICE, positive}, {SERVICE#STAFF, neutral}, {SERVICE#RENTING, neutral}
+
+#621
+xe rất ok ,mình sẽ ủng hộ tiếp lần sau,cảm ơn shop. Đó là ấn tượng của mình về cho thuê xe máy thuỵ lê , cho thuê loa kẹo kéo, xe hop đồng tour du lich. đưa đón sân bay….
+{VEHICLE#QUALITY, neutral}
+
+#622
+dịch vụ rất ok nha, anh chủ nhiệt tình, xe mới và đẹp sẽ quay lại ủng hộ tiếp kk. Và tôi ghi nhận điều đó ở cho thuê xe máy đà lạt-mr nguyên.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#623
+ôi, mình thuê xe chổ này phải nói là giá rất hạt dẻ và anh chủ vô cùng dễ thương nha mọi người.. Đó là cảm nhận chung về cho thuê xe máy lê nguyên..
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, neutral}
+
+#624
+Sau khi nghỉ ở motorbike dalat, mình thấy bạn đang đi vào một con hẻm hẹp phải không? tôi nhớ cái cổng hiển thị trong hình trên google và nếu có vẻ như có rất nhiều xe đạp bên trong cổng thì nó ở ngay đó. tôi cũng phải mất một thời gian dài mới tìm thấy nó haha. chủ sở hữu và nhân viên rất thân thiện
+{VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#625
+Về dịch vụ cho thuê xe du lịch 16 chỗ và 7 chỗ trí trần, mình có nhận xét là dịch vụ tốt, xe mới và đẹp..
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#626
+Khi ghé cho thuê xe máy đà lạt - go happy, mình thấy đã thuê 5 ngày, anh chủ hỗ trợ nhiệt tình..
+{SERVICE#STAFF, positive}
+
+#627
+bên này làm việc khá chuyên nghiệp, giá cả rất hợp lý. có tài xế người bản địa nên các chỗ đi ăn đi chơi đều được tư vấn tốt, gia đình mình hài lòng lắm. Một trải nghiệm khó quên tại thuê xe 7 chỗ đà lạt công ty latour.
+{PRICE, positive}, {SERVICE#RENTING, positive}
+
+#628
+dịch vụ thuê xe rất tốt. cô chú rất tận tình hỗ trợ và giúp đỡ. Mình ghi nhận điều này tại dịch vụ cho thuê xe máy giá rẻ tri ân.
+{PRICE, positive}, {SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#629
+Sau khi ghé thăm thuê xe máy giá rẻ đà lạt - mai sơn, tôi nhận ra rằng cả nhà đi đà lạt nên thuê xe chỗ này rất ok nha, anh chị rất nhiệt tình luôn và hỗ trợ cho mình xe mới nhất luôn, không chỉ dịch vù mà còn tình cảm nữa giá cả 80, 100k khá ok luôn, hẹn anh chị tháng nữa mình lên thuê xe tiếp nga.
+{PRICE, neutral}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, positive}
+
+#630
+Phải nói hà cho thuê xe khiến mình anh chủ nhiệt tình tuyệt vời. xe cũng khá ok
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, neutral}
+
+#631
+dịch vụ tốt, giá hợp lý. Lúc đó mình ở thuê xe tự lái giá rẻ đà lạt.
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}
+
+#632
+Đến thuê xe máy đà lạt - an dân (scooter rental service - motorbike for rent), mình trải nghiệm anh chủ thân thiện, nhiệt tình. xe mới, ngon, bảo trì tốt. giá cả rất ổn tại thời điểm thuê ab 120, vision 100, xe số 80. giao xe tận nơi, trả xe có người đến lấy, giờ giấc không thành vấn đề. nói chung là không có gì để chê!! sẽ tiếp tục ủng hộ các anh nếu có cơ hội.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}, {PRICE, positive}, {SERVICE#RENTING, positive}
+
+#633
+dịch vụ cho thuê xe uy tín và chất lượng tại đà lạt.. Và tôi ghi nhận điều đó ở motorbike dalat.
+{PRICE, neutral}, {SERVICE#STAFF, neutral}, {VEHICLE#QUALITY, neutral}
+
+#634
+Về cho thuê xe máy lê nguyên., tôi muốn nói rằng chỗ này thuê xe tốt, giá ổn nữa. lần sau sẽ thuê lại.
+{PRICE, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#635
+ac chủ thân thiện nhiệt tình giao xe miễn phí tận nơi. xe mới êm lắm nha.. Đó là cảm nhận chung về dv cho thuê xe máy qt đà lạt.
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#636
+dịch vụ ok. sẽ giới thiệu cho bạn bè.. Nơi mình đến chính là thuê xe 7 chỗ đà lạt holiday.
+{SERVICE#STAFF, neutral}
+
+#637
+Đây là trải nghiệm cơ bản của mình tại dịch vụ cho thuê xe máy giá rẻ tri ân: được hỗ trợ rất nhiệt tình 100 điểm ạ.
+{SERVICE#STAFF, positive}
+
+#638
+Ghé thuê xe máy đà lạt kim thành xong mình thấy xe mới chạy rất êm,giá phù hợp
+{SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, positive}
+
+#639
+dịch vụ ổn, đáng để trải nghiệm. Và chỗ này là thuê xe 29 chỗ ở đà lạt.
+{SERVICE#STAFF, neutral}
+
+#640
+chúng tôi đã được thông báo là không mặc dù họ có sẵn nhiều xe máy. có lẽ họ không cho người nước ngoài thuê. điều tương tự cũng xảy ra ở một nơi cho thuê khác ở đà lạt. đừng lãng phí thời gian của bạn và đến đây nếu bạn không phải là người việt nam. có thể là vấn đề về bảo hiểm hoặc có thể có quá nhiều khách du lịch gặp tai nạn hoặc rắc rối trong quá khứ.. Đây là tất cả tại anh dũng xe máy giá rẻ dalat.
+{VEHICLE#QUALITY, neutral}, {SERVICE#RENTING, neutral}
+
+#641
+Trải nghiệm ở cho thuê xe máy đà lạt - go happy cho mình cảm giác dịch vụ tốt .. ông chủ nhiệt tình thân thiện .. chưa có người yêu ..
+{SERVICE#STAFF, positive}
+
+#642
+Trong chuyến đi Đà Lạt này, tôi đã ghé dalat motorbike rental & easyrider tour và tôi thấy chủ cửa hàng thân thiện với dịch vụ tuyệt vời và rất hữu ích! đáng để thuê xe máy ở đây cho chuyến đi của bạn!.
+{SERVICE#STAFF, positive}, {PRICE, neutral}, {VEHICLE#QUALITY, neutral}
+
+#643
+Khi lưu trú tại dv cho thuê xe máy qt đà lạt, mình thấy dịch vụ tốt, anh chị chủ xe thân thiện, xe rất ok
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#644
+Khi ghé cho thuê xe rất xịn, mình cảm nhận rõ thuê xe tốt, nhanh gọn
+{PRICE, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#645
+xe cho thuê chất lượng, xe mạnh, xứng đáng với giá tiền. Lúc đó mình ở dv cho thuê xe máy qt đà lạt.
+{SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, positive}
+
+#646
+Phải nói dịch vụ cho thuê xe máy giá rẻ tri ân khiến mình dịch vụ cho thuê xe máy tuyệt vời và người rất tốt, thuê xe máy 120k mỗi ngày. xe máy đang trong tình trạng hoạt động tốt, có thể chở 2 người dễ dàng quanh đồi núi và đường lộng gió . chỉ cần ảnh hộ chiếu
+{PRICE, neutral}, {SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}, {SERVICE#RENTING, positive}
+
+#647
+Có cơ hội đến cho thuê xe rất xịn, tôi nhận thấy trải nghiệm tốt với dịch vụ này hỗ trợ nhanh, mình hẹn 9am lấy xe mà đổi lại 6am vẫn chạy qua giao mình ! mình thuê vision hôm 05 08 23 là 120k ngày. mấy bạn đến tận hotel giao trả luôn có nhiều dịch vụ chào mình xe ga 90 100k ngày nhưng mà chắc lần sau vẫn quay lại thuê. mũ bảo hiểm màu rất chìm nên chắc không sợ lạc, dịch vụ trang bị thêm miếng lót mũ nữa! 5 5.
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}, {PRICE, neutral}
+
+#648
+motobike for rent đã để lại cho mình cảm giác xe đạp rất đẹp. giá tốt.
+{VEHICLE#QUALITY, positive}, {SERVICE#RENTING, positive}
+
+#649
+Qua một bài viết, tôi biết đến cho thuê xe máy đà lạt - hoàng thiện và tôi thấy xe mới đẹp cho thuê giá rẻ.
+{PRICE, positive}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, positive}
+
+#650
+Tới motobike for rent, mình trải nghiệm dịch vụ tốt
+{SERVICE#STAFF, positive}
+
+#651
+Kỷ niệm ở cho thuê xe rất xịn là xe xịn, mới
+{VEHICLE#QUALITY, positive}
+
+#652
+Xét về pi motorbike rental, điều tôi nhận thấy là các nhân viên trẻ chào đón chúng tôi vui lòng. mức phí là 130.00 đồng ngày. bạn có thể dễ dàng tìm thấy những chiếc xe máy giá 100.00 đồng được trưng bày trên các con phố khác gần đó, nhưng ở đây, xe máy còn mới, thủ tục sạch sẽ và còn có lựa chọn nửa ngày. ngoài ra, tôi được dặn là chỉ cần mang theo xăng mà không cần đổ xăng nên chỉ sạc đủ lượng cần thiết..
+{SERVICE#STAFF, neutral}, {SERVICE#RENTING, positive}, {PRICE, neutral}, {VEHICLE#QUALITY, positive}, {LOCATION, positive}
+
+#653
+mình đã thuê ở đây 2 lần rồi, 2 lần dô dalat đều thuê xe ở đây nè 100k ngay xe vison, mới nữa nên mọi người yên tâm nha. Đó là kỷ niệm tại dv cho thuê xe máy qt đà lạt.
+{PRICE, neutral}, {VEHICLE#QUALITY, positive}
+
+#654
+xe mới ,êm ái ,chất lượng miễn bàn luôn thêm cả được hỗ trợ giao xe nhiệt tình tận tâm nữa 10đ. cho thuê xe máy trường sinh là nơi mình muốn nhắc đến.
+{PRICE, neutral}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, positive}
+
+#655
+anh chủ nhiệt tình. xe mới keng đi rất đã. Trải nghiệm này mình có được tại cho thuê xe máy - đà lạt vi vu.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#656
+thuê xe 16 chỗ du lịch đà lạt - thịnh phú đã cho mình trải nghiệm xe đời mới, tài xế chạy êm, rành đường, tư vấn cho khách như hướng dẫn viên. lần sau lên đl mình sẽ ủng hộ.
+{VEHICLE#QUALITY, positive}
+
+#657
+Nếu phải đánh giá thuê xe máy đà lạt văn phú ( dalat motorbike rental ), mình sẽ nói rất tiện khi thuê xe ở văn phú vì gần homestay mình ở. xe được kiểm tra kỹ trước khi giao. mình đi tà nung, thung lũng vàng đều ổn.
+{LOCATION, positive}, {PRICE, neutral}, {VEHICLE#QUALITY, neutral}
+
+#658
+chú chủ dễ thương cực, giao và lấy xe tận nơi. khi lấy xe người đi một đoạn rồi mình sực nhớ cần lấy lại chứng minh nhân dân để công việc thì chú cũng chạy tận chỗ mình đứng để đưa trả chứng minh nhân dân luôn. xe nozza limited cũng có 120k, có thể tính nửa ngày. thích nhất là bao xăng giá 30k, không cần canh xăng như chỗ khác. trải nghiệm quá ok.. Và chỗ này là dịch vụ cho thuê xe máy giá rẻ tri ân.
+{VEHICLE#QUALITY, neutral}, {SERVICE#RENTING, neutral}, {PRICE, neutral}
+
+#659
+Khi trải nghiệm ở cho thuê xe rất xịn, mình nvien giao xe nhanh chóng, hỗ trợ nhiệt tình. ưng ý nón bh mới và không có mùi
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#660
+Tôi có dịp thuê phương tiện từ cho thuê xe máy đà lạt_anh tây. mình mới thuê xe ng, thuê 2 chiếc ok hết cả 2. sau này lên đà lạt nhất định sẽ thuê lại. ai chưa biết thuê đâu cứ thử trải nghiệm 1 ngày sẽ mê lắm.
+{PRICE, neutral}, {VEHICLE#QUALITY, positive}
+
+#661
+Cảm nhận chung về cho thuê xe máy đà lạt - go happy của mình là công ty chuyên nghiệp, hướng dẫn viên cũng như nhân viên rất thân thiện nhất định sẽ chọn công ty nếu quay trờ lại đà lạt 3.
+{SERVICE#STAFF, positive}
+
+#662
+Khi nghỉ ở dịch vụ cho thuê xe du lịch 16 chỗ và 7 chỗ trí trần, mình chất lượng dịch vụ thuê xe rất tốt, tôi sẽ giới thiệu cho bạn bè và người thân
+{PRICE, positive}, {SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#663
+Tới thuê xe 16 chỗ ở đà lạt một lần, mình thấy thuê xe 16 chỗ là lựa chọn hoàn hảo cho các nhóm bạn, gia đình hoặc công ty đi du lịch. nên ưu tiên các đơn vị uy tín, cung cấp xe đời mới, sạch sẽ và tài xế chuyên nghiệp để đảm bảo an toàn và sự thoải mái suốt hành trình. nếu bạn đang lên kế hoạch khám phá đà lạt, dịch vụ dalat today travel là gợi ý tuyệt vời với giá cả hợp lý và đội ngũ phục vụ tận tâm!
+{PRICE, positive}, {VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, neutral}
+
+#664
+chúng tôi muốn thuê một chiếc xe tay ga nhưng chúng tôi không có bằng lái xe nên điều này không thể thực hiện được. thay vào đó, chúng tôi nhận được một chuyến tham quan từ người chủ trên chiếc xe của anh ấy: bắt đầu bằng chuyến đi cáp treo đến thác pangour, thác voi, chùa, trang trại cà phê, tất cả đều không thể tuyệt vời hơn, tôi chỉ có thể giới thiệu cửa hàng.. Và mình đã ở dalat motorbike rental & easyrider tour.
+{SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, neutral}
+
+#665
+Trải nghiệm của mình ở dalat motorbike rental & easyrider tour: tôi chỉ có thể giới thiệu nó, chúng tôi đã có chiếc xe đạp được 6 ngày, nó ở trong tình trạng hoàn hảo. giá cả và thoả thuận tuyệt vời..
+{VEHICLE#QUALITY, neutral}, {PRICE, neutral}, {SERVICE#RENTING, neutral}
+
+#666
+Tới cho thuê xe máy sang thu một lần, mình thấy ăn nói hỗn lão thuê xe thì không giao tới như review đâu nha lúc cọc thì bắt cọc nhanh lắm. quá tệ
+{PRICE, neutral}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, neutral}
+
+#667
+Khi ghé qua cho thuê xe máy lê nguyên., tôi nhận thấy rằng xe ab mới chạy khoẻ mà giá cả quá ngon bổ rẻ. 100k ngày. anh chủ thân thiện rất khuyến khích mọi người thuê xe tại đây. xe mũ cũng mới hơi có mùi nên giặt sạch thơm tho sẽ tuyệt vời..
+{PRICE, neutral}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#668
+Tôi sử dụng dịch vụ thuê xe tại cho thuê xe máy lê nguyên.. anh chủ siêu thân thiện. tụi mình book xe trước 1 tuần. nhưng lúc lên tới đà lạt, do 1 bạn trong nhóm không xem tin nhắn nên gọi thuê xe chỗ khác. có lỗi là thế mà anh chủ vẫn rất hiền, nói không sao. 10đ không có nhưng! thuê xe tay ga đồng giá là 100k chiếc..
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, neutral}, {PRICE, neutral}
+
+#669
+dịch vụ tốt rất hài lòng, giá rẻ các bạn nên tham khảo và đặt xe. Mình có cơ hội trải nghiệm tại cho thuê xe máy - tài đà lạt.
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#670
+Trải qua thời gian ở cho thuê xe máy thuỵ lê , cho thuê loa kẹo kéo, xe hop đồng tour du lich. đưa đón sân bay…, mình thấy xe mới chạy ít hao xăng, gia lai ok nữa,
+{VEHICLE#QUALITY, negative}
+
+#671
+Với mình, motobike for rent mang đến cảm giác em bốc được con xe đỉnh job, giá cả okela, phân khúc 100 cá cho xe ga được lựa chọn, rcm nhé mọi người.
+{PRICE, neutral}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, positive}
+
+#672
+bơ motobikes mang lại cảm giác món ăn tuyệt vời nhân viên rất tốt bụng tốt, địa điểm
+{SERVICE#STAFF, positive}
+
+#673
+chủ xe tốt bụng nhiệt tình lần sau sẽ ủng hộ tiếp. Nơi mình nói đến là cho thuê xe máy - tài đà lạt.
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#674
+Tổng quan về pi motorbike rental: mình thuê xe 2 ngày, xe mới nên đi đường xa cũng yên tâm, mấy bạn nhân viên thì lịch sự vui vẻ. lần sau lại thuê tiếp.
+{PRICE, neutral}, {SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#675
+Trong chuyến đi đến motorbike dalat, mình thấy chúng tôi thuê một chiếc xe tay ga trong 2 ngày. xe tay ga hàng đầu, dịch vụ tốt và giá tốt! vui mừng lần nữa!.
+{VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}
+
+#676
+Hôm ghé motobike for rent, mình thấy nếu tình trạng xe máy không tốt, anh sẽ đến ngay khách sạn để đổi. dù tôi bị mất chìa khoá nhưng anh ấy vẫn đến đổi chiếc xe máy khác. chủ sở hữu thực sự tốt đẹp. anh ấy thậm chí còn giải quyết được vấn đề phải quay lại khách sạn. lần sau tới đà lạt mình sẽ thuê lại. em yêu anh, đà lạt, em yêu anh, sếp..
+{VEHICLE#QUALITY, positive}
+
+#677
+chất lượng tạo nên thương hiệu. đánh giá hướng dẫn viên happy day 5 sao. Mình đã từng cảm nhận điều đó tại cho thuê xe máy đà lạt - go happy.
+{VEHICLE#QUALITY, neutral}, {SERVICE#RENTING, neutral}
+
+#678
+Và đây là trải nghiệm của mình tại coffee and motobike for rent.: chúng tôi thuê một chiếc xe máy trong vài ngày xe đạp tuyệt vời, giá tốt và chủ sở hữu rất thân thiện!.
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, positive}, {VEHICLE#QUALITY, positive}
+
+#679
+Đi thuê xe 16 chỗ ở đà lạt khiến mình dịch vụ rất tốt, lần sau quay lại ủng hộ tiếp !
+{SERVICE#STAFF, positive}
+
+#680
+Cảm nhận của mình về dịch vụ cho thuê xe máy giá rẻ tri ân sau lần đầu ghé thăm là rât tốt giá rẽ.
+{SERVICE#RENTING, positive}
+
+#681
+thuê xe máy đà lạt anh hải đã cho mình cảm giác chúng tôi thuê xe máy của hải trong 5 ngày và dịch vụ rất tuyệt vời. chúng tôi vô tình làm vỡ gương chiếu hậu và phanh tay, nhưng không phải trả thêm phí, điều này khiến chúng tôi rất cảm kích. chúng tôi chắc chắn sẽ thuê xe của hải lần nữa khi đến đà lạt. năm sao!
+{PRICE, neutral}, {SERVICE#STAFF, positive}, {VEHICLE#QUALITY, neutral}, {SERVICE#RENTING, negative}
+
+#682
+Trải nghiệm ở thuê xe máy đà lạt thảo vy cho mình cảm giác anh chủ xe nhiệt tình dễ thuơng. xe mới máy mạnh chạy đường dốc ngon lành. hẹn gặp anh đợt sau em ủng hộ tiếp
+{SERVICE#STAFF, positive}, {VEHICLE#QUALITY, positive}
+
+#683
+Chuyến đi cho thuê xe máy phong hoa huệ vừa rồi quảng cáo thì nói nón vệ sinh giặt giũ thường xuyên , nhưng khi đội lên thì mùi ẩm móc lâu ngày chưa với rất là khó chịu, nhân viên thì thấy cũng không có thân thiện cho lắm. đồng ý là giá rẻ nhưng cần thay đổi lại cách phục vụ
+{SERVICE#STAFF, negative}, {VEHICLE#QUALITY, neutral}, {PRICE, positive}, {SERVICE#RENTING, neutral}
+
+#684
+Chuyến đi dịch vụ cho thuê xe máy giá rẻ tri ân khiến mình thấy chú thuê xe thân thiện nhiệt tình lắm nha, giá cả xe thuê hợp lí phải chăng nữa, lần tới đến đà lạt nhất định sẽ thuê tiếp chỗ chú
+{PRICE, positive}, {SERVICE#STAFF, positive}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, neutral}
+
+#685
+mình mới xem trên tiktok giờ gim lại có gì đi đl đặt. Địa điểm mình muốn nhắc đến là cho thuê xe máy sang thu.
+{VEHICLE#QUALITY, positive}
+
+#686
+Về cho thuê xe máy dũng đà lạt, mình thấy tụi mình thuê xe của anh dũng 3 ngày đi chơi ở đà lạt. lúc gọi điện book là được chọn các loại xe luôn; 100 ngày. khuyến khích các bạn chọn xe cốp bự ab để được nhiều đồ nhen. xe chạy êm, lốp ổn nên tụi mình đi đường xấu, gồ ghề, lên xuống nhiều đèo vẫn ok. mặc dù tiệm ảnh đối diện khách sạn mình nhưng mà ảnh cũng bận đi giao chỗ khác nên trừ hao tầm 20 mới giao trả xe được. lưu ý là dù cho thuê nửa ngày cũng tính là 1 ngày nên mọi người có thể tính toán xem thuê xe ngày nào cho hợp lý với chuyến đi nhá. đi đường thấy ai đội nón màu cam là tụi tui đoán coi phải thuê xe anh dũng không.
+{PRICE, neutral}, {VEHICLE#QUALITY, positive}, {SERVICE#RENTING, neutral}
+
+#687
+Một dịp ghé thăm dịch vụ cho thuê xe máy giá rẻ tri ân, mình thấy dịch vụ rất tốt.
+{SERVICE#STAFF, positive}
+
+#688
+Lần đầu ghé thuê xe máy đà lạt anh hải, mình cảm nhận dễ dàng giao tiếp phản hồi rất nhanh trên whatsapp và rất thoải mái với thời gian quay lại, v.v. sẽ khuyến nghị.
+{SERVICE#RENTING, positive}
+
+#689
+xe còn mạnh và mới. giá cả phải chăng.. Và địa điểm mình ghé hôm đó là cho thuê xe máy chất lượng đức toàn.
+{VEHICLE#QUALITY, positive}, {PRICE, positive}, {SERVICE#RENTING, neutral}
+
+#690
+nhiệt tình, dịch vụ tốt. thuê xe tự lái giá rẻ đà lạt là nơi mình muốn nhắc đến.
+{SERVICE#STAFF, positive}
+
+#691
+Ở thuê xe 7 chỗ đà lạt công ty latour, mình trải nghiệm xe đẹp và sạch sẽ. tài xế am hiểu đà lạt, nhiệt tình và dễ thương!
+{VEHICLE#QUALITY, positive}, {SERVICE#STAFF, positive}
+
+#692
+dịch vụ cho thuê xe máy giá rẻ tri ân để lại cảm giác hai cô chú chủ xe thân thiện, dể thương, giao nhận xe ở tận ks mình ở luôn. dịch vụ 5 sao không có nhưng
+{SERVICE#STAFF, positive}, {SERVICE#RENTING, neutral}, {VEHICLE#QUALITY, neutral}
+

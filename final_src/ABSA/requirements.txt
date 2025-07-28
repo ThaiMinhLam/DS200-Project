@@ -1,0 +1,10 @@
+transformers
+underthesea
+regrex
+PyYAML
+torch
+tqdm
+matplotlib
+numpy
+pandas
+emoji

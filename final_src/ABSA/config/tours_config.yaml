@@ -1,0 +1,35 @@
+aspect:
+  - LOCATION
+  - PRICE
+  - SERVICE#STAFF
+  - EXPERIENCE#ACTIVITY
+  - ENVIRONMENT#SCENERY
+  - ENVIRONMENT#ATMOSPHERE
+
+labels: 
+    - negative
+    - neutral
+    - positive
+pretrained: vinai/phobert-base-v2
+use_lstm: True
+num_layers_lstm: 2
+word_embedding_dim: 512
+num_embeddings: 256
+batch_size: 256
+num_workers: 2
+num_epochs: 30
+
+train_file: F:\Studies\Third_year\Big_data\Final_Code\src_1\ML\ABSA\data\train_tours.txt
+# val_file: F:\Studies\Third_year\Big_data\Final_Code\src\ThamKhao\ABSA-VLSP2018\data\val_cafe.txt
+test_file: F:\Studies\Third_year\Big_data\Final_Code\src_1\ML\ABSA\data\test_tours.txt
+
+freeze_embedder: True
+acd_warmup: 30
+acd_only: False
+acsc_only: False
+lr: 0.00005
+weight_decay: 0.00001
+acd_loss_weight: 1.0 
+acsc_loss_weight: 1.0
+saved_model: log/model_absa.bin
+model_save_path: log/model_absa.bin

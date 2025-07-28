@@ -1,0 +1,684 @@
+#1
+đi không ngay mùa du lịch nên vắng, chơi thoải mái, nhân viên support nhiệt tình, cứ hỏi là chỉ. Đó là lúc mình có mặt tại khu vui chơi dalat wonderland.
+{SERVICE#STAFF, positive}, {EXPERIENCE#ACTIVITY, neutral}
+
+#2
+Điều đáng chú ý ở lạc hồng limousine - vp đà lạt: tôi tin rằng một số phiếu bầu 1 hoặc 2 sao dưới đây chỉ là tình trạng của nhiều năm trước, tôi đã sử dụng dịch vụ của họ bốn lần trong 6 tháng gần đây và rất hài lòng với họ; xe còn mới, ghế ngồi thoải mái, sạch sẽ, chăn luôn được gấp sẵn trên đó cẩn thận chào đón khách hàng; rất nhanh chóng, đúng giờ và an toàn; các tài xế tôi gặp rất thân thiện nên tôi thích ngồi cạnh tài xế để nói chuyện với họ suốt chuyến đi rẻ hơn vì ghế không thể nằm như ở cabin phía sau
+{LOCATION, positive}, {PRICE, neutral}, {SERVICE#STAFF, positive}
+
+#3
+một vụ lừa 0k lúc mua vé giới thiệu trò chơi này kia lung linh lắm. tới lúc mua vào thì rất tệ với những điều sau: 1 mua vé chơi trọn gói nhưng lại bỏ vào rất nhiều trò trả phí và mua xu dù vé 0k khá cao so với các khu vui chơi khác ?? 2 đi bộ rất xa và leo rất mệt tới các điểm vui chơi và không có hỗ trợ di chuyển nào 3 đa số trò chơi đều đóng cửa hoặc viện cớ bảo trì và không có nhân viên trực. 4 sở thú thô sơ có vài loại thú cơ bản, rất hôi , thú không được vệ sinh, toàn phân và mùi hôi nồng nặc. resort nặng mùi nhất mình từng biết. 5 nhân viên : có người rất dễ thương như chị trực trò chơi phao 8 3 2025 lúc 3h15. tuy nhiên nhân viên các khu khác hời hợt và nói chuyện rất chống chế , lý do bịa đặt này kia. chung quy là trò chơi không chơi được. 6 trò chơi bị bảo trì và đóng cửa rất nhiều nhưng lúc sales nhân viên vẫn tư vấn ảo ma dẫn dắt này kia, tới lúc chơi thì như đi lang thang ở nhà hoang vì không nơi nào mở. giá vẫn thu 0k full!!?? cần bảo vệ khách hàng và tiêu dùng vào cuộc vụ lừa đảo này!! 7 còn rất rất nhiều điều tệ đối với 1 khu vui chơi gắn mác resort với giá ảo ma 0k ở 1 nơi khá xa như này. không bao giờ quay trở lại!!. Hôm mình ghé khu vui chơi dalat wonderland.
+{PRICE, negative}, {SERVICE#STAFF, negative}, {EXPERIENCE#ACTIVITY, negative}, {ENVIRONMENT#SCENERY, positive}
+
+#4
+Có cơ hội đến săn mây panorama cầu đất, tôi nhận thấy vé vào cổng 150k người kèm 1 phần ăn sáng, không nước, có nhiều cảnh chụp đẹp, máng trượt, khu đậu xe oto.
+{PRICE, neutral}, {ENVIRONMENT#SCENERY, positive}
+
+#5
+Cá nhân mình, khu vui chơi dalat wonderland mang lại cảm giác nơi này có rất nhiều hoạt động thú vị, tuy nhiên một số cơ sở vật chất đã xuống cấp. đặt vé trên các trang web trước để có giá tốt hơn..
+{EXPERIENCE#ACTIVITY, positive}
+
+#6
+Lịch trình của tôi có bao gồm dịch vụ tham quan du lịch đà lạt. dịch vụ tốt,toan xe mới.
+{SERVICE#STAFF, positive}
+
+#7
+Khi nói đến khu vui chơi dalat wonderland, mình thấy nhân viên phục bán vé phục vụ không tốt.
+{SERVICE#STAFF, negative}
+
+#8
+cảnh trước đây tự nhiên thì ổn. bây giờ xây dựng thêm mấy công trình nhân tạo nhìn cực kì bát nháo chợ búa.. Đó là tất cả những gì tôi muốn nói về săn mây panorama cầu đất.
+{ENVIRONMENT#SCENERY, positive}, {SERVICE#STAFF, neutral}
+
+#9
+quá tệ, trò chơi quá nhỏ như mô hình đua chó như trò hề, xe địa hình chả ra sao, trượt băng quá tệ,.. vườn thú chết hết,.. giá vé quá cao mà mua rồi hối hận... Và địa điểm để lại ấn tượng là khu vui chơi dalat wonderland.
+{EXPERIENCE#ACTIVITY, neutral}, {ENVIRONMENT#SCENERY, positive}, {PRICE, negative}
+
+#10
+nhân viên thân thiện, yêu động vật thú được chăm sóc tốt, khách có thể chơi với thú có khuôn viên rộng để chụp hình. Đó là tất cả cảm nhận của mình trong chuyến đi khu vui chơi dalat wonderland.
+{ENVIRONMENT#ATMOSPHERE, positive}, {SERVICE#STAFF, positive}, {EXPERIENCE#ACTIVITY, neutral}
+
+#11
+Khi có dịp ghé khu vui chơi dalat wonderland, mình cảm nhận lâu đài băng giá thì còn nóng hơn bên ngoài trời máy lạnh cũng không mở , dịch vụ trò trơi quá yếu kém không như quảng cáo ..
+{SERVICE#STAFF, negative}
+
+#12
+chơi đà điểu không té. Một trải nghiệm tại khu vui chơi dalat wonderland.
+{EXPERIENCE#ACTIVITY, neutral}
+
+#13
+lạc hồng limousine - vp đà lạt cho mình cảm giác xe như kiểu lùa gà, giá vé để trên web không rõ ràng. thái độ phục vụ không tốt, hotline khó kết nối và nói chuyện không lịch sự
+{PRICE, neutral}, {SERVICE#STAFF, negative}
+
+#14
+Sau khi ghé khu vui chơi dalat wonderland, hơn 4 năm qua gia đình và công ty mình đều lên đây mỗi năm. chất lượng dịch vụ, cơ sở và thái độ nhân viên rất tốt, vui vẻ năng động nhiệt tình nhất là bạn dzũ lái xe đưa rước nội khu. điểm trừ là các xe đưa đón đã cũ dù vẫn chạy ổn.
+{SERVICE#STAFF, negative}
+
+#15
+Đôi lời về đồi mây đà lạt: 50k người là chi phí quá rẻ để ngắm mây bay và săn mây vào sương sớm. hoàng hôn cũng đẹp vô cùng. nên đến. hoang sơ và hoà quyện thiên nhiên.
+{PRICE, positive}, {ENVIRONMENT#SCENERY, positive}
+
+#16
+Hôm đến khu vui chơi dalat wonderland, mình thấy rất là tệ.. địa điểm này chỉ cho anh chị em nào nghỉ dương thôi nhé!! còn về trò chơi tệ lắm nhé.. 1 nhân viên bán vé có thái độ nha.. 2 còn trò chơi mọi người phải đi bộ nha leo dốc đi cầu thang bộ xe di chuyển chỉ hỗ trợ xho khách thuê vila thôi nha còn anh chị em nào muốn trải nghiệm thì tốt nhất đừng ghé nhé vé tham quan 1 người 0k không xứng đáng nha anh chị em mình không thừa tiền cũng không thiếu tiền nhưng mà không xứng đáng quá là tệ ...
+{SERVICE#STAFF, negative}, {EXPERIENCE#ACTIVITY, negative}, {PRICE, negative}
+
+#17
+đặt giờ này mà đón giờ khác, nhân viên nói chuyện vô học, mất dạy chửi khách, nhà xe không có trách nhiệm, uy tín. Nơi mình đến chính là lạc hồng limousine - vp đà lạt.
+{SERVICE#STAFF, negative}, {EXPERIENCE#ACTIVITY, neutral}
+
+#18
+Trong chuyến đi Đà Lạt này, tôi đã ghé săn mây panorama cầu đất và tôi thấy chỉ được cảnh săn mây, còn giá nước thì 100k 1 người , nước uống làm cho có lệ, rất rất tệ nhé mọi người...
+{PRICE, neutral}, {ENVIRONMENT#SCENERY, positive}
+
+#19
+chú ý, nguy hiểm đến tính mạng!! xe buýt từ đà lạt vào sài gòn. chúng tôi sẽ không được đón từ khách sạn và điều đó sẽ không được cung cấp cho chúng tôi. chúng tôi đã đặt hai chỗ ngồi phía sau tài xế. chúng tôi có 2 ghế khẩn cấp cạnh tài xế. chúng tôi đã có một cuộc hành trình không thoải mái và có thể trải nghiệm trực tiếp những pha vượt nguy hiểm đến tính mạng. người lái xe đang xem phim trên điện thoại di động và dùng que lấy ráy tai ra khỏi tai. tất cả các khách việt nam khác đều được đưa thẳng đến khách sạn của họ. vì vậy chuyến đi của chúng tôi mất 8 giờ thay vì 6. người lái xe ném chúng tôi ra một con phố nhỏ ở điểm dừng cuối cùng của anh ấy và chúng tôi phải bắt taxi. tránh công ty xe buýt này.. Mình ghi nhận điều này tại lạc hồng limousine - vp đà lạt.
+{SERVICE#STAFF, neutral}, {EXPERIENCE#ACTIVITY, negative}
+
+#20
+Khi lưu trú tại săn mây panorama cầu đất, mình thấy đó là một nơi tuyệt vời để đi và chụp những bức ảnh instagramizable.
+{EXPERIENCE#ACTIVITY, positive}
+
+#21
+Lần ghé khu vui chơi dalat wonderland vừa rồi, mình cảm nhận khuôn viên rộng, nhiều trò chơi, nhưng tiếc là trò nào cũng đầu tư không tới. giá vé 0k người lớn, 190k trẻ em dưới 1m4 nhân viên rất ít, các trò hot như xe trượt chờ rất là lâu. điểm cộng là nhân viên rất dễ thương, nhiệt tình.
+{ENVIRONMENT#ATMOSPHERE, neutral}, {EXPERIENCE#ACTIVITY, neutral}, {PRICE, neutral}, {SERVICE#STAFF, positive}
+
+#22
+nước đắt và rất tệ, trà đào như trà đá. Mình ghi nhận điều này tại săn mây panorama cầu đất.
+{PRICE, negative}
+
+#23
+giá vé 0k người vào ngày chủ nhật. 9h30 gia đình mình tới gần như là bao trọn khu và chẳng có ai chơi. có mấy trò như xe địa hình, nhà băng chỉ hơi lạnh xíu nma toàn cát với muối, có trò trượt băng trong này nma là trượt trên đường bạt trắng, khá nguy hiểm , có nhà ma nma tối quá chả nhìn thấy có ma không, có nơi xem phim thực tế ảo, nơi bắn cung tên, vườn thú thì cũng hơi ít thú, xe trượt thì là trượt đường bê tông nên vô cùng xóc, và 1 đoạn trượt phao nma ngắn lắm. có cưỡi lạc đà, cưỡi ngựa. trong này cũng không có chỗ để ăn nên nhà nào đi có thể tự chủ động mang đồ ăn vào nha. đáng nhất chắc là tour 30 phút đi tàu trên hồ tuyền lâm. cảnh đẹp nhưng hơi ít và cũng không đi hết được hồ. nói chung là trải nghiệm 1 lần cho biết chứ chắc sau không quay lại.. Đây chính là trải nghiệm của mình tại khu vui chơi dalat wonderland.
+{PRICE, neutral}, {LOCATION, positive}, {EXPERIENCE#ACTIVITY, neutral}, {ENVIRONMENT#SCENERY, positive}
+
+#24
+Khi ghé lạc hồng limousine - vp đà lạt, mình cảm nhận rõ tuần rồi mình đi xe nhà từ đà lạt về sài gòn nhưng bị trục trặc, may mà khuya 11h rồi có xe hồng lạc limousine còn chạy. thấy review đánh giá thấp cũng lo, nhưng mà đi rồi mới thấy xe chạy rất êm, giá tính ra rẻ chứ không mắc. với lại tài xế cũng nhiệt tình, tối buồn vệ sinh, gặp tài xế xe khác kêu ráng nhịn tới trạm rồi, được cái tài xế thông cảm. nói chung là xe chạy rất êm
+{PRICE, negative}, {SERVICE#STAFF, positive}
+
+#25
+khu vui chơi dalat wonderland mang lại cảm giác thất vọng! cảm thấy không xứng đáng khi bỏ 300k
+{PRICE, negative}
+
+#26
+cảnh mây đẹp. Đây là chia sẻ về đồi mây đà lạt.
+{ENVIRONMENT#SCENERY, positive}
+
+#27
+khu vui chơi dalat wonderland mang đến trải nghiệm không đáng tiền, chỉ duy nhất 1 điều vớt vát lại 3 sao đó là: sự nhiệt tình và siêu dễ thương của toàn bộ nhân viên nơi đây. nếu không có sự nhiệt tình đó, mình đánh giá 0 sao.
+{SERVICE#STAFF, negative}
+
+#28
+đồi mây đà lạt khiến mình cảm giác địa điểm săn mây lý tưởng, rất đẹp..di lúc 5g30 ok hơn, sắp tới có phục vụ caphe.. nên đến
+{SERVICE#STAFF, neutral}
+
+#29
+Cá nhân mình, book tour leo núi trekking pinhatt hồ tuyền tâm mang lại cảm giác một nơi lý tưởng cho bạn và người thân , thật sự gần gũi với thiên nhiên . cảm giác thật tuyệt vời.
+{LOCATION, positive}, {ENVIRONMENT#SCENERY, positive}, {ENVIRONMENT#ATMOSPHERE, positive}
+
+#30
+Tại khu vui chơi dalat wonderland, trải nghiệm của mình là khu wonder land đà lạt là điểm đến lý tưởng cho các gia đình có con nhỏ. với không gian rộng rãi, thoáng đãng và nhiều khu vực vui chơi an toàn, nơi đây chắc chắn sẽ mang lại cho các bé những giờ phút vui vẻ. nhân viên nhiệt tình, dễ thương và luôn sẵn sàng hỗ trợ, khiến cho trải nghiệm của gia đình bạn trở nên dễ chịu hơn. cảnh quan đẹp mắt và các khu vực check in ấn tượng cũng là điểm cộng lớn. tổng thể, đây là một lựa chọn tuyệt vời cho kỳ nghỉ gia đình.
+{ENVIRONMENT#ATMOSPHERE, positive}, {EXPERIENCE#ACTIVITY, positive}, {SERVICE#STAFF, positive}, {ENVIRONMENT#SCENERY, positive}
+
+#31
+Tôi được gợi ý tham gia khu vui chơi dalat wonderland và đã thử. nên thử và trải nghiệm, rất vui.
+{EXPERIENCE#ACTIVITY, neutral}
+
+#32
+Ghé chơi khu vui chơi dalat wonderland, mình thấy mình đã đi vào khu vui chơi wonderland ở dalat wonderresort rồi. mình thấy đi chơi và trải nghiệm ở đây tương đối tốt. gần gũi với thiên nhiên, có nhiều trò chơi cảm giác thú vị nữa.
+{EXPERIENCE#ACTIVITY, positive}, {LOCATION, positive}, {ENVIRONMENT#SCENERY, positive}, {ENVIRONMENT#ATMOSPHERE, positive}
+
+#33
+Mình vừa có dịp ghé lạc hồng limousine - vp đà lạt, và đây là cảm nhận: trải nghiệm tuyệt vời trên chuyến xe lạc hồng limousine từ đà lạt đến sài gòn 1. tài xế nhiệt tình, thân thiện. 2. ghế ngồi thoải mái. 3. đưa rước tận nơi, không cần đi xe trung chuyển như các nhà xe khác . 4. có nhiều khung thời gian di chuyển. 5. nhân viên phục vụ tận tình, nhanh nhẹn..
+{EXPERIENCE#ACTIVITY, positive}, {SERVICE#STAFF, positive}
+
+#34
+Ghé khu vui chơi dalat wonderland, trải nghiệm thực tế là trải nghiệm cực kì không tốt. cụ thể. mình ở sg, dẫn 4 đứa con và cháu . 1 bé lớp 2017, 1 bé lớp 2014, 1 bé lớp 2012, 1 bé lớp 2011. vào cổng mua vé, nhân viên bán vé nói bé trên 1m4 thì tính vé người lớn. tổng mình mua 4 vé người lớn và 1 trẻ em hết 1tr710k lớn 0k, nhỏ 190k . đến khi vào chơi thì mấy trò trẻ em thích thì đều báo là trẻ em không được chơi. mình bức xúc yêu cầu gặp quản lý. bạn nhân viên gọi điện mình nói chuyện, mình hỏi tại sao mua vé người lớn mà trò chơi nào cũng bảo không được chơi. yêu cầu phải trên 14 16 tuổi. mình góp ý , nếu vậy các bạn bán vé nên tính độ tuổi kèm theo chiều cao. chứ này khác gì đưa khách vào thế đã rồi. bạn quản lý nói chị đừng cãi với em, quy định là thế. cãi cũng vậy thôi. ql còn bảo nếu chị muốn để chơi thì kí cam kết tự chịu trách nhiệm. nói chuyện như chửi khách. mình thấy khu này còn tệ hơn chỗ bán vé có chưa tới 100k như mongo. phí tiền. cảm giác như bị lừa. chỉ đến 1 lần không bao giờ có lần thứ 2.
+{EXPERIENCE#ACTIVITY, neutral}, {SERVICE#STAFF, neutral}, {PRICE, negative}, {ENVIRONMENT#ATMOSPHERE, neutral}
+
+#35
+Khi đến khu vui chơi dalat wonderland, cảm nhận của mình là kỳ nghỉ dưỡng tuyệt vời tại dalat wonderland.khung cảnh đẹp lãng mạn và thư thái.nhân viên nhiệt tình và dể thương.nhiều món ăn đặc sản vùng miền ngon.rất hài lòng.
+{ENVIRONMENT#SCENERY, positive}, {SERVICE#STAFF, positive}
+
+#36
+Một số cảm nhận tại khu vui chơi dalat wonderland: nhân viên thái độ, mua vé người lớn mà chỉ được chơi trò chơi trẻ em, mọi người cân nhắc khi đến đây vào trời mưa nhé
+{SERVICE#STAFF, negative}, {EXPERIENCE#ACTIVITY, neutral}
+
+#37
+Sau khi đến khu vui chơi dalat wonderland, mình ở đây khá là nhiều trò chơi nhưng mình ấn tượng nhất với trò cưỡi đà điều nè, vui gần chớt
+{LOCATION, positive}, {EXPERIENCE#ACTIVITY, positive}
+
+#38
+Sau khi trải nghiệm dịch vụ ở khu vui chơi dalat wonderland, mình nhận thấy vui lúm các pạn ơi, mấy anh ở đây hỗ trợ nhiệt tình lúm, có anh minh nhân viên chụp dùm tụi mình qtr hình đẹp lum. đáng quay lại.
+{SERVICE#STAFF, positive}
+
+#39
+Tôi chọn tour khu vui chơi dalat wonderland vì thấy phù hợp thời gian. vé 0k không có gì chơi. vừa xấu vừa hôi. nhà tuyết không có tuyết. thú mỗi ngựa thỏ, đà điều, cừu. nói chung nên né.
+{PRICE, neutral}, {EXPERIENCE#ACTIVITY, neutral}
+
+#40
+Một lần đến khu vui chơi dalat wonderland, mình cảm nhận nhân viên rất la nhiệt tình và thân thiện luônn. mấy bạn động vật đây cũng được đối xử rất tốt. mình thấy ở đây hoạt động cucng rất đa dạng nữa
+{SERVICE#STAFF, positive}, {EXPERIENCE#ACTIVITY, positive}
+
+#41
+phòng sạch đẹp chủ đẹp trai nhiệt tình nói chung tuyệt vời. Một trải nghiệm khó quên tại săn mây panorama cầu đất.
+{SERVICE#STAFF, positive}
+
+#42
+em có làm rơi vòng khi chơi game, nhân viên cực kì nhiệt tình đi tìm đi tìm lại chắc khoảng 10 lần. em cũng xác định là mất rùi, anh chị nhân viên nói em để sdt lại nếu có tìm được sẽ gọi em. không ngờ em vừa đi khoảng 15p thì nhận được cuộc gọi của anh chị nhân viên ở đây nói đã tìm được vòng giúp em nhờ máy rà kim loại. mọi người nhiệt tình lắm ạ. 10 điểm. Đó là cảm nhận của mình khi ghé khu vui chơi dalat wonderland.
+{SERVICE#STAFF, positive}, {EXPERIENCE#ACTIVITY, neutral}
+
+#43
+vé vào cổng quá mắc, khu vui chơi cho trẻ em mà toàn cấm độ tuổi. cơ sở vật chất khá cũ. nhân viên khu đua xe địa hình kéo dài thời gian của khách, xe không sử dụng để khách phàn nàn mới cho chơi.. Tôi đã có trải nghiệm tương tự tại khu vui chơi dalat wonderland.
+{PRICE, negative}, {EXPERIENCE#ACTIVITY, neutral}, {SERVICE#STAFF, neutral}
+
+#44
+trải nghiệm tuyệt vời. Hôm ấy mình đến bến chèo thuyền kayak- sup.
+{EXPERIENCE#ACTIVITY, positive}
+
+#45
+giá 0k 1 vé người lớn . khu vui chơi ít, nắng không có gì đặc biệt. so với giá đi chơi chung tại đl thì ở đây quá mắc nhưng đi không được nhiều. những chỗ khác đi với giá 100k 1 vé nhưng có nước suối hoặc 120k 1 vé có nước trái cây. ở đây 0k nhưng không có nước. tệ. không đáng để trải nghiệm. Và mình đã ở khu vui chơi dalat wonderland.
+{PRICE, negative}, {EXPERIENCE#ACTIVITY, negative}
+
+#46
+Để nói về khu vui chơi dalat wonderland, mình thấy vé 0k 1người nhóm mình đi 4 người chơi được đúng 1 trò, phải nói là không có 1 trò chơi nào ra hồn toàn mấy trò tào lao làm không tới đâu, mọi người không nên đến, phí tiền phí thời gian, nhân viên thiếu chuyên nghiệp. nói chung top 1 những nơi không nên tới khi đến đà lạt.
+{PRICE, positive}, {SERVICE#STAFF, negative}, {EXPERIENCE#ACTIVITY, negative}
+
+#47
+Trong lần ghé tour camping tự túc đà lạt, trải nghiệm cắm trại tuyệt vời luôn! không gian thiên nhiên trong lành, khu vực sạch sẽ và được tổ chức rất chuyên nghiệp. nhân viên thân thiện, hỗ trợ nhiệt tình từ lúc đến cho đến khi rời đi, bếp nướng và khu ngồi chill đều được chăm sóc kỹ lưỡng. rất thích hợp cho nhóm bạn, gia đình hoặc cặp đôi muốn thư giãn, hoà mình với thiên nhiên. chắc chắn tui sẽ quay lại lần sau!.
+{EXPERIENCE#ACTIVITY, positive}, {ENVIRONMENT#SCENERY, positive}, {ENVIRONMENT#ATMOSPHERE, neutral}, {SERVICE#STAFF, positive}
+
+#48
+25 6 2023 rất tệ, rất buồn, cơ sở chưa ổn định, các trò chơi kém chất lượng, có vài nhân viên không thân thiện. cái giá 320k là không phù hợp. chắc chắn sẽ không quay lại nếu không thay đổi.. Địa điểm mình đề cập là khu vui chơi dalat wonderland.
+{SERVICE#STAFF, negative}, {EXPERIENCE#ACTIVITY, negative}, {PRICE, neutral}
+
+#49
+Sự thật về khu vui chơi dalat wonderland: tuyệt vời. nhân viên thân thiện. các con thú dễ thương.
+{SERVICE#STAFF, positive}
+
+#50
+rất ấn tượng với dịch vụ vận tải của lạc hồng limousine, đặc biệt là thời gian vận chuyển nhanh, giá cả phải chăng và thái độ tư vấn tận tâm.. Địa điểm mình đề cập là lạc hồng limousine - vp đà lạt.
+{PRICE, positive}, {SERVICE#STAFF, negative}
+
+#51
+Tôi biết đến khu vui chơi dalat wonderland qua mạng xã hội nên đã thử. trò địa hình tại đây siêu thích, các anh nhân viên chăm sóc khách hàng siêu tận tâm.
+{SERVICE#STAFF, positive}
+
+#52
+Tôi nghe nhiều người nhắc đến săn mây panorama cầu đất, nên tôi đến thử. dịch vụ rất tuyệt vời.
+{SERVICE#STAFF, positive}
+
+#53
+Lúc ghé khu vui chơi dalat wonderland, mình thấy trò chơi địa hình thú vị, đáng trải nghiệm
+{EXPERIENCE#ACTIVITY, positive}
+
+#54
+khu vui chơi nhiều trò chơi thú vị và hấp dẫn còn có cả nhà ma cho các tính đồ có sở thích mạo hiểm ngại gì mà không đến để thử thêm 1 lần nữa. Đây là trải nghiệm của mình khi tới khu vui chơi dalat wonderland.
+{EXPERIENCE#ACTIVITY, positive}
+
+#55
+trò chơi thú vị, nhân viên hướng dẫn nhiệt tình. Địa điểm ấy chính là khu vui chơi dalat wonderland.
+{SERVICE#STAFF, positive}, {EXPERIENCE#ACTIVITY, positive}
+
+#56
+Ghé chơi khu vui chơi dalat wonderland, mình thấy vui , nhân viên nhiệt tình
+{SERVICE#STAFF, positive}
+
+#57
+Đi khu vui chơi dalat wonderland một lần, mình thấy nhân viên nhiệt tình 10 đỉm
+{SERVICE#STAFF, positive}
+
+#58
+Sau khi check-in tại tour camping tự túc đà lạt, mình chọn tour rất hợp lý với địa hình khó đi như đà lạt mà chọn tour này thật sự rất hợp lý . tour guide rất dễ thương và nhiệt tình một sự trải nghiệm thực tế với thiên nhiên mà chắc chắn mình sẽ trải nghiệm lại với đà lạt
+{PRICE, positive}, {EXPERIENCE#ACTIVITY, neutral}, {ENVIRONMENT#SCENERY, positive}, {SERVICE#STAFF, positive}
+
+#59
+khu vui chơi dalat wonderland khiến mình cảm nhận không có xe hỗ trợ người già, phụ nữ, trẻ em. leo cầu thang người là hết muốn đi tiếp vườn thú lèo tèo vài con thú, mua vé trọn gói còn phải mua đồ ăn cho thú đồ ăn dở tệ. giá vé 320k quá cao.
+{SERVICE#STAFF, negative}, {ENVIRONMENT#SCENERY, positive}, {PRICE, negative}
+
+#60
+Xét về khu vui chơi dalat wonderland, điều tôi nhận thấy là quá tệ. 290k vé đã được giảm 50 . rất nắng muốn vỡ đầu mà đưa cái bản đồ mỗi nơi 1 hướng. phải tự lết bộ đi từng khu trong cái nắng gắt không một bóng cây. tham quan tưởng đâu hành xác, cảnh vật nghèo nàn nhìn rất xấu. khu lâu đài băng giá trượt tuyết rất nguy hiểm không nên chơi trượt tuyết ở đây có thể gãy tay chân hoặc cổ. lúc ra về mua chai nước suối 19k. nhân viên tự động dắt xe của khách ra ngoài nắng phơi chơi còn chỗ để xe mát mẻ thì để không. tệ hơn chữ tệ các bạn không nên đến đây nếu không muốn hành xác vừa xa trung tâm vừa tệ hại. chào thân ái không muốn gặp lại.
+{PRICE, neutral}, {ENVIRONMENT#SCENERY, negative}, {EXPERIENCE#ACTIVITY, negative}, {SERVICE#STAFF, neutral}, {LOCATION, negative}
+
+#61
+Gần đây có ghé săn mây panorama cầu đất thấy vườn chavi
+{ENVIRONMENT#SCENERY, positive}
+
+#62
+Ở tour camping tự túc đà lạt, bạn sẽ thấy rằng lên rừng cắm trại tưởng khổ, ai ngờ sướng nhưng tủi hổ vì không có bồ đi chung. lửa trại thì ấm, đồ ăn thì ngon, muỗi né mặt, nhân viên cưng như người yêu cũ muốn quay lại. 5 sao không nói nhiều, hẹn ngày tái ngộ!.
+{EXPERIENCE#ACTIVITY, neutral}, {SERVICE#STAFF, neutral}
+
+#63
+có lý do nhiều người đến đã đánh 2 sao . khu này bán vé trò chơi, mà chẳng có trò nào đầu tư đúng tầm, phí phạm vé tham quan và phí phạm công sức mò tới. chỗ này chỉ làm biệt thự nghỉ dưỡng, thêm nhà hàng ăn uống và cảnh quan thì được. làm khu vui chơi mà không hiểu biết hoặc đúng năng lực thì chủ đầu tư bèo quá. Nơi mình đã ghé là khu vui chơi dalat wonderland.
+{SERVICE#STAFF, neutral}, {EXPERIENCE#ACTIVITY, neutral}, {ENVIRONMENT#SCENERY, positive}, {PRICE, neutral}
+
+#64
+thật mừng là tôi đã không bỏ lỡ chuyến thăm này trong hành trình bận rộn của mình. nó thực sự xứng đáng. rời khách sạn lúc 5 giờ sáng để trải nghiệm là xứng đáng với công sức bỏ ra. trải nghiệm độc đáo và là điều không thể thiếu trong hành trình du lịch của bạn. nhất định phải có, tôi nhắc lại.. Và nơi mình muốn nhắc đến là săn mây panorama cầu đất.
+{EXPERIENCE#ACTIVITY, positive}, {SERVICE#STAFF, neutral}
+
+#65
+trải nghiệm thất vọng so với giá vé nha. đi mùa mưa thì càng dơ và chán. vài trò đóng cửa mà không bớt tiền vé. rất ít trò và làm sơ sài. cơ sở vật chất cũ và quê. cũng không có gì đẹp để chụp hình. tốt nhất không nên đi. chỉ có đi thuyền trên hồ tuyền lâm và trượt xe xuống dốc là tạm ổn đề nghị giải tán kinh doanh trên động vật ngựa, cừu,đua chó, lạc đà,.. . nắng mưa gì cũng bắt ngựa ra để cho du khách cưỡi. ngựa ốm nhom lòi xương tội nghiệp lắm. chuồng ở rất bẩn và hôi. hoàn toàn là bạo hành động vật. Mình đã trải nghiệm trong lần ghé khu vui chơi dalat wonderland.
+{PRICE, neutral}, {EXPERIENCE#ACTIVITY, negative}
+
+#66
+thiên nhiên hữu tình. Nơi này chính là đồi mây đà lạt.
+{ENVIRONMENT#SCENERY, positive}
+
+#67
+Sau khi ghé khu vui chơi dalat wonderland, nhiều trò vui nhưng đang bảo trì. nhân viên thân thiệt nhiệt tình.
+{SERVICE#STAFF, positive}
+
+#68
+rất tuyệt. nên đi và cảm nhận!. Mình đã tới săn mây panorama cầu đất hôm đó.
+{ENVIRONMENT#ATMOSPHERE, neutral}
+
+#69
+Có cơ hội đến khu vui chơi dalat wonderland, tôi nhận thấy nhân viên khu địa hình siêu dễ thương, khá vui nhưng mà hy vọng đường đua dài ra xíu nữa là tuỵt.
+{SERVICE#STAFF, positive}
+
+#70
+khu vui chơi dalat wonderland khiến mình cảm giác các anh chị nhân viên rất nhiệt tình, vui vẻ hoà đồng, dễ thương phomai que . một trải nghiệm tuyệt vời
+{SERVICE#STAFF, positive}, {EXPERIENCE#ACTIVITY, positive}
+
+#71
+Lúc ở khu vui chơi dalat wonderland, mình thấy nhân viên đua xe rất nhiệt tình , trải nghiêm thú vị
+{SERVICE#STAFF, positive}
+
+#72
+Nhìn chung, trải nghiệm của mình tại khu vui chơi dalat wonderland là đua xe địa hình, nhân viên tuyệt vời.
+{SERVICE#STAFF, positive}
+
+#73
+Gần đây có ghé khu vui chơi dalat wonderland thấy đến đây 2 lần rồi, rất bức xúc với thái độ nhân viên, lần nào bạn mình cũng bị nhân viên trong nhà tuyết nói này nọ, lấy nhầm máng trượt màu xanh dành do trẻ em thì bị nói là tướng như voi mà lấy cái đó đi chơi còn bị nói này nọ đánh giá là sao trời ? làm dịch vụ thì cho dù khách có nhỏ tuổi thì cũng dùng những lời lẽ lịch sự dùm làm ơn
+{SERVICE#STAFF, negative}, {EXPERIENCE#ACTIVITY, neutral}
+
+#74
+Nhìn chung, trải nghiệm của mình tại lạc hồng limousine - vp đà lạt là rất bất ngờ về chất lượng dịch vụ, giá cả phải chăng, đặc biệt là chính xác về thời gian giao nhận hàng. tin tưởng và sử dụng vào lần tiếp theo.
+{PRICE, positive}, {SERVICE#STAFF, neutral}
+
+#75
+Lần đầu ghé khu vui chơi dalat wonderland, mình cảm nhận khu vui chơi khá là vui nhân viên ở đây nhiệt tình, hướng dẫn tận tình khi mình chơi các trò chơi.
+{SERVICE#STAFF, positive}, {EXPERIENCE#ACTIVITY, neutral}
+
+#76
+săn mây panorama cầu đất đã để lại cho mình cảm giác khu này được đầu tư chỉnh chu và có gu, thời gian mình đi có bãi có lau và đồi hoa tím nở đẹp . mọi người nên đi từ sớm để ngắm mây bồng bềnh, đặc biệt là canh đúng ngày thời tiết lạnh, không mưa . lưu ý bãi xe bên trong dốc xuống khá trơn và cua gấp dễ té . 120k vé vào cửa kèm bánh sừng bò nhưng mình thích nước trà nóng hay cafe thay thế sẽ hay hơn.
+{PRICE, neutral}
+
+#77
+Phải nói lạc hồng limousine - vp đà lạt khiến mình nhiều lần đi xe bên nhà xe rất ok. mà chưa bao giờ gặp bác tài nào mất dạy như lần này. làm nghề phục vụ mà như bố người ta vậy.
+{SERVICE#STAFF, negative}, {EXPERIENCE#ACTIVITY, neutral}
+
+#78
+Khi mình đến săn mây panorama cầu đất, mình thấy một địa điểm mới toanhh với vô số chỗ để chụp ảnh, một nơi quá đẹp để săn mây!!
+{EXPERIENCE#ACTIVITY, neutral}
+
+#79
+Trải nghiệm ở khu vui chơi dalat wonderland thì trải nghiệm rất ấn tượng..
+{EXPERIENCE#ACTIVITY, positive}
+
+#80
+Ở săn mây panorama cầu đất, một điều tôi quan sát được là đã thử và thành côngg.
+{SERVICE#STAFF, neutral}
+
+#81
+Sau khi ghé khu vui chơi dalat wonderland, mình có thể nói rằng ngay khi bước vào làm thủ tục nhận phòng , cách giải quyết chưa nhanh và chuyên nghiệp, ngồi đợi phòng quá lâu, theo quy định 14h, có một tí vấn đề nhưng phải đến 15h09 mới có phòng, rất mệt mỏi. khi gọi hối thì : nhân viên lễ tân nói một câu mà tôi chỉ biết wow : anh chị 3 phòng dồn vô một phòng ở trước , còn hai phòng kia anh chị đi chơi về sẽ có . các dịch vụ khác không có nhiều, vé tham quan dành cho khách phòng 240k, nhưng thấy nhạt nhẽo không có gì hấp dẫn. nhân viên phục vụ nhà hàng nhiệt tình tốt, đồ ăn khá ngon. resort được cái có cảnh đẹp nếu ai thích chụp hình thì đến trải nghiệm. nếu có ai hỏi tôi quay lại hay không, tôi sẽ trả lời là không bao giờ quay lại.
+{SERVICE#STAFF, positive}, {EXPERIENCE#ACTIVITY, positive}, {PRICE, neutral}, {ENVIRONMENT#SCENERY, positive}
+
+#82
+Thông tin thêm về khu vui chơi dalat wonderland: nhân viên nhiệt tình. trải nghiệm tuyệt vời.
+{SERVICE#STAFF, positive}, {EXPERIENCE#ACTIVITY, positive}
+
+#83
+giá vé 0k người, sẽ được phát 1 bản đồ sơ bộ nhìn thì như cái mê cung với nhiều chỗ nhưng cá nhân mình trải nghiệm mình thấy cơ bản chỉ có các trò: 1. nhà ma: không có gì hết nha, nghe tiếng hét rùng rợn nên ban đầu mình cũng sợ nhưng vào thì nó cũng như bên chỗ chùa linh phước thôi. chung khu này thì bên trên có mấy cái máy game chơi bằng thẻ không có gì đặc sắc nên mình cũng không có chơi. 2. nhà băng tuyết gì đó: thoạt đầu tưởng tượng của mình là sẽ giống nhà băng ở đầm sen mà cuộc đời không như mình nghĩ, nền cát máy lạnh công suất lớn và thêm vài cái decor mình không đánh giá cao lắm. ngoài ra, khu này còn có mấy bàn bida, mấy background để checkin sống ảo và có trò bắn cung nhưng cung cho trẻ em cung hít chứ không phải cung giống bên làng cù lần. 3. xe trượt: khúc này bị bà chế quản khu này hù hơi bị hoang mang về độ nguy hiểm của nó, người tham gia sẽ viết cam kết hoàn toàn chịu trách nhiệm nếu có vấn đề gì xảy ra. nhưng mình thấy đường dốc cứ thả dốc rồi nhấp nhả từ từ thắng là ok. nên thử trò này 4. đua chó: trò này thú vị nha, bạn quản trò này cũng dễ thương, các tuyển thủ sau mỗi lần đua sẽ đi xin xúc xích của khán giả 5. xe địa hình: trò này mình thấy đường chạy nhỏ quá nên cũng không tham gia 6. du thuyền dạo hồ tuyền lâm: với giá vé trên thì đáng lắm nha, có điều mình đi chuyến cuối, lúc đi thì chú lái từ từ chill chill, khúc quay đầu về chú đua như đi đưa giải f1 7. cưỡi ngựa: hôm mình đi là sau mấy mùng tết nên sau thời gian lao động vất vả mấy bé ngựa dưỡng già hết rồi 8. cưỡi đà điễu: không biết bình thường quy định như thế nào nhưng hôm mình đi quy định dưới 55 không mới được tham gia nên cái thân thể này không được trải nghiệm. ngoài ra còn có các vườn thú, khu checkin tiểu cảnh. nước ở đây bán bằng máy tự động, nhân viên thì thân thiện từ chỗ mấy chú bảo vệ cho đến bên trong khu. tóm lại mình thấy giá vé xứng đáng nha.. Địa chỉ mình ghé là khu vui chơi dalat wonderland.
+{PRICE, negative}, {EXPERIENCE#ACTIVITY, negative}, {SERVICE#STAFF, positive}, {ENVIRONMENT#SCENERY, positive}
+
+#84
+Sau khi nghỉ ở khu vui chơi dalat wonderland, mình thấy giá chỉ công bằng cho một vài điểm tham quan. nhưng tôi đã làm được điều quan trọng nhất: cưỡi đà điểu. thực sự hy vọng ban quản lý sẽ cải thiện chất lượng của công viên giải trí này, không hiểu sao nó lại cảm thấy trống rỗng.
+{SERVICE#STAFF, neutral}, {EXPERIENCE#ACTIVITY, neutral}
+
+#85
+Tôi đã đến khu vui chơi dalat wonderland, khu du lịch lấy giá mắc,bỏ 400k ra nhma không cs người hướng dẫn đi chơi,thật phí tiền,tự tìm mất thời gian rất nhiều,kph trò chẳng hiểu sao nào cũng không cs giới hạn thgian!!.
+{PRICE, negative}, {SERVICE#STAFF, negative}, {EXPERIENCE#ACTIVITY, negative}
+
+#86
+Chút chia sẻ về lạc hồng limousine - vp đà lạt: giá cả hợp lí.xe chất lượng tốt nhân viên nhiệt tình.
+{SERVICE#STAFF, positive}
+
+#87
+Nói chung, khu vui chơi dalat wonderland cho mình cảm giác chơi vui nè.
+{EXPERIENCE#ACTIVITY, neutral}
+
+#88
+Đôi lời về săn mây panorama cầu đất: hố lửa và bình minh là một trải nghiệm tuyệt vời..
+{ENVIRONMENT#SCENERY, positive}, {EXPERIENCE#ACTIVITY, positive}
+
+#89
+khu vui chơi dalat wonderland là nơi mình thấy anh minh nhân viên nhiệt tình, hỗ trợ khách hết lòng trò chơi địa hình quá đã
+{SERVICE#STAFF, positive}, {EXPERIENCE#ACTIVITY, neutral}
+
+#90
+Mình được bạn bè giới thiệu khu vui chơi dalat wonderland, và quả thật đông vui. nhiều trò chơi lắm.Nghe nhiều người khen khu vui chơi dalat wonderland, hôm nay thử thì thấy đông vui. nhiều trò chơi lắm.
+{EXPERIENCE#ACTIVITY, neutral}
+
+#91
+phong cảnh thật sự rất đẹp, ấn tượng với phong cách làm việc của nhân viên đặc biệt là em đức kĩ thuật. thân thiện, nhiệt tình xứng đáng 100 điểm. Mình đã cảm nhận điều này tại săn mây panorama cầu đất.
+{ENVIRONMENT#SCENERY, positive}, {SERVICE#STAFF, positive}
+
+#92
+Ở khu vui chơi dalat wonderland một thời gian, mình thấy khách sạn quá tệ..chỉ được mảng quảng cáo. phòng ốc cũ kỹ, wc thì nghẹt, bốc mùi k106 k405 ..rất tệ. nhân viên phục vụ phòng thì hời hợt với yêu cầu của khách. nhân viên lái xe thì cọc tính, dùng từ ngữ đệm .. xe chuyên chở khách tham quan thì dùng loại xe 16 chỗ phế thải tái chế, gây mất an toàn vì khu vực toàn đồi dốc.. khu vui chơi wonderland 240k 1 vé vào..tui nhiên chỉ là cảnh quan pha ke nhìn rất giả tạo. xe địa hình thì loại tự chế với động cơ như của xe ba gác máy lắp vào, tay lái cứng khó điều khiển..nhà tuyết thì không có tuyết chỉ toàn cát trắng giả tuyết..tóm lại, khu vui chơi mang danh lập lờ wonderland thật không xứng cả tầm và cái tên.. không đáng với chi phí bỏ ra để nghỉ dưỡng cùng gia đình và bạn bè..
+{PRICE, neutral}, {SERVICE#STAFF, neutral}, {EXPERIENCE#ACTIVITY, positive}, {ENVIRONMENT#SCENERY, positive}
+
+#93
+Một trải nghiệm đáng giá tại khu vui chơi dalat wonderland: dịch vụ không có gì đặc sắc,giá vé so với mặt bằng trung đà lạt thì quá tệ về chất lượng.đi 1 lần tởn tới già..
+{PRICE, neutral}, {SERVICE#STAFF, negative}
+
+#94
+Trong chuyến đi đến đồi mây đà lạt, mình thấy tuyệt vời. thức uống ngon. giá hợp lý. nhân viên thân thiện..khá gần trung tâm...
+{PRICE, positive}, {SERVICE#STAFF, positive}, {LOCATION, positive}
+
+#95
+có đồi chè khá đẹp, view nhìn rất mê. Địa điểm ấy chính là săn mây panorama cầu đất.
+{ENVIRONMENT#SCENERY, positive}
+
+#96
+nhân viên hổ trợ nhiệt tình. dù trời mưa vẫn nhiệt tình. Đây là cảm nhận của mình khi ghé khu vui chơi dalat wonderland.
+{SERVICE#STAFF, positive}
+
+#97
+ok đấy nhưng thuyền thiếc đi chán òm, nhà ma nhà băng cũng chán được cái khung cảnh đẹp đồ ăn ngon. Mình cảm nhận được tại khu vui chơi dalat wonderland.
+{ENVIRONMENT#SCENERY, positive}
+
+#98
+Về cơ bản, lạc hồng limousine - vp đà lạt là mình thấy giá dịch vụ hợp lý, có thể liên lạc với nhà xe thường xuyên nhé. bạn hướng dẫn có thái độ tư vấn tốt, lịch sự , rất thích nhà xe này nha !.
+{PRICE, positive}, {SERVICE#STAFF, negative}
+
+#99
+Ghé thăm săn mây panorama cầu đất, mình thấy dịch vụ kém nước uống dỡ ,thức ăn không ngon ,nhân viên phục vụ chán giá đắc sẽ không quay lại
+{SERVICE#STAFF, negative}
+
+#100
+trải nghiệm 1nơi khá nhỏ bé mà chi phí khá cao cho 1dịch vụ thấp.. Đây là tất cả tại đồi mây đà lạt.
+{PRICE, negative}, {EXPERIENCE#ACTIVITY, neutral}
+
+#101
+săn mây panorama cầu đất khiến mình cảm giác nhiều góc chụp đẹp nhưng nước uống dở , nhân viên không dọn bàn dù khá ít khách
+{SERVICE#STAFF, neutral}, {EXPERIENCE#ACTIVITY, neutral}
+
+#102
+Sau khi ghé thăm khu vui chơi dalat wonderland, mình thấy đáng lẽ là không thể cho 1 sao nào luôn á.vé tết 320k.mà vô đi mỏi chân.ko có gì đáng trải nghiệm. phải gọi là tik tok review không có tâm mẹ gì hết. mọi người đừng nên đến đây.khuyên chân thành á.ghé thung lũng tình yêu vé 320 mà được ăn buffet di chuyển xe điện.chơi không mất thêm tiền..
+{PRICE, neutral}, {EXPERIENCE#ACTIVITY, positive}
+
+#103
+Và đây là trải nghiệm của mình tại lạc hồng limousine - vp đà lạt: làm việc vô trách nhiệm thái độ nói chuyện bất lịch sự, đặt xe 11h mà 12 rưỡi mới tới đón còn mất thêm 30p chạy vòng vòng đón khách, tài xế chạy ẩu, giá vé lên xuống thất thường, giá cũng mắc nữa mà nội thất thì xuống cấp, nói chung là lần cuối đi xe này quá thiếu chuyên nghiệp!!.
+{PRICE, negative}, {SERVICE#STAFF, negative}
+
+#104
+Nếu bạn ghé khu vui chơi dalat wonderland, bạn sẽ thấy khu vui chơi quá tệ, giá vé cao mà dịch vụ cung cấp không tương xứng. khuyến cáo không nên đi với các gia đình có trẻ con. lâu đài băng giá lừa đảo, đổ toàn cát trắng, không mở điều hoà. đường trượt xếp hàng dài mà không có xe. quá tệ!.
+{PRICE, negative}, {SERVICE#STAFF, negative}, {EXPERIENCE#ACTIVITY, neutral}, {ENVIRONMENT#SCENERY, positive}
+
+#105
+Đi khu vui chơi dalat wonderland rồi, giờ mới hiểu sao trông như trong truyện cổ tích nếu ngày nắng chất lượng bình thường và phòng nhỏ hơn so với các khu nghỉ dưỡng gần đó cùng tầm giá.
+{LOCATION, positive}
+
+#106
+săn mây panorama cầu đất đã cho mình trải nghiệm địa điểm ngắm mây xa trung tâm, tầm nhìn ra núi rất nhiều mây tuỳ thời điểm giá vào cổng 120k 1 người tặng 1 phần bánh. có bán đồ ăn sáng và cafe có bãi đỗ xe oto và xe máy cafe sữa nóng ngon, cafe sữa đá dở theo cá nhân
+{LOCATION, negative}, {PRICE, neutral}, {ENVIRONMENT#SCENERY, positive}
+
+#107
+khu vui chơi dalat wonderland để lại cho mình cảm giác cảm ơn resort đã cho tôi một trải nghiệm thật tuyệt vời. resort nhìn như một khu vườn cổ tích với nhiều cảnh đẹp. khu vui chơi thì nhiều trò chơi phong phú, đa dạng, phù hợp với cả người lớn và trẻ em. nhân viên phục vụ nhiệt tình và thân thiện.
+{EXPERIENCE#ACTIVITY, positive}, {ENVIRONMENT#SCENERY, positive}, {SERVICE#STAFF, positive}
+
+#108
+Khi nhắc đến khu vui chơi dalat wonderland, điều tôi muốn nói là mấy anh nhân viên hỗ trợ siu nhiệt tình ạ.
+{SERVICE#STAFF, positive}
+
+#109
+Lần ghé khu vui chơi dalat wonderland gần đây, mình thấy nhân viên khó chịu. không có ưu đãi và phòng cho tài xế
+{SERVICE#STAFF, negative}, {PRICE, positive}
+
+#110
+Qua trải nghiệm ở khu vui chơi dalat wonderland, tôi nhận thấy rằng trò chơi thú vị , có thể thử sức.
+{EXPERIENCE#ACTIVITY, positive}
+
+#111
+Lần tới khu vui chơi dalat wonderland, mình đã nhiều trò chơi mới lạ như đua xe địa hình, xe trượt, bắn cung.. khá thú vị. ai thích mông mơ hơn có thể đi du thuyền, chụp hình tại các khu hồ, vườn hoa. mình đi ngày thường, khách không quá đông nên được nhân viên rất tận tình, chụp ảnh tạo dáng 7749 kiểu . điểm đến must go khi tới đà lạt
+{EXPERIENCE#ACTIVITY, neutral}, {ENVIRONMENT#SCENERY, positive}, {SERVICE#STAFF, positive}
+
+#112
+Khi ghé lạc hồng limousine - vp đà lạt, mình thấy trải nghiệm rất rất tệ. thề không có lần thứ 2. vé 400k. mình đặt 4 vé để là 45 chỗ nhưng khi lên đến xe thì 16 chỗ. mình rất không hài lòng với cách phục vụ đó, đã không có đưa đón tận nhà mà còn làm ăn như vậy. lần đầu đặt và cũng là lần cuối cùng.
+{EXPERIENCE#ACTIVITY, negative}, {PRICE, neutral}, {SERVICE#STAFF, negative}
+
+#113
+Đến khu vui chơi dalat wonderland, mình trải nghiệm trời ơi nhân viên thì dth khỏi bàn nay mình đi vào dịp trời xanh mây trắng trộm vía không có mưa nên chơi được hết tất cả các trò chơi luôn í. nhân viên take care khách chu đáo còn ghẹo khách nữa chứ . thật sự giá 0k mình thấy không hề mắc luôn í quá trời trò chơi hot hít không cần đi nhiều chỗ lợi quá trời .mình lấy account thật để comment chứ không hề seeding 1 chút xíu nào nên mọi người hãy đi tới chơi nhee.mong chỗ phát triển thêm xe điện để khách đi bộ đỡ mệt làm khách hàng sẽ chơi hăng hơn hoii.
+{SERVICE#STAFF, positive}, {EXPERIENCE#ACTIVITY, negative}, {PRICE, negative}
+
+#114
+Lúc mình ghé khu vui chơi dalat wonderland, mình thấy khu vui chơi hấp dẫn, nhiều trò chơi thú vị, đặc biệt là trò chơi cưỡi đà điểu, anh nhân viên hướng dẫn cưỡi đà điểu rất nhiệt tình, rất đáng để trải nghiệm..
+{SERVICE#STAFF, positive}, {EXPERIENCE#ACTIVITY, positive}
+
+#115
+Nhìn chung, trải nghiệm của mình tại khu vui chơi dalat wonderland là giá vé hợp lý! nhân viên lịch sự hỗ trợ khách tham quan. đi 1 vòng du thuyền ngắm cảnh hồ tuyền lâm cũng khá chilling.
+{PRICE, positive}, {SERVICE#STAFF, positive}, {EXPERIENCE#ACTIVITY, neutral}, {ENVIRONMENT#SCENERY, positive}
+
+#116
+Mình được bạn bè giới thiệu khu vui chơi dalat wonderland, và quả thật mất tiền vé vào cổng. nhưng trò chơi lại không hoạt động. đóng cửa.Nghe nhiều người khen khu vui chơi dalat wonderland, hôm nay thử thì thấy mất tiền vé vào cổng. nhưng trò chơi lại không hoạt động. đóng cửa.
+{EXPERIENCE#ACTIVITY, neutral}
+
+#117
+Lúc ở lạc hồng limousine - vp đà lạt, mình thấy muốn về sớm nên chọn xe 9 chỗ này để về sài gòn sớm.đặt xe 12h trưa. 11h30 đã mau chóng trả phòng vì sợ xe chờ. 12h 10 nhà xe goi lại hẹn đón trễ, 12h40 mới tới. chờ tới 12h50 tài xế xe goi lại nói 25 phút nữa mới ghé đón đuoc. tóm lại là trễ gần 1tieng rưỡi. muốn về sớm mà lỡ dại đặt nhà xe này quá mất uy tín
+{LOCATION, positive}
+
+#118
+Có cơ hội đến lạc hồng limousine - vp đà lạt, tôi nhận thấy đầu tháng 7 mình đã đi thử lần đầu tiên, cũng có hơi lo do đã đặt vé mà thấy đánh giá tiêu cực quá. nhưng khi chú tài xế gọi điện đến đón thì khá bất ngờ vì chú nói chuyện lịch sự, không như review trước đó. hôm mình đi chỉ có 4 khách. xe đưa đón tận nơi ở đl và cả tp. hcm. nội thất trong xe khá ổn, vài chỗ hơi cọt kẹt..
+{SERVICE#STAFF, positive}
+
+#119
+Một lần ghé khu vui chơi dalat wonderland, mình đã dịch vụ quá tệ mình nghĩ là khu du lịch 1 là phải thay đổi lại cách phục vụ khách hàng hoặc 2 là mọi người nên cân nhắc trước khi ghé. mình đi chỉ được cái là khung cảnh đẹp để chụp hình chứ cách phục vụ không ra gì. khách du lịch bỏ tiền mua vé vào chơi, vậy mà chơi còn phải chờ theo khung giờ nhất định, buổi trưa vào chơi mà không ai phục vụ vì trong giờ nghỉ trưa. chịu thua luôn á. nhân viên thì có các cô chú rất nhiệt tình và dễ thương nhưng không rõ bên trên vận hành như thế nào. đã vậy đi trải nghiệm du thuyền mà còn hết xăng giữa hồ, khiếp thật sự. 1 trải nghiệm kinh hoàng. giá vé 0k không xứng đáng.
+{SERVICE#STAFF, negative}, {ENVIRONMENT#SCENERY, positive}, {EXPERIENCE#ACTIVITY, neutral}, {PRICE, negative}
+
+#120
+Trải nghiệm tại khu vui chơi dalat wonderland thật sự rất ít hoạt động vui chơi và không hoạt động liên tục. ngày mình đi mua vé rất mắc nhưng chỉ được chơi 1 vài trò cơ bản, không xứng đáng với số tiền và công sức bỏ ra
+{EXPERIENCE#ACTIVITY, neutral}, {PRICE, negative}, {SERVICE#STAFF, neutral}
+
+#121
+Trải nghiệm của mình ở săn mây panorama cầu đất nè: nước siêu đắt, 60k một ly rất nhỏ, không gian trong nhà xấu và chưa hoàn thiện, không lắp kính. chỉ có trang trí phía bên ngoài. không nên tới..
+{PRICE, negative}, {ENVIRONMENT#ATMOSPHERE, neutral}
+
+#122
+Lịch trình của tôi có bao gồm khu vui chơi dalat wonderland. t3 2024: đi đến đây chủ yếu chơi các trò chơi nhưng trúng mùa mưa nên khu vui chơi không mở cửa các trò chơi, đành hẹn dịp khác bãi đậu xe rộng rãi, thuận tiện đỗ xe. gần hồ tuyền lâm nha. cập nhật 2 9 2024: vé vào khá đắt, xe địa hình không dành cho nữ, muốn lên trải nghiệm thì có nhân viên chở lên xe đi một vòng, không có gì thú vị đi bộ leo dốc thang rất nhiều và đuối khi dắt theo bé nhỏ. các bé được trải nghiệm xe phim 5d, trượt nhà băng tuyết, bắn cung, ngồi lên du thuyền đi ngắm hồ tuyền lâm, có cầu trượt ngoài trời, vài con thú mgoaif trời nhưng khá hôi nên mình không lại xem.
+{ENVIRONMENT#ATMOSPHERE, neutral}, {EXPERIENCE#ACTIVITY, positive}, {LOCATION, positive}, {PRICE, negative}, {SERVICE#STAFF, neutral}
+
+#123
+đồ ăn ngon, fresh, view chill.. Đó là lúc mình có mặt tại đồi mây đà lạt.
+{ENVIRONMENT#SCENERY, positive}
+
+#124
+Với tất cả những gì săn mây panorama cầu đất mang lại, mình thấy thà mở khu du lịch thì bán vé bình thường. còn chặn đường người ta bắc buộc đi xe 500m giá 100k thì đúng là quân ăn cướp bất lương . như cơm tù ngày xưa . cho 1 sao..
+{PRICE, neutral}
+
+#125
+Lần đầu tới lạc hồng limousine - vp đà lạt, mình nhận thấy biết đến lạc hồng từ đợt dịch, từ đó mình gia đình luôn đi lh thay vì máy bay. dịch vụ đưa đón tận nhà là điểm cộng rất lớn khiến mình lựa chọn lh thay vì phải trung chuyển hay đổi phuong tiện nhiều chặng. các tài xế hầu hết đều lịch sự, xe chạy đúng giờ. tổng đài cũng hỗ trợ nhiệt tình. đặc biệt cảm ơn bạn tài xế kiệt tuyến sài gòn đl đã hỗ trợ mình nhiệt tình hết sức dù nhà mình ở đoạn đường rất khó đi..
+{SERVICE#STAFF, positive}
+
+#126
+Khi ghé săn mây panorama cầu đất, mình thấy tour trung dalat hài lòng.
+{EXPERIENCE#ACTIVITY, neutral}
+
+#127
+trò chơi rất vui, cảnh đẹp. đặc biệt, nhân viên hướng dẫn và hỗ trợ rất nhiệt tình. nhân viên ai cũng vui vẻ, nói chuyện rất hài hước. Một trải nghiệm khó quên tại khu vui chơi dalat wonderland.
+{ENVIRONMENT#SCENERY, positive}, {EXPERIENCE#ACTIVITY, neutral}, {SERVICE#STAFF, positive}
+
+#128
+Tới khu vui chơi dalat wonderland một lần, mình thấy khu vui chơi tuyệt vời. nhân viên nhiệt tình, chụp ảnh siêu đẹp . sẽ quay lại lần sau
+{EXPERIENCE#ACTIVITY, positive}, {SERVICE#STAFF, positive}
+
+#129
+khu vui chơi dalat wonderland khiến mình cảm nhận công viên đẹp quá! đứa trẻ rất vui mừng. mặc dù thực tế là công viên vẫn đang được hoàn thiện nhưng bạn có thể tìm thấy việc gì đó để làm trong nửa ngày. một vườn thú nhỏ, trong đó có một vườn thú cưng. cưỡi ngựa, cưỡi thuyền, cưỡi atv, ô tô trẻ em và xe máy nước trẻ em. phòng chơi trẻ em. phòng tuyết có cầu trượt. một căn phòng sợ hãi và một căn phòng có trò chơi tương tác và rạp chiếu phim 6d. trong khuôn viên có một nhà hàng khách sạn và một quán cà phê trong toà nhà có phòng hoảng loạn. quán cà phê không đắt tiền, giá lên tới 80.00.
+{SERVICE#STAFF, neutral}, {ENVIRONMENT#SCENERY, positive}, {EXPERIENCE#ACTIVITY, neutral}, {PRICE, negative}, {ENVIRONMENT#ATMOSPHERE, neutral}
+
+#130
+Khi đến khu vui chơi dalat wonderland, mình cảm thấy các bạn cún xinh, ngựa đẹp, trải nghiệm đua xe địa hình thì các bạn nên chọn ngày nắng ráo vào mùa khô nha, có khu chơi game, bắn cung cũng khá thú vị.
+{EXPERIENCE#ACTIVITY, positive}
+
+#131
+Trong chuyến đi đến khu vui chơi dalat wonderland, mình thấy ok nha các anh nhiệt tình chơi vui.
+{SERVICE#STAFF, positive}, {EXPERIENCE#ACTIVITY, neutral}
+
+#132
+Sau khi ghé lạc hồng limousine - vp đà lạt, không nên đi hãng xe này, lúc đi từ sài gòn lên đà lạt xe rất tốt, tài xế rất dễ thương, nhiệt tình. nhưng khi đi từ đà lạt về là một trải nghiệm rất tệ, tôi đi chuyến 14h mà hãng xe hẹn hết lần này tới lần khác, gần 16h30 mà vẫn không có xe, đủ mọi lý do, gọi cho tài xế thì tài xế nói gọi tổng đài, đồng ý chuyển tiền lại cho khách nhưng không thấy, người gọi lại nói tài xế đang tới. khi làm căng lên thì nói sẽ trả lại một vé do mình đi ba người. khi lên xe thì xe cũ hơn xe lúc đi, có ghế đã bị rách..
+{SERVICE#STAFF, positive}, {LOCATION, positive}, {EXPERIENCE#ACTIVITY, negative}
+
+#133
+Tại khu vui chơi dalat wonderland, trải nghiệm tốt nhân viên nhiệt tình.
+{SERVICE#STAFF, positive}, {EXPERIENCE#ACTIVITY, neutral}
+
+#134
+Một dịp ghé lạc hồng limousine - vp đà lạt, mình thấy xe rất tệ , chạy từ đà lạt về sài gòn 4 tiếng tài xế lạng lách coi thường tính mạnh khách hàng . mình lỡ đặt vé chìu đi chìu về . dịch vụ rất rất tệ.
+{SERVICE#STAFF, negative}
+
+#135
+Đây là một review chân thực về khu vui chơi dalat wonderland: một ngày nọ, tôi đến hơi muộn và người phụ nữ ở quầy lễ tân nói rằng đã quá muộn để mua vé và lái xe mario kart, cùng với những việc khác. tôi đã cho cô ấy xem những bức ảnh trên mạng nếu tôi đến đúng nơi. sau đó tôi về nhà nghỉ ở di linh. hôm nay 27 3 25 mình về. đến địa điểm vào khoảng 11h30. nhưng bây giờ tôi không được vào vì tôi đã ngoài 50 13 3 25 tôi đã bước sang tuổi 50 và phải dưới 55kg. tại sao tôi không được nói điều này vào lần đầu tiên tôi vào quân đội? cô ấy trả lời rằng họ đã đóng cửa lần đầu tiên và không bắt buộc phải nói với tôi điều này. điều này quá tệ. đã đến đây hai lần và cả hai lần đều phải trả phí. dịch vụ khách hàng kém.
+{SERVICE#STAFF, negative}
+
+#136
+Lần đầu đến lạc hồng limousine - vp đà lạt, mình cảm nhận lừa đảo khách hàng, tài xế chạy lòng vòng, không linh động trong các trạm dừng chân, thay vì đi cao tốc tài xế chạy đg ngoài trả một số khách làm chậm thời gian tới bến của các khách còn lại, quản lý yếu kém
+{PRICE, negative}, {ENVIRONMENT#SCENERY, positive}
+
+#137
+Đã trải nghiệm tại săn mây panorama cầu đất, và mình thấy cảnh cũng bình thường, giá vé 60k 1 người, nhưng mọi thứ bán kèm thì cực đắt. 1 ly cà phê pha phin, pha sẵn 45k ở đây không có máy pha . mà cà phê cũng quá thường, có mùi bơ. 1 cây kem ở sài gòn 10k thì ở đây 35k. nếu bạn không là người sống ảo thì đừng nên đến
+{PRICE, negative}, {ENVIRONMENT#SCENERY, positive}, {EXPERIENCE#ACTIVITY, negative}
+
+#138
+Sau khi trải nghiệm ở khu vui chơi dalat wonderland, mình thấy các trò chơi không đúng với quảng cáo, lâu đài băng giá không hề có tuyết chỉ có cát trắng, đường trượt ngắn. với giá vé 0k thì không xứng đáng.
+{EXPERIENCE#ACTIVITY, neutral}, {PRICE, negative}
+
+#139
+120k cho 1 chỗ đỗ xe và 1 cái bánh bông lan trứng muối ăn không bõ dính răng. đã đi và không bao giờ trở lại nếu đi săn mây tiếp. highly recommend né giùm cái chỗ này. mấy anh lùa mình như lùa gà nhưng mà cứ kệ nha mọi người. Mình đã tới săn mây panorama cầu đất hôm đó.
+{PRICE, neutral}, {SERVICE#STAFF, neutral}
+
+#140
+Ở săn mây panorama cầu đất, mình cảm nhận rõ giá 1 người là 120k, vừa chạy tới là có người chặn lại thu tiền liền nếu quyết điịnh vào, giá vé bao gồm chụp hình 1 bánh bông lan sữa, riêng mình thấy cũng ổn, trước hôm mình đi có mưa nên mọi người đi xuống cầu thang cẩn thận rất trơn nhiều người té lắm luôn
+{PRICE, neutral}, {EXPERIENCE#ACTIVITY, neutral}
+
+#141
+nằm trên đồi cao bao bọc bởi hàng chè xanh mát, địa điểm tuyệt vời săn mây.. Đây là điều mình thấy tại săn mây panorama cầu đất.
+{PRICE, negative}
+
+#142
+Nếu bạn ghé khu vui chơi dalat wonderland, bạn sẽ thấy giá vé khoảng 0k free toàn bộ trò chơi. trượt phao không dành cho bé dưới 6t. xe địa hình bé nhỏ có nhân viên chở. cho nhiều bé thú nhỏ cho bé tham quan. có cỡi ngựa. cỡi đà điểu. đua chó. có nhà ma. nhà tuyết trong nhà tuyết có máng trượt cho bé..
+{PRICE, neutral}, {EXPERIENCE#ACTIVITY, neutral}, {SERVICE#STAFF, neutral}
+
+#143
+Tôi chọn khu vui chơi dalat wonderland để khám phá trong ngày. đây là trải nghiệm tuyệt vời mà tôi đã được hưởng. tôi được phép thử cây lần thay vì cây như cây khác..
+{EXPERIENCE#ACTIVITY, positive}
+
+#144
+Đây là một review chân thực về khu vui chơi dalat wonderland: ngoài view chụp đẹp ra thì không có gì đặc sắc:khuôn viên xung quanh villa cỏ mọc um tùm, có nhìu rác không được dọn. lái xe hơi cọc tính, không thân thiện, nghe nói là đội trưởng đội lái xe điện. phòng book view không giống hình trên agoda, book 2 phòng giống nhau nhưng 1 cái tầng trệt có ban công còn 1 cái tít lầu 2 sát mái hơi nóng và không có ban công. buffet sáng ít món, không ngon. khu vui chơi 240k 1 vé khá mắc nhưng không có gì đặc sắc lắm. không trở lại lần 2..
+{ENVIRONMENT#SCENERY, positive}, {ENVIRONMENT#ATMOSPHERE, neutral}, {SERVICE#STAFF, neutral}, {PRICE, negative}, {EXPERIENCE#ACTIVITY, neutral}
+
+#145
+Chuyến đi săn mây panorama cầu đất vừa rồi 1 khi mua vé quản lí nói gồm đồ ăn sáng và nước nhưng khi đổi vé thì nhân viên nói chỉ có đồ ăn còn nước thì phải mua . khi kêu quản lí ra thì ổng còn đòi kiểm tra camera là ông không nói vé có gồm nc và đồ ăn. còn nói tôi làm rất lâu năm không có chuyện nói nhầm không phải mình t gặp trường hợp này xem đánh giá cũng có người nói nha 2 điểm chụp hình thì cũng cũng. 3 khách thì đông mà không có chỗ đậu xe không đàng hoàng.gặp những ông tài xế lái ẩu xảy ra chuyện không hay .
+{SERVICE#STAFF, neutral}, {EXPERIENCE#ACTIVITY, neutral}
+
+#146
+Một lần ở lạc hồng limousine - vp đà lạt mua vé 14h tại đl, sáng bên nhà xe gọi xác nhận, hẹn tài xế sẽ gọi trước cho mình 20p. gia đình trả phòng là ngồi chờ. 2h không thấy, gọi tổng đài báo 14h15 xe đến. 14h15 không thấy xe, mình gọi lại thì báo 10p nữa tài xế gọi mình. 14h30 không thấy, mình gọi lại thì nói xe chưa về, kẹt xe, mình xin số tài xế thì bạn nhân viên:dạ, để em gửi người cúp máy cái rụp. tóm lại đón trễ nhưng không báo trước, khách gọi thì không được 1 câu xin lỗi, mình nói toẹt ra luôn, nhân viên vẫn chỉ: dạ chị thông cảm, chị cố gắng. tiền vé thì đắt nhất, thu hết tiền rồi nên nghĩ nắm đằng chuôi, khách phải chịu. định gửi email góp ý nhưng lên đánh giá thấy toàn 1 sao thì cũng biết văn hoá doanh nghiệp không có thái độ cầu thị tiếp thu rồi. nếu mình lên xem review từ đầu thì cũng né vội. lưu ý nữa cho các bạn ở quận 7 thì nên suy nghĩ khi lựa chọn hãng này, vì chiều hcm đl, bạn vinh hạnh được đón đầu tiên ở lotte mart người chở bạn đi cả vòng thành phố để đón các khách khác tận nhà , và chiều từ đl về thì bạn cũng sẽ có cơ hội đi thăm quan thành phố hcm, đưa từng khách về tận nhà và cuối cùng là bạn, điểm đến là lotte mart và tự kiếm xe về nhà
+{SERVICE#STAFF, negative}, {PRICE, negative}, {EXPERIENCE#ACTIVITY, neutral}
+
+#147
+Trong chuyến tham quan khu vui chơi dalat wonderland, mình cảm nhận với người hàn quốc: ôi chúa ơi. nếu bạn thích lãng phí tiền bạc hoặc chưa từng đến seoul land ở hàn quốc thì nên đến và tận hưởng nhé! rất khuyến khích! xin vui lòng đến!! nó có giá 0.00 đồng một người bạn có thể rẻ hơn nếu đặt trước trực tuyến . tuy nhiên, nếu bạn đi du lịch cùng một gia đình có trẻ nhỏ thì việc đến đó dành cho bọn trẻ là điều đáng giá. đây là changryeol, một chú chó tiết kiệm chi phí tiếng việt : với giá tiền 0k thì với mình không đáng. nếu bạn không biết phải làm gì thì hãy đi. đi xe địa chỉ chỉ được chơi 1 lần. tất cả csvc đều xuống cấp. game trong nhà phải trả tiền mới được chơi trong khi giá vé 0k? đó là một trò chơi thì nghèo nàn. tom lại, cặp đôi không nên tới nha! nghe theo tiktok chỉ miễn phí. tiếng anh: lãng phí tiền bạc và thời gian..
+{SERVICE#STAFF, neutral}, {PRICE, negative}, {EXPERIENCE#ACTIVITY, negative}
+
+#148
+Trong chuyến tham quan khu vui chơi dalat wonderland, mình cảm nhận có nhiều trò nhưng đã hơi cũ nên lên chơi rtv rồi lên lầu chơi hết rồi mới chơi xe trượt xuống rồi chơi các trò chơi khác sẽ tiện hơn.
+{EXPERIENCE#ACTIVITY, neutral}
+
+#149
+Sau khi ghé thăm lạc hồng limousine - vp đà lạt, tôi nhận ra rằng công ty gửi sai địa điểm đón chúng tôi ở đà lạt, suýt bỏ lỡ xe nhưng may mắn là người dân địa phương đã giúp chúng tôi đến được khi nó đang chạy đi. khi chúng tôi đến nha trang, tài xế không thả tôi xuống khách sạn mà thay vào đó tôi bị mắc kẹt ở phía bên kia thị trấn vì anh ta có những vị khách khác cần đón.
+{SERVICE#STAFF, neutral}, {PRICE, negative}
+
+#150
+Tên địa điểm: khu vui chơi dalat wonderland. Trải nghiệm: khu vui chơi thì ít trò , mưa xuống không ai quét dọn để dơ dáy , cầu thang đi lên khu em bé quá nguy hiểm , bán vé thì mắc màh không hỗ trợ em bé và người già đi xe điện lên ! quá tệ cho dịch vụ ở đây
+{PRICE, negative}, {SERVICE#STAFF, negative}, {EXPERIENCE#ACTIVITY, negative}
+
+#151
+Mình đã ghé khu vui chơi dalat wonderland và đây là nhận định: có hoạt động du thuyền khá thích thú.
+{EXPERIENCE#ACTIVITY, neutral}
+
+#152
+Một số nhận xét về khu vui chơi dalat wonderland: quá tệ. quảng cáo không đúng các khu trò chơi quá nhỏ
+{EXPERIENCE#ACTIVITY, neutral}
+
+#153
+vui nhân viên lịch sự nhiệt tìnhh. Tôi đã có trải nghiệm này ở khu vui chơi dalat wonderland.
+{SERVICE#STAFF, positive}
+
+#154
+dịch vụ nhiệt tình rất zuii rcm mọi người đi nha. Đây chính là trải nghiệm của mình tại khu vui chơi dalat wonderland.
+{SERVICE#STAFF, positive}
+
+#155
+Mình từng trải nghiệm ở khu vui chơi dalat wonderland và thấy chán lắm mọi người . ai có định đi thì khuyên thật . đồ ăn thì mắc
+{PRICE, negative}
+
+#156
+Quá trình sử dụng dịch vụ bến chèo thuyền kayak- sup, mình cảm thấy bình minh rất đẹp, tôi khuyên bạn nên bắt đầu hoạt động lúc 5 giờ sáng. kèm theo rượu.
+{ENVIRONMENT#SCENERY, positive}, {EXPERIENCE#ACTIVITY, neutral}
+
+#157
+Mình vừa thử săn mây panorama cầu đất và thấy mấy bạn phục vụ ở khu trượt phao và xe trượt cỏ dễ thương quá nhe. 10 đỉmm ạ.
+{SERVICE#STAFF, positive}
+
+#158
+vé vào 50k, cg nhiều chỗ để chụp ảnh. Đó chính là đồi mây đà lạt.
+{PRICE, neutral}, {EXPERIENCE#ACTIVITY, neutral}
+
+#159
+xe đẹp , nhân viên lái xe nhiệt tinh .. Trên là đánh giá cá nhân về tour đà lạt 247.
+{SERVICE#STAFF, neutral}
+
+#160
+Tại săn mây panorama cầu đất, mình thấy giá vé: 100 120k. bao gồm bữa sáng, đồ uống thì không. trừ khi bạn biết lộ trình đặt vé qua traveloka cho một chuyến đi ngắn với mức giá gấp 4 lần sẽ giúp bạn dễ dàng hơn, họ sẽ chở bạn đi 2 chiều và chỉ dẫn những thứ khác trên đường về. đề nghị của tôi: đừng bận tâm đến việc xếp hàng để ăn sáng trước khi mặt trời mọc, hãy đợi đến 60 khi mây tan và ăn bữa sáng sau đó. nơi này có tầm nhìn đẹp, nhưng trừ khi có những bức ảnh có thể instagram được thì bạn chỉ cần đi bộ xung quanh và thưởng thức phong cảnh. gió di chuyển những đám mây để cuối cùng bạn có thể đứng giữa một số bên ngoài. hãy đến đây vào tháng 1, hoa prunus cerasoides sẽ nở rộ và làm bạn choáng ngợp. nhưng nếu không thì các tháng khác vẫn có những biến thể khác của hoa xung quanh..
+{PRICE, neutral}, {ENVIRONMENT#SCENERY, positive}
+
+#161
+Sau khi nghỉ ở khu vui chơi dalat wonderland, mình thấy tôi đến nơi, nhân viên bảo vệ không cho tôi vào khu vực, sau đó tôi đến quầy lễ tân. ở đó, họ nói với tôi rằng đi bộ trong công viên chỉ dành cho cư dân khách sạn. nếu tôi hiểu lầm điều gì đó, thì có lẽ chủ khách sạn không thể truyền đạt thông tin chính xác và dễ hiểu. thật thất vọng.
+{SERVICE#STAFF, neutral}
+
+#162
+Sau khi trải nghiệm tại khu vui chơi dalat wonderland, mình thấy rất vui nhân viên nhiệt tình.
+{SERVICE#STAFF, positive}
+
+#163
+lạc hồng limousine - vp đà lạt là nơi mình thấy dịch vụ quá tệ nhà xe không có trách nhiệm tài xế chửi tục
+{SERVICE#STAFF, negative}
+
+#164
+có một trải nghiệm tốt, nhân viên siêu thân thiện và có trải nghiệm thật tuyệt. Và chỗ này là khu vui chơi dalat wonderland.
+{SERVICE#STAFF, positive}, {EXPERIENCE#ACTIVITY, neutral}
+
+#165
+Sự thật về khu vui chơi dalat wonderland: nhân viên nhiệt tình, thân thiện hỗ trợ đoàn tốt.
+{SERVICE#STAFF, positive}
+
+#166
+Lần đến khu vui chơi dalat wonderland, mình thấy với mức vé 320k mà được trải nghiệm các trò chơi từ thực tế ảo tới các trò chơi mạo hiểm ngoài trời là quá đã. nhân viên siêu nhiệt tình. mình đi một mình mà được chỉ dẫn nhiệt tình, được chụp hình cho. rất hài lòng. cảnh quan đẹp và thanh bình.
+{PRICE, neutral}, {EXPERIENCE#ACTIVITY, negative}, {SERVICE#STAFF, positive}, {ENVIRONMENT#SCENERY, positive}, {ENVIRONMENT#ATMOSPHERE, positive}
+
+#167
+view đổi núi săn mây tuyệt đẹp. anh chủ nhiệt tình, dễ tính nữa. lần đầu đi đà lạt gặp được anh chủ vừa dễ tính lại còn tốt bụng, chụp cho mình mấy kiểu ảnh săn mây cực đẹp luôn. một địa điểm nên đến nha mọi người. Và chỗ đó là đồi mây đà lạt.
+{ENVIRONMENT#SCENERY, positive}, {SERVICE#STAFF, positive}
+
+#168
+Sau khi ghé qua khu vui chơi dalat wonderland, mình thấy khá ít hoạt động vui chơi, vé vào theo cảm nhận cá nhân là quá mắc 0.00vnđ người . được mỗi trò lái xe và trượt thác là thú vị. trò lái xe chỉ được tham gia 1 lần, khá tiếc..
+{PRICE, negative}, {ENVIRONMENT#ATMOSPHERE, neutral}, {EXPERIENCE#ACTIVITY, neutral}
+
+#169
+Kỳ nghỉ ở khu vui chơi dalat wonderland khiến mình nhóm mình có đến chơi tại đây vào ngày 9 7 vừa rồi, nhân viên các trò chơi khác thì ok, riêng mỗi nhân viên bên khu nhà băng nviên nữ, đeo kính, đứng ở chỗ phát bọc để bọc giày lại dưới cầu thang rất thái độ với nhóm tụi mình, tụi mình đến nhà băng vào khoảng lúc đó 11h hơn và tụi mình không hề biết là phải bọc lại giày, nên b đó có kêu là bọc lại giày trước khi đi vào thì nhóm mình rất bình thường hỏi là lấy ở đâu ạ ? , bạn nữ đó lại đáp lại tụi mình lấy ở đây chứ đâu , tụi mình không biết rốt cuộc bạn nhân viên đó có vấn đề gì mà nói chuyện phải thái độ khó chịu như thế với tụi mình nếu b không khoẻ hay gì thì có thể nghỉ làm chứ đừng có nói giọng điệu như thế với khách, mong bên dlw chỉnh đốn lại bạn nhân viên đó
+{SERVICE#STAFF, negative}, {EXPERIENCE#ACTIVITY, neutral}
+
+#170
+Tại săn mây panorama cầu đất, tôi nhận thấy nơi chụp ảnh lưu niệm
+{EXPERIENCE#ACTIVITY, neutral}
+
+#171
+Tôi nghe nhiều người nhắc đến săn mây panorama cầu đất, nên tôi đã trải nghiệm thử. điểm sống ảo vào lúc bình minh trên đồi chè. cà phê ngon . không gian thiên nhiên kèm đồi núi mang lại cảm giác yên bình..
+{ENVIRONMENT#SCENERY, positive}, {EXPERIENCE#ACTIVITY, negative}, {ENVIRONMENT#ATMOSPHERE, positive}
+
